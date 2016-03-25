@@ -1,6 +1,7 @@
 'use strict';
 
 var xray = require('x-ray')();
+var Promise = require('promise');
 var fs = require('fs');
 var URL = "https://en.wikipedia.org/wiki/Lists_of_cities_by_country";
 
@@ -13,49 +14,67 @@ var URL = "https://en.wikipedia.org/wiki/Lists_of_cities_by_country";
 }
 */
 
-xray(URL, 'ul li b a:not([class])', [{
-    country: '',
-    _link: 'a@href' /* innerText is better than title (which lies) */
-}])(function(err, countryResponse) {
-  var transformCountryOperation = countryResponse.map(function(item) {
-    var country = item.country.split("in ")[1];
-    return {country: country};
-  });
-  fs.writeFile('countries.json', JSON.stringify(transformCountryOperation, null, " "));
-
-  // handle_name_city_links
-  xray(countryResponse._link, "table.wikitable.sortable.jquery-tablesorter thead tr th", [{
-    heading: ''
-  }])(function(err, cityResponse) {
-    console.log("INSIDE!");
+new Promise(function (resolve, reject) {
+  xray(URL, 'ul li b a:not([class])', [{
+      country: '',
+      link: '@href'
+  }])(function(err, countryResponse) {
     if (err) {
-      console.log("Oh snap! It failed " + err);
+      reject(err);
     }
-    cityResponse.findIndex(function(element, index, array) {
-      if (element.toLowerCase().search("city") !== -1 ||
-        element.toLowerCase().search("cities") !== -1 ||
-        element.toLowerCase().search("name") !== -1 ||
-        element.toLowerCase().search("community") !== -1 ||
-        element.toLowerCase().search("english") !== -1) {
-        /* TODO Error checking (index === -1) ! */
-        xray(countryResponse.link, 
-          "table.wikitable.sortable.jquery-tablesorter tbody tr td:nth-child(" + index + ")", [{
+    var transformCountryOperation = countryResponse.map(function(item) {
+      var country = item.country.split("in ")[1];
+      return {country: country, link: item.link};
+    });
+    // fs.writeFile('countries.json', JSON.stringify(transformCountryOperation, null, " "));
+    resolve(transformCountryOperation);
+  });
+}).then(function(countries) {
+  var getCountriesCityLinks = countries.map(function(item) {
+    xray(item.link, "table.wikitable th", [{
+        heading: ''
+    }])(function(err, countryPageTableHeadings) {
+      if (err) {
+        console.log("OH NO!");
+        reject(err);
+      }
+      var cityColumnIndex = countryPageTableHeadings.findIndex(function(element, index, array) {
+        if (element.heading.toLowerCase().search("name") !== -1 ||
+          element.heading.toLowerCase().search("city") !== -1 ||
+          element.heading.toLowerCase().search("cities") !== -1 ||
+          element.heading.toLowerCase().search("community") !== -1 ||
+          element.heading.toLowerCase().search("english") !== -1) {
+          return index;
+        }
+      });
+
+      var populationCensusDate = countryPageTableHeadings.find(function(element, index, array) {
+        return (element.heading.toLowerCase().search("pop") !== -1)
+      });
+
+      new Promise(function (resolve, reject) {
+        resolve({
+          country: item.country, 
+          link: item.link, 
+          cityColumnIndex: cityColumnIndex, 
+          populationCensusDate: populationCensusDate 
+        })
+      }).then(function(preCities) {
+        //fs.appendFile('countries_cityColumnIndex.json', JSON.stringify(preCities, null, " "));
+        if (preCities.cityColumnIndex !== -1) {
+          xray(preCities.link, "table.wikitable td:nth-child(" + preCities.cityColumnIndex + ") a:not([class])", [{
             city: '',
-            _link: 'a@href'
-          }])(function(err, specificCityResponse) {
-            if (err) {
-              console.log("Another failure!!");
-            }
-            fs.writeFile('cities.json', JSON.stringify(specificCityResponse, null, " "));
+            link: '@href'
+          }])(function(err, cities) {
+            console.log(cities);
           })
-      } 
+        }
+      })
+
     })
-
-
-    // Go to this page again with the links of cities now found
-    xray()
   })
-});
+})
+
 
 /*
 function cities_in_country_simpleList() {

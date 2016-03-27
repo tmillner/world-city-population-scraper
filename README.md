@@ -1,5 +1,5 @@
 Crawler on wikipedia to get all 'cities' population data
-Run `node scrape.js`
+The scripts need to be processed in order *Script is WIP*
 
 ### Alternative data sets
 - http://download.geonames.org/export/dump/

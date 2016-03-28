@@ -22,6 +22,7 @@ fs.readFile('1-countriesCityColumnIndex.json', function(err, data) {
     if (item.cityColumnIndex != -1) {
       xray(item.link, "table.wikitable tr", [{
         cityName: "td:nth-child(" + (item.cityColumnIndex+1) + ")",
+        cityLink: "a@href",
         population: "td:nth-child(" + (item.populationCensusDateColumnIndex+1) + ")"
       }])(function(err, cityPageCities) {
         if (err) {

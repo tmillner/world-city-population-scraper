@@ -5,11 +5,12 @@ var Promise = require('promise');
 var fs = require('fs');
 var OUTPUT_FILE = '2b-nonMatchingCities.json';
 
-fs.readFile('countries_cityColumnIndex.json', function(err, data) {
+fs.readFile('countriesCityColumnIndex.json', function(err, data) {
   var fileJson = JSON.parse(data);
 
   fileJson.map(function (item) {
     if (item.cityColumnIndex === -1) {
+
       // 62 total :(
       // STORED IN ul li RESULTS
       // https://en.wikipedia.org/wiki/List_of_cities_in_the_Marshall_Islands
@@ -41,10 +42,42 @@ fs.readFile('countries_cityColumnIndex.json', function(err, data) {
       // https://en.wikipedia.org/wiki/List_of_cities,_towns_and_villages_in_the_Maldives
       // document.querySelector('ul:nth-of-type(1) li')
       // https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Ethiopia
-      
+      // 
+      // https://en.wikipedia.org/wiki/List_of_places_in_Singapore
+      // document.querySelectorAll('div#mw-content-text > ul li')
+      // https://en.wikipedia.org/wiki/List_of_cities_in_Australia
+      // document.querySelectorAll('div.div-col.columns ul li')
+      // https://en.wikipedia.org/wiki/List_of_towns_and_villages_in_Kiribati
+      // document.querySelectorAll('ul:nth-of-type(1) li')
+      // https://en.wikipedia.org/wiki/List_of_cities_in_Saint_Lucia
+      // document.querySelectorAll('ul:nth-of-type(1) li')
+      // https://en.wikipedia.org/wiki/List_of_cities_in_Sierra_Leone
+      // document.querySelectorAll('ol:nth-of-type(1) li')
+      // https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Guyana
+      // document.querySelectorAll('div#mw-content-text > ul:nth-of-type(2) li')
+      // https://en.wikipedia.org/wiki/List_of_cities_in_Rwanda
+      // document.querySelectorAll('div#mw-content-text > ul:nth-of-type(1) li')
+      // https://en.wikipedia.org/wiki/List_of_cities_in_The_Gambia
+      // document.querySelectorAll('div#mw-content-text > ul:nth-of-type(1) li')
+      // https://en.wikipedia.org/wiki/List_of_cities_in_the_Comoros
+      // document.querySelectorAll('div#mw-content-text > p b')
+      // https://en.wikipedia.org/wiki/List_of_cities_in_Bahrain
+      // document.querySelectorAll('div#mw-content-text > ol:nth-of-type(1) li')
+      // https://en.wikipedia.org/wiki/List_of_cities_in_Seychelles
+      // document.querySelectorAll('div#mw-content-text > ul:nth-of-type(1) li')
+      // https://en.wikipedia.org/wiki/List_of_cities,_towns_and_villages_in_East_Timor
+      // document.querySelectorAll('div#mw-content-text > ul:nth-of-type(1) > li > a')
+      // https://en.wikipedia.org/wiki/List_of_towns_and_villages_in_Dominica
+      // document.querySelectorAll('div.column-count-3 > ul:nth-of-type(1) li')
+      // https://en.wikipedia.org/wiki/List_of_cities_in_Malawi
+      // document.querySelectorAll('div#mw-content-text > ul li')
+
 
       // TABLE WHICH IS HAS HEADERS NOT ON FIRST ROW 
       // https://en.wikipedia.org/wiki/List_of_cities_in_Guinea
+      // https://en.wikipedia.org/wiki/List_of_cities_in_Tanzania
+      // https://en.wikipedia.org/wiki/List_of_cities_in_Tajikistan
+      // https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Cabo_Verde
       // Parse first 4 rows to check for the things in 2, if match save the target and process
 
       // SPECIAL CASES
@@ -54,9 +87,10 @@ fs.readFile('countries_cityColumnIndex.json', function(err, data) {
       // go to https://en.wikipedia.org/wiki/List_of_largest_cities_in_Brazil then do normal 2
       //
 
-      xray(item.link, "table.wikitable tr", [{
-        cityName: "td:nth-child(" + (item.cityColumnIndex+1) + ")",
-        population: "td:nth-child(" + (item.populationCensusDateColumnIndex+1) + ")"
+      xray(item.link, 'ul li b a:not([class])', [{
+        cityName: "",
+        cityLink: "@href"
+        population: ""
       }])(function(err, cityPageCities) {
         if (err) {
           console.log("WHOOPS! Couldn't process " + item + " due to: " + err);

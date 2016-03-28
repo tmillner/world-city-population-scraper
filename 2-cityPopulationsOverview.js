@@ -5,7 +5,7 @@ var Promise = require('promise');
 var fs = require('fs');
 var OUTPUT_FILE = '2-cityPopulationsOverview.json';
 
-fs.readFile('countries_cityColumnIndex.json', function(err, data) {
+fs.readFile('1-countriesCityColumnIndex.json', function(err, data) {
   var fileJson = JSON.parse(data);
   fileJson.sort(function(a, b) {
     if (b.country > a.country) {
@@ -37,6 +37,11 @@ fs.readFile('countries_cityColumnIndex.json', function(err, data) {
         }
         fs.appendFile(OUTPUT_FILE, JSON.stringify(countryCity, null, " "));
       })
+    }
+    else {
+      // May want to get rid of this and let processing occur on smaller 
+      // file (1.json) via another step)
+      fs.appendFile(OUTPUT_FILE, JSON.stringify(item, null, " "));
     }
   });
 });

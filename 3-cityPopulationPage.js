@@ -14,17 +14,16 @@ fs.readFile('2b-nonMatchingCities.json', function(err, data) {
         cities.forEach(function(city) {
           var writeCitySet = {country: item.country}
           if (city.cityLink) {
-            xray(item.link, 'table.geography tr.mergedrow', [{
-              name: '',
-              data: 'td'
+            xray(city.cityLink, 'table.geography tr.mergedrow', [{
+              header: 'th:nth-of-type(1)',
+              data: 'td:nth-of-type(1)'
             }])(function(err, geoData) {
-              console.log('Geodata for city ' + city.cityLink + ' is ' + geoData)
               if (geoData) {
+                console.log('Geodata for city ' + city.cityLink + ' is ' + JSON.stringify(geoData));
                 var populationRow = geoData.find(function(element, index, array) {
-                  return (element.populationYear.match(/[0-9]{4}/g) || 
-                    element.header.toLowerCase().search("total") !== -1 ||
+                  return (element.header.toLowerCase().search("total") !== -1 ||
                     element.header.toLowerCase().search("city") !== -1 ||
-                    element.header.toLowerCase().search("total") !== -1);
+                    element.header.toLowerCase().search("population") !== -1);
                 });
                 if (populationRow) {
                   var header = element.header;

@@ -18,14 +18,15 @@ fs.readFile('1-countriesCityColumnIndex.json', function(err, data) {
   var fileJson = JSON.parse(data);
 
   fileJson.map(function (item) {
+    var countryCity = item;
+    countryCity.cities=[];
     if (item.cityColumnIndex === -1) {
       selectors.forEach(function(selector, i, arr) {
         xray(item.link, selectors[i] + ' a:not([class])', [{
           cityName: "",
           cityLink: "@href"
         }])(function(err, cityMap) {
-          var countryCity = item;
-          countryCity.possibleCities=[];
+
           if (err) {
             console.log("WHOOPS! Couldn't process " + item + " due to: " + err);
           }
@@ -33,7 +34,7 @@ fs.readFile('1-countriesCityColumnIndex.json', function(err, data) {
             console.log(item.country + ' - non compatible selector using ' + selector);
           }
           else {
-            countryCity.possibleCities.push(cityMap);
+            countryCity.cities.push(cityMap);
           }
           if (i === selectors.length-1) {
             fs.appendFile(OUTPUT_FILE, JSON.stringify(countryCity, null, " "));

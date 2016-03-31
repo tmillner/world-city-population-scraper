@@ -1,1183 +1,900 @@
-[{
- "country": "Ecuador",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Ecuador",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Grenada",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Grenada",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Gambia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_The_Gambia",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Antigua and Barbuda",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Antigua_and_Barbuda",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Dominica",
- "link": "https://en.wikipedia.org/wiki/List_of_towns_and_villages_in_Dominica",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Suriname",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Suriname",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Kyrgyzstan",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Kyrgyzstan",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Vanuatu",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Vanuatu",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Cape Verde",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Cabo_Verde",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "the Central African Republic",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Central_African_Republic",
- "cityColumnIndex": 1,
- "populationCensusDate": "2003",
- "populationCensusDateColumnIndex": 3
-},{
- "country": "Djibouti",
- "link": "https://en.wikipedia.org/wiki/List_of_localities_in_Djibouti",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Burundi",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Burundi",
- "cityColumnIndex": 1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
+{
  "country": "Belize",
  "link": "https://en.wikipedia.org/wiki/Districts_of_Belize",
  "cityColumnIndex": 1,
  "populationCensusDate": "2010",
  "populationCensusDateColumnIndex": 4
-},{
- "country": "East Timor (Timor-Leste)",
- "link": "https://en.wikipedia.org/wiki/List_of_cities,_towns_and_villages_in_East_Timor",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Lesotho",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Lesotho",
- "cityColumnIndex": 0,
- "populationCensusDate": "2005",
- "populationCensusDateColumnIndex": 7
-},{
- "country": "Cameroon",
- "link": "https://en.wikipedia.org/wiki/List_of_municipalities_of_Cameroon",
- "cityColumnIndex": 1,
- "populationCensusDate": "2012",
- "populationCensusDateColumnIndex": 2
-},{
- "country": "the Czech Republic",
- "link": "https://en.wikipedia.org/wiki/Statutory_city_(Czech_Republic)",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Cambodia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Cambodia",
- "cityColumnIndex": 1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Andorra",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Andorra",
- "cityColumnIndex": 1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Papua New Guinea",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Papua_New_Guinea",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "the Dominican Republic",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Dominican_Republic",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Palestinian Authority areas",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_administered_by_the_State_of_Palestine",
- "cityColumnIndex": 0,
- "populationCensusDate": "2015",
- "populationCensusDateColumnIndex": 5
-},{
- "country": "Afghanistan",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Afghanistan",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Sudan",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Sudan",
- "cityColumnIndex": 1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Jordan",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Jordan",
- "cityColumnIndex": 1,
- "populationCensusDate": "2004",
- "populationCensusDateColumnIndex": 4
-},{
- "country": "Gabon",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Gabon",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Indonesia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Indonesia",
- "cityColumnIndex": 1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Libya",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Libya",
- "cityColumnIndex": 1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Madagascar",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Madagascar",
- "cityColumnIndex": 0,
- "populationCensusDate": "2013",
- "populationCensusDateColumnIndex": 3
-},{
- "country": "Bhutan",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Bhutan",
- "cityColumnIndex": 1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Benin",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Benin",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Kuwait",
- "link": "https://en.wikipedia.org/wiki/Areas_of_Kuwait",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Denmark",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Denmark_by_population",
- "cityColumnIndex": 1,
- "populationCensusDate": "2010",
- "populationCensusDateColumnIndex": 2
-},{
- "country": "Belgium",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Belgium",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Paraguay",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Paraguay",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Nauru",
- "link": "https://en.wikipedia.org/wiki/List_of_settlements_in_Nauru",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Iraq",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Iraq",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "the United States",
- "link": "https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Bolivia",
- "link": "https://en.wikipedia.org/wiki/List_of_Bolivian_cities_by_population",
- "cityColumnIndex": 1,
- "populationCensusDate": "2012",
- "populationCensusDateColumnIndex": 3
-},{
- "country": "Panama",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Panama",
- "cityColumnIndex": 1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Kiribati",
- "link": "https://en.wikipedia.org/wiki/List_of_towns_and_villages_in_Kiribati",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "the United Arab Emirates",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_United_Arab_Emirates",
- "cityColumnIndex": 1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Bosnia and Herzegovina",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Bosnia_and_Herzegovina",
- "cityColumnIndex": 0,
- "populationCensusDate": "2013",
- "populationCensusDateColumnIndex": 5
-},{
- "country": "Algeria",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Algeria",
- "cityColumnIndex": 1,
- "populationCensusDate": "2008",
- "populationCensusDateColumnIndex": 4
-},{
- "country": "Myanmar",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Myanmar",
- "cityColumnIndex": 1,
- "populationCensusDate": "2014",
- "populationCensusDateColumnIndex": 4
-},{
- "country": "Uruguay",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Uruguay",
- "cityColumnIndex": 1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Australia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Australia",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Palau",
- "link": "https://en.wikipedia.org/wiki/List_of_cities,_towns,_and_villages_in_Palau",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Sweden",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Sweden",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Greece",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Greece",
- "cityColumnIndex": 1,
- "populationCensusDate": "2011",
- "populationCensusDateColumnIndex": 4
-},{
- "country": "Mongolia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Mongolia",
- "cityColumnIndex": 1,
- "populationCensusDate": "2010",
- "populationCensusDateColumnIndex": 3
-},{
- "country": "Barbados",
- "link": "https://en.wikipedia.org/wiki/List_of_cities,_towns_and_villages_in_Barbados",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Kazakhstan",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Kazakhstan",
- "cityColumnIndex": 1,
- "populationCensusDate": "2008",
- "populationCensusDateColumnIndex": 8
-},{
- "country": "Kosovo",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Kosovo",
- "cityColumnIndex": 0,
- "populationCensusDate": "2011",
- "populationCensusDateColumnIndex": 4
-},{
- "country": "Chad",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Chad",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Iran",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Iran",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Swaziland",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Swaziland",
- "cityColumnIndex": 1,
- "populationCensusDate": "2005",
- "populationCensusDateColumnIndex": 4
-},{
- "country": "Uzbekistan",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Uzbekistan",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Malawi",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Malawi",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Argentina",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Argentina",
- "cityColumnIndex": 1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Switzerland",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Switzerland",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Pakistan",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Pakistan",
- "cityColumnIndex": 1,
- "populationCensusDate": "2012",
- "populationCensusDateColumnIndex": 2
-},{
- "country": "Kenya",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Kenya",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Albania",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Albania",
- "cityColumnIndex": 1,
- "populationCensusDate": "2013",
- "populationCensusDateColumnIndex": 2
-},{
- "country": "Sri Lanka",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Sri_Lanka",
- "cityColumnIndex": 0,
- "populationCensusDate": "2012",
- "populationCensusDateColumnIndex": 6
-},{
- "country": "Morocco",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Morocco",
- "cityColumnIndex": 0,
- "populationCensusDate": "2014",
- "populationCensusDateColumnIndex": 1
-},{
- "country": "Liberia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Liberia",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Armenia",
- "link": "https://en.wikipedia.org/wiki/List_of_municipalities_of_Armenia",
- "cityColumnIndex": 0,
- "populationCensusDate": "2011",
- "populationCensusDateColumnIndex": 4
-},{
- "country": "Cyprus",
- "link": "https://en.wikipedia.org/wiki/List_of_cities,_towns_and_villages_in_Cyprus",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Chile",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Chile",
- "cityColumnIndex": 1,
- "populationCensusDate": "2002",
- "populationCensusDateColumnIndex": 2
-},{
- "country": "Namibia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Namibia",
- "cityColumnIndex": 0,
- "populationCensusDate": "2011",
- "populationCensusDateColumnIndex": 5
-},{
- "country": "Norway",
- "link": "https://en.wikipedia.org/wiki/List_of_towns_and_cities_in_Norway",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Guatemala",
- "link": "https://en.wikipedia.org/wiki/List_of_places_in_Guatemala",
- "cityColumnIndex": 1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Italy",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Italy",
- "cityColumnIndex": 0,
- "populationCensusDate": "2014",
- "populationCensusDateColumnIndex": 1
-},{
- "country": "Fiji",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Fiji",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Saint Lucia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Saint_Lucia",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Oman",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Oman",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Mozambique",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Mozambique",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Bahrain",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Bahrain",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "the Marshall Islands",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Marshall_Islands",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Tuvalu",
- "link": "https://en.wikipedia.org/wiki/List_of_villages_and_neighbourhoods_in_Tuvalu",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Brunei",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Brunei",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Saint Kitts and Nevis",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Saint_Kitts_and_Nevis",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Seychelles",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Seychelles",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Rwanda",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Rwanda",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Belarus",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Belarus",
- "cityColumnIndex": -1,
- "populationCensusDate": "2010",
- "populationCensusDateColumnIndex": 6
-},{
- "country": "Spain",
- "link": "https://en.wikipedia.org/wiki/List_of_municipalities_of_Spain",
- "cityColumnIndex": 0,
- "populationCensusDate": "2014",
- "populationCensusDateColumnIndex": 9
-},{
- "country": "Georgia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Georgia_(country)",
- "cityColumnIndex": 1,
- "populationCensusDate": "2012",
- "populationCensusDateColumnIndex": 6
-},{
- "country": "Burkina Faso",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Burkina_Faso",
- "cityColumnIndex": 0,
- "populationCensusDate": "2012",
- "populationCensusDateColumnIndex": 1
-},{
- "country": "Jamaica",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Jamaica",
- "cityColumnIndex": 0,
- "populationCensusDate": "1991",
- "populationCensusDateColumnIndex": 1
-},{
- "country": "Venezuela",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Venezuela",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Liechtenstein",
- "link": "https://en.wikipedia.org/wiki/Municipalities_of_Liechtenstein",
- "cityColumnIndex": 1,
- "populationCensusDate": "2014",
- "populationCensusDateColumnIndex": 2
-},{
- "country": "Ghana",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "the Bahamas",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Bahamas",
- "cityColumnIndex": 0,
- "populationCensusDate": "2009",
- "populationCensusDateColumnIndex": 3
-},{
- "country": "the Republic of the Congo",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_the_Congo",
- "cityColumnIndex": 1,
- "populationCensusDate": "2007",
- "populationCensusDateColumnIndex": 3
-},{
- "country": "Turkmenistan",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Turkmenistan",
- "cityColumnIndex": 1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Sierra Leone",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Sierra_Leone",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Yemen",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Yemen",
- "cityColumnIndex": 1,
- "populationCensusDate": "2005",
- "populationCensusDateColumnIndex": 7
-},{
- "country": "Zambia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Zambia",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Comoros",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Comoros",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Macedonia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_Macedonia",
- "cityColumnIndex": 1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Senegal",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Senegal",
- "cityColumnIndex": 0,
- "populationCensusDate": "2005",
- "populationCensusDateColumnIndex": 7
-},{
- "country": "the Solomon Islands",
- "link": "https://en.wikipedia.org/wiki/List_of_cities,_towns_and_villages_in_the_Solomon_Islands",
- "cityColumnIndex": 0,
- "populationCensusDate": "1999",
- "populationCensusDateColumnIndex": 2
-},{
- "country": "El Salvador",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_El_Salvador",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Côte d'Ivoire",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Ivory_Coast",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Guinea",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Equatorial Guinea",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Equatorial_Guinea",
- "cityColumnIndex": 0,
- "populationCensusDate": "2005",
- "populationCensusDateColumnIndex": 7
-},{
- "country": "Brazil",
- "link": "https://en.wikipedia.org/wiki/List_of_largest_cities_in_Brazil",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Northern Cyprus",
- "link": "https://en.wikipedia.org/wiki/List_of_populated_places_in_Northern_Cyprus",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Guyana",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Guyana",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Mauritania",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Mauritania",
- "cityColumnIndex": 0,
- "populationCensusDate": "2005",
- "populationCensusDateColumnIndex": 9
-},{
- "country": "Honduras",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Honduras",
- "cityColumnIndex": 1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
+}{
  "country": "Eritrea",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Eritrea",
  "cityColumnIndex": 0,
  "populationCensusDate": "2010",
  "populationCensusDateColumnIndex": 6
-},{
- "country": "Angola",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Angola",
+}{
+ "country": "Bhutan",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Bhutan",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "the Central African Republic",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Central_African_Republic",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2003",
+ "populationCensusDateColumnIndex": 3
+}{
+ "country": "Honduras",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Honduras",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Burkina Faso",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Burkina_Faso",
  "cityColumnIndex": 0,
- "populationCensusDate": "2009",
- "populationCensusDateColumnIndex": 2
-},{
- "country": "Singapore",
- "link": "https://en.wikipedia.org/wiki/List_of_places_in_Singapore",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Western Sahara",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Western_Sahara",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Maldives",
- "link": "https://en.wikipedia.org/wiki/List_of_cities,_towns_and_villages_in_the_Maldives",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Guinea-Bissau",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea-Bissau",
+ "populationCensusDate": "2012",
+ "populationCensusDateColumnIndex": 1
+}{
+ "country": "the Czech Republic",
+ "link": "https://en.wikipedia.org/wiki/Statutory_city_(Czech_Republic)",
  "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Swaziland",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Swaziland",
+ "cityColumnIndex": 1,
  "populationCensusDate": "2005",
- "populationCensusDateColumnIndex": 6
-},{
- "country": "Samoa",
- "link": "https://en.wikipedia.org/wiki/List_of_cities,_towns_and_villages_in_Samoa",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
+ "populationCensusDateColumnIndex": 4
+}{
  "country": "Togo",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Togo",
  "cityColumnIndex": 1,
  "populationCensusDate": "2005",
  "populationCensusDateColumnIndex": 3
-},{
- "country": "São Tomé and Príncipe",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
- "cityColumnIndex": -1,
+}{
+ "country": "Saint Kitts and Nevis",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Saint_Kitts_and_Nevis",
+ "cityColumnIndex": 0,
  "populationCensusDate": "",
  "populationCensusDateColumnIndex": ""
-},{
- "country": "Botswana",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Botswana",
+}{
+ "country": "Cambodia",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Cambodia",
  "cityColumnIndex": 1,
- "populationCensusDate": "2001",
- "populationCensusDateColumnIndex": 4
-},{
- "country": "North Korea",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_North_Korea",
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "the United Arab Emirates",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_United_Arab_Emirates",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Yemen",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Yemen",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2005",
+ "populationCensusDateColumnIndex": 7
+}{
+ "country": "Cameroon",
+ "link": "https://en.wikipedia.org/wiki/List_of_municipalities_of_Cameroon",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2012",
+ "populationCensusDateColumnIndex": 2
+}{
+ "country": "Senegal",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Senegal",
  "cityColumnIndex": 0,
- "populationCensusDate": "2008",
- "populationCensusDateColumnIndex": 9
-},{
- "country": "Mali",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Mali",
+ "populationCensusDate": "2005",
+ "populationCensusDateColumnIndex": 7
+}{
+ "country": "Burundi",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Burundi",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Andorra",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Andorra",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Iraq",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Iraq",
  "cityColumnIndex": 0,
- "populationCensusDate": "2009",
- "populationCensusDateColumnIndex": 5
-},{
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
  "country": "Uganda",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Uganda",
  "cityColumnIndex": 1,
  "populationCensusDate": "2014",
  "populationCensusDateColumnIndex": 2
-},{
- "country": "Tanzania",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Tanzania",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Tajikistan",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Tajikistan",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "San Marino",
- "link": "https://en.wikipedia.org/wiki/Municipalities_of_San_Marino",
- "cityColumnIndex": 0,
- "populationCensusDate": "2006",
- "populationCensusDateColumnIndex": 6
-},{
- "country": "Bangladesh",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Bangladesh",
- "cityColumnIndex": 1,
- "populationCensusDate": "2011",
- "populationCensusDateColumnIndex": 4
-},{
- "country": "Slovenia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Slovenia",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Nigeria",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Nigeria",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
+}{
  "country": "the Federated States of Micronesia",
  "link": "https://en.wikipedia.org/wiki/Administrative_divisions_of_the_Federated_States_of_Micronesia",
  "cityColumnIndex": -1,
  "populationCensusDate": "",
  "populationCensusDateColumnIndex": ""
-},{
- "country": "Somalia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Somalia",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Montenegro",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Montenegro",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Austria",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Austria",
- "cityColumnIndex": 1,
- "populationCensusDate": "2015",
- "populationCensusDateColumnIndex": 4
-},{
- "country": "Azerbaijan",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Azerbaijan",
- "cityColumnIndex": 2,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Israel",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Israel",
+}{
+ "country": "Papua New Guinea",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Papua_New_Guinea",
  "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "the Republic of the Congo",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_the_Congo",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2007",
+ "populationCensusDateColumnIndex": 3
+}{
+ "country": "Afghanistan",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Afghanistan",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Belgium",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Belgium",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Liechtenstein",
+ "link": "https://en.wikipedia.org/wiki/Municipalities_of_Liechtenstein",
+ "cityColumnIndex": 1,
  "populationCensusDate": "2014",
- "populationCensusDateColumnIndex": 4
-},{
- "country": "Egypt",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Egypt",
- "cityColumnIndex": 0,
- "populationCensusDate": "2010",
- "populationCensusDateColumnIndex": 4
-},{
- "country": "Ethiopia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Ethiopia",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Malaysia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Malaysia",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Laos",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Laos",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Syria",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Syria",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Cuba",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Cuba",
- "cityColumnIndex": 1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Niger",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Niger",
- "cityColumnIndex": 0,
- "populationCensusDate": "2001",
  "populationCensusDateColumnIndex": 2
-},{
- "country": "Malta",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Malta",
- "cityColumnIndex": 0,
- "populationCensusDate": "2014",
- "populationCensusDateColumnIndex": 5
-},{
+}{
+ "country": "Jordan",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Jordan",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2004",
+ "populationCensusDateColumnIndex": 4
+}{
  "country": "Peru",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Peru",
  "cityColumnIndex": 1,
  "populationCensusDate": "2007",
  "populationCensusDateColumnIndex": 5
-},{
- "country": "Slovakia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Slovakia",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Zimbabwe",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Zimbabwe",
- "cityColumnIndex": 0,
- "populationCensusDate": "2012",
- "populationCensusDateColumnIndex": 6
-},{
- "country": "Qatar",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Qatar",
- "cityColumnIndex": 0,
- "populationCensusDate": "2010",
- "populationCensusDateColumnIndex": 1
-},{
- "country": "Trinidad and Tobago",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Trinidad_and_Tobago",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Tunisia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Tunisia",
+}{
+ "country": "Bangladesh",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Bangladesh",
  "cityColumnIndex": 1,
- "populationCensusDate": "2014",
+ "populationCensusDate": "2011",
+ "populationCensusDateColumnIndex": 4
+}{
+ "country": "Ghana",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana",
+ "cityColumnIndex": -1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Indonesia",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Indonesia",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Albania",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Albania",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2013",
+ "populationCensusDateColumnIndex": 2
+}{
+ "country": "Equatorial Guinea",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Equatorial_Guinea",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2005",
  "populationCensusDateColumnIndex": 7
-},{
+}{
+ "country": "Turkmenistan",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Turkmenistan",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Pakistan",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Pakistan",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2012",
+ "populationCensusDateColumnIndex": 2
+}{
+ "country": "Laos",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Laos",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Kyrgyzstan",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Kyrgyzstan",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Algeria",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Algeria",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2008",
+ "populationCensusDateColumnIndex": 4
+}{
  "country": "Estonia",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Estonia",
  "cityColumnIndex": 1,
  "populationCensusDate": "2010",
  "populationCensusDateColumnIndex": 6
-},{
- "country": "Mauritius",
- "link": "https://en.wikipedia.org/wiki/List_of_places_in_Mauritius",
+}{
+ "country": "Cuba",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Cuba",
  "cityColumnIndex": 1,
- "populationCensusDate": "2011",
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Slovakia",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Slovakia",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Uruguay",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Uruguay",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Libya",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Libya",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Madagascar",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Madagascar",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2013",
  "populationCensusDateColumnIndex": 3
-},{
- "country": "Vietnam",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Vietnam",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Saint Vincent and the Grenadines",
- "link": "https://en.wikipedia.org/wiki/List_of_cities,_towns_and_villages_in_Saint_Vincent_and_the_Grenadines",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "South Korea (Republic of)",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_South_Korea",
- "cityColumnIndex": 0,
- "populationCensusDate": "2012",
- "populationCensusDateColumnIndex": 9
-},{
- "country": "Haiti",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Haiti",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Finland",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Finland",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Nicaragua",
- "link": "https://en.wikipedia.org/wiki/Municipalities_of_Nicaragua",
+}{
+ "country": "Kazakhstan",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Kazakhstan",
  "cityColumnIndex": 1,
- "populationCensusDate": "2005",
- "populationCensusDateColumnIndex": 3
-},{
- "country": "Lithuania",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Lithuania",
- "cityColumnIndex": 2,
- "populationCensusDate": "2014",
- "populationCensusDateColumnIndex": 5
-},{
- "country": "Moldova",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Moldova",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Nepal",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Nepal",
- "cityColumnIndex": 1,
- "populationCensusDate": "2011",
- "populationCensusDateColumnIndex": 4
-},{
- "country": "Saudi Arabia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Saudi_Arabia",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
+ "populationCensusDate": "2008",
+ "populationCensusDateColumnIndex": 8
+}{
  "country": "Iceland",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Iceland",
  "cityColumnIndex": 1,
  "populationCensusDate": "",
  "populationCensusDateColumnIndex": ""
-},{
+}{
+ "country": "North Korea",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_North_Korea",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2008",
+ "populationCensusDateColumnIndex": 9
+}{
+ "country": "Zimbabwe",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Zimbabwe",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2012",
+ "populationCensusDateColumnIndex": 6
+}{
+ "country": "Saudi Arabia",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Saudi_Arabia",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "South Korea (Republic of)",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_South_Korea",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2012",
+ "populationCensusDateColumnIndex": 9
+}{
+ "country": "Sweden",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Sweden",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Kuwait",
+ "link": "https://en.wikipedia.org/wiki/Areas_of_Kuwait",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Palestinian Authority areas",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_administered_by_the_State_of_Palestine",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2015",
+ "populationCensusDateColumnIndex": 5
+}{
+ "country": "Austria",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Austria",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2015",
+ "populationCensusDateColumnIndex": 4
+}{
+ "country": "Greece",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Greece",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2011",
+ "populationCensusDateColumnIndex": 4
+}{
+ "country": "Georgia",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Georgia_(country)",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2012",
+ "populationCensusDateColumnIndex": 6
+}{
+ "country": "Nicaragua",
+ "link": "https://en.wikipedia.org/wiki/Municipalities_of_Nicaragua",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2005",
+ "populationCensusDateColumnIndex": 3
+}{
+ "country": "Morocco",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Morocco",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2014",
+ "populationCensusDateColumnIndex": 1
+}{
+ "country": "Norway",
+ "link": "https://en.wikipedia.org/wiki/List_of_towns_and_cities_in_Norway",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Qatar",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Qatar",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2010",
+ "populationCensusDateColumnIndex": 1
+}{
  "country": "New Zealand",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_in_New_Zealand",
  "cityColumnIndex": 7,
  "populationCensusDate": "",
  "populationCensusDateColumnIndex": ""
-},{
- "country": "Ireland",
- "link": "https://en.wikipedia.org/wiki/City_status_in_Ireland#List",
+}{
+ "country": "Tunisia",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Tunisia",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2014",
+ "populationCensusDateColumnIndex": 7
+}{
+ "country": "Cyprus",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities,_towns_and_villages_in_Cyprus",
  "cityColumnIndex": 0,
  "populationCensusDate": "",
  "populationCensusDateColumnIndex": ""
-},{
+}{
+ "country": "Lesotho",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Lesotho",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2005",
+ "populationCensusDateColumnIndex": 7
+}{
  "country": "Serbia",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Serbia",
  "cityColumnIndex": 0,
  "populationCensusDate": "2011",
  "populationCensusDateColumnIndex": 1
-},{
- "country": "Lebanon",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Lebanon",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Croatia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Croatia",
+}{
+ "country": "Armenia",
+ "link": "https://en.wikipedia.org/wiki/List_of_municipalities_of_Armenia",
  "cityColumnIndex": 0,
  "populationCensusDate": "2011",
  "populationCensusDateColumnIndex": 4
-},{
- "country": "Thailand",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Thailand",
- "cityColumnIndex": 1,
- "populationCensusDate": "2015",
+}{
+ "country": "Sri Lanka",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Sri_Lanka",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2012",
+ "populationCensusDateColumnIndex": 6
+}{
+ "country": "Kosovo",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Kosovo",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2011",
  "populationCensusDateColumnIndex": 4
-},{
- "country": "Germany",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Germany",
- "cityColumnIndex": -1,
+}{
+ "country": "Niger",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Niger",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2001",
+ "populationCensusDateColumnIndex": 2
+}{
+ "country": "Panama",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Panama",
+ "cityColumnIndex": 1,
  "populationCensusDate": "",
  "populationCensusDateColumnIndex": ""
-},{
+}{
+ "country": "Sudan",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Sudan",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Guinea-Bissau",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea-Bissau",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2005",
+ "populationCensusDateColumnIndex": 6
+}{
  "country": "Hungary",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Hungary",
  "cityColumnIndex": 0,
  "populationCensusDate": "2013",
  "populationCensusDateColumnIndex": 3
-},{
- "country": "the United Kingdom",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_United_Kingdom",
+}{
+ "country": "Thailand",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Thailand",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2015",
+ "populationCensusDateColumnIndex": 4
+}{
+ "country": "the Bahamas",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Bahamas",
  "cityColumnIndex": 0,
- "populationCensusDate": "1888",
+ "populationCensusDate": "2009",
+ "populationCensusDateColumnIndex": 3
+}{
+ "country": "Nauru",
+ "link": "https://en.wikipedia.org/wiki/List_of_settlements_in_Nauru",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Djibouti",
+ "link": "https://en.wikipedia.org/wiki/List_of_localities_in_Djibouti",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "the Solomon Islands",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities,_towns_and_villages_in_the_Solomon_Islands",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "1999",
  "populationCensusDateColumnIndex": 2
-},{
- "country": "Latvia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Latvia",
+}{
+ "country": "Namibia",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Namibia",
  "cityColumnIndex": 0,
  "populationCensusDate": "2011",
- "populationCensusDateColumnIndex": 1
-},{
+ "populationCensusDateColumnIndex": 5
+}{
+ "country": "Mauritania",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Mauritania",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2005",
+ "populationCensusDateColumnIndex": 9
+}{
+ "country": "San Marino",
+ "link": "https://en.wikipedia.org/wiki/Municipalities_of_San_Marino",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2006",
+ "populationCensusDateColumnIndex": 6
+}{
+ "country": "Belarus",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Belarus",
+ "cityColumnIndex": -1,
+ "populationCensusDate": "2010",
+ "populationCensusDateColumnIndex": 6
+}{
+ "country": "Mongolia",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Mongolia",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2010",
+ "populationCensusDateColumnIndex": 3
+}{
+ "country": "Mali",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Mali",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2009",
+ "populationCensusDateColumnIndex": 5
+}{
+ "country": "Spain",
+ "link": "https://en.wikipedia.org/wiki/List_of_municipalities_of_Spain",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2014",
+ "populationCensusDateColumnIndex": 9
+}{
+ "country": "Nepal",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Nepal",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2011",
+ "populationCensusDateColumnIndex": 4
+}{
+ "country": "Egypt",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Egypt",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2010",
+ "populationCensusDateColumnIndex": 4
+}{
+ "country": "Botswana",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Botswana",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2001",
+ "populationCensusDateColumnIndex": 4
+}{
+ "country": "Denmark",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Denmark_by_population",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2010",
+ "populationCensusDateColumnIndex": 2
+}{
+ "country": "Malta",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Malta",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2014",
+ "populationCensusDateColumnIndex": 5
+}{
+ "country": "Macedonia",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_Macedonia",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
  "country": "Portugal",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Portugal",
  "cityColumnIndex": 1,
  "populationCensusDate": "",
  "populationCensusDateColumnIndex": ""
-},{
+}{
+ "country": "Mauritius",
+ "link": "https://en.wikipedia.org/wiki/List_of_places_in_Mauritius",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2011",
+ "populationCensusDateColumnIndex": 3
+}{
+ "country": "Azerbaijan",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Azerbaijan",
+ "cityColumnIndex": 2,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Guatemala",
+ "link": "https://en.wikipedia.org/wiki/List_of_places_in_Guatemala",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Vietnam",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Vietnam",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Lithuania",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Lithuania",
+ "cityColumnIndex": 2,
+ "populationCensusDate": "2014",
+ "populationCensusDateColumnIndex": 5
+}{
  "country": "the Democratic Republic of the Congo",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Democratic_Republic_of_the_Congo",
  "cityColumnIndex": 0,
  "populationCensusDate": "2010",
  "populationCensusDateColumnIndex": 1
-},{
- "country": "Taiwan",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Taiwan",
+}{
+ "country": "Bosnia and Herzegovina",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Bosnia_and_Herzegovina",
  "cityColumnIndex": 0,
- "populationCensusDate": "2014",
- "populationCensusDateColumnIndex": 10
-},{
- "country": "Japan",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Japan",
+ "populationCensusDate": "2013",
+ "populationCensusDateColumnIndex": 5
+}{
+ "country": "Bolivia",
+ "link": "https://en.wikipedia.org/wiki/List_of_Bolivian_cities_by_population",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2012",
+ "populationCensusDateColumnIndex": 3
+}{
+ "country": "Slovenia",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Slovenia",
  "cityColumnIndex": 0,
  "populationCensusDate": "",
  "populationCensusDateColumnIndex": ""
-},{
- "country": "India",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_India_by_population",
+}{
+ "country": "Cape Verde",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Cabo_Verde",
  "cityColumnIndex": 1,
- "populationCensusDate": "2011",
- "populationCensusDateColumnIndex": 2
-},{
- "country": "South Africa",
- "link": "https://en.wikipedia.org/wiki/List_of_municipalities_in_South_Africa",
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Angola",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Angola",
  "cityColumnIndex": 0,
- "populationCensusDate": "2011",
- "populationCensusDateColumnIndex": 5
-},{
- "country": "Poland",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Poland",
+ "populationCensusDate": "2009",
+ "populationCensusDateColumnIndex": 2
+}{
+ "country": "Ireland",
+ "link": "https://en.wikipedia.org/wiki/City_status_in_Ireland#List",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Finland",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Finland",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Haiti",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Haiti",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Myanmar",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Myanmar",
  "cityColumnIndex": 1,
- "populationCensusDate": "2007",
- "populationCensusDateColumnIndex": 0
-},{
- "country": "Romania",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Romania",
+ "populationCensusDate": "2014",
+ "populationCensusDateColumnIndex": 4
+}{
+ "country": "Saint Vincent and the Grenadines",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities,_towns_and_villages_in_Saint_Vincent_and_the_Grenadines",
  "cityColumnIndex": 0,
- "populationCensusDate": "2011",
- "populationCensusDateColumnIndex": 2
-},{
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Trinidad and Tobago",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Trinidad_and_Tobago",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
  "country": "France",
  "link": "https://en.wikipedia.org/wiki/List_of_communes_in_France_with_over_20,000_inhabitants",
  "cityColumnIndex": 0,
  "populationCensusDate": "2013",
  "populationCensusDateColumnIndex": 3
-},{
+}{
+ "country": "Venezuela",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Venezuela",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Chile",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Chile",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2002",
+ "populationCensusDateColumnIndex": 2
+}{
+ "country": "Brazil",
+ "link": "https://en.wikipedia.org/wiki/List_of_largest_cities_in_Brazil",
+ "cityColumnIndex": 3,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Syria",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Syria",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
  "country": "Turkey",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Turkey",
  "cityColumnIndex": 1,
  "populationCensusDate": "2009",
  "populationCensusDateColumnIndex": 6
-},{
- "country": "Bulgaria",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Bulgaria",
- "cityColumnIndex": -1,
+}{
+ "country": "Poland",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Poland",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2007",
+ "populationCensusDateColumnIndex": 0
+}{
+ "country": "Argentina",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Argentina",
+ "cityColumnIndex": 1,
  "populationCensusDate": "",
  "populationCensusDateColumnIndex": ""
-},{
+}{
+ "country": "Romania",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Romania",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2011",
+ "populationCensusDateColumnIndex": 2
+}{
+ "country": "Croatia",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Croatia",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2011",
+ "populationCensusDateColumnIndex": 4
+}{
+ "country": "Italy",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Italy",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2014",
+ "populationCensusDateColumnIndex": 1
+}{
+ "country": "Switzerland",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Switzerland",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Lebanon",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Lebanon",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
  "country": "Mexico",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Mexico",
  "cityColumnIndex": 1,
  "populationCensusDate": "2010",
  "populationCensusDateColumnIndex": 2
-},{
+}{
+ "country": "India",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_India_by_population",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2011",
+ "populationCensusDateColumnIndex": 2
+}{
+ "country": "Latvia",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Latvia",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2011",
+ "populationCensusDateColumnIndex": 1
+}{
+ "country": "Israel",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Israel",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2014",
+ "populationCensusDateColumnIndex": 4
+}{
+ "country": "Zambia",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Zambia",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
  "country": "Ukraine",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Ukraine",
  "cityColumnIndex": 0,
  "populationCensusDate": "2001",
  "populationCensusDateColumnIndex": 4
-},{
+}{
+ "country": "Jamaica",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Jamaica",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "1991",
+ "populationCensusDateColumnIndex": 1
+}{
+ "country": "Guinea",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Gabon",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Gabon",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Montenegro",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Montenegro",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2003",
+ "populationCensusDateColumnIndex": 2
+}{
+ "country": "Taiwan",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Taiwan",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2014",
+ "populationCensusDateColumnIndex": 10
+}{
+ "country": "the United Kingdom",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_United_Kingdom",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "1888",
+ "populationCensusDateColumnIndex": 2
+}{
+ "country": "South Africa",
+ "link": "https://en.wikipedia.org/wiki/List_of_municipalities_in_South_Africa",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "2011",
+ "populationCensusDateColumnIndex": 5
+}{
+ "country": "Moldova",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Moldova",
+ "cityColumnIndex": 2,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Tajikistan",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Tajikistan",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "Tanzania",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Tanzania",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
  "country": "Colombia",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Colombia",
  "cityColumnIndex": 1,
  "populationCensusDate": "",
  "populationCensusDateColumnIndex": ""
-},{
- "country": "Tonga",
- "link": "https://en.wikipedia.org/wiki/List_of_islands_and_towns_in_Tonga",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
- "country": "Canada",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Canada",
- "cityColumnIndex": 3,
- "populationCensusDate": "7006",
- "populationCensusDateColumnIndex": 13
-},{
+}{
  "country": "South Ossetia",
  "link": "https://en.wikipedia.org/wiki/South_Ossetia#Economy",
  "cityColumnIndex": 0,
  "populationCensusDate": "2012",
  "populationCensusDateColumnIndex": 8
-},{
+}{
  "country": "Russia",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Russia",
  "cityColumnIndex": 0,
  "populationCensusDate": "",
  "populationCensusDateColumnIndex": ""
-},{
- "country": "China",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_China",
+}{
+ "country": "Japan",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Japan",
  "cityColumnIndex": 0,
  "populationCensusDate": "",
  "populationCensusDateColumnIndex": ""
-},{
- "country": "Monaco",
- "link": "https://en.wikipedia.org/wiki/Monaco#Administrative_divisions",
- "cityColumnIndex": 4,
- "populationCensusDate": "2008",
- "populationCensusDateColumnIndex": 2
-},{
- "country": "the Netherlands",
- "link": "https://en.wikipedia.org/wiki/List_of_municipalities_of_the_Netherlands",
- "cityColumnIndex": 0,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": ""
-},{
+}{
+ "country": "Canada",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Canada",
+ "cityColumnIndex": 3,
+ "populationCensusDate": "7006",
+ "populationCensusDateColumnIndex": 13
+}{
  "country": "the Philippines",
  "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Philippines",
  "cityColumnIndex": 0,
  "populationCensusDate": "2010",
  "populationCensusDateColumnIndex": 3
-},{
+}{
+ "country": "China",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_China",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "the Netherlands",
+ "link": "https://en.wikipedia.org/wiki/List_of_municipalities_of_the_Netherlands",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "link": "https://en.wikipedia.org/wiki/Vatican_City",
+ "cityColumnIndex": 0,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": ""
+}{
+ "country": "the United States",
+ "link": "https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population",
+ "cityColumnIndex": 1,
+ "populationCensusDate": "2014",
+ "populationCensusDateColumnIndex": 0
+}{
+ "country": "Bulgaria",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Bulgaria",
+ "cityColumnIndex": 2,
+ "populationCensusDate": "2011",
+ "populationCensusDateColumnIndex": 7
+}{
  "country": "Transnistria",
  "link": "https://en.wikipedia.org/wiki/Transnistria#Economy",
  "cityColumnIndex": 0,
  "populationCensusDate": "2004",
  "populationCensusDateColumnIndex": 2
-}]
+}{
+ "country": "Monaco",
+ "link": "https://en.wikipedia.org/wiki/Monaco#Administrative_divisions",
+ "cityColumnIndex": 4,
+ "populationCensusDate": "2008",
+ "populationCensusDateColumnIndex": 2
+}

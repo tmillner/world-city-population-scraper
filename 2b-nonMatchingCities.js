@@ -44,17 +44,3 @@ fs.readFile('1-countriesCityColumnIndex.json', function(err, data) {
     }
   });
 });
-
-
-// TABLE WHICH IS HAS HEADERS NOT ON FIRST ROW 
-// https://en.wikipedia.org/wiki/List_of_cities_in_Guinea
-// https://en.wikipedia.org/wiki/List_of_cities_in_Tanzania
-// https://en.wikipedia.org/wiki/List_of_cities_in_Tajikistan
-// https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Cabo_Verde
-// https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Bulgaria
-// Parse first 4 rows to check for the things in 2, if match save the target and process
-// SPECIAL CASES
-// https://en.wikipedia.org/wiki/List_of_cities_in_the_United_States
-// go to https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population then do normal 2
-// https://en.wikipedia.org/wiki/Municipalities_of_Brazil
-// go to https://en.wikipedia.org/wiki/List_of_largest_cities_in_Brazil then do normal 2

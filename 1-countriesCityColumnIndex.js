@@ -15,19 +15,24 @@ new Promise(function (resolve, reject) {
     }
     var transformCountryOperation = countryResponse.map(function(item) {
       var country = item.country.split("in ")[1];
-      return {country: country, link: item.link};
+      var link = item.link
+      // For a few exceptions, reformat the cities link to go to a page with real results
+      switch (country) {
+        case "the United States":
+          link = "https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population";
+          break;
+        case "Brazil":
+          link = "https://en.wikipedia.org/wiki/List_of_largest_cities_in_Brazil";
+          break;
+      }
+      return {country: country, link: link};
     });
     resolve(transformCountryOperation);
   });
 }).then(function(countries) {
   var getCountriesCityLinks = countries.map(function(item) {
-    xray(item.link, "table.wikitable th", [{
-        heading: ''
-    }])(function(err, countryPageTableHeadings) {
-      if (err) {
-        console.log("OH NO! " + err);
-      }
-      var cityColumnIndex = countryPageTableHeadings.findIndex(function(element, index, array) {
+    function saveRecord(resultMap) {
+      var cityColumnIndex = resultMap.findIndex(function(element, index, array) {
         return (element.heading.toLowerCase().search("name") !== -1 ||
           element.heading.toLowerCase().search("city") !== -1 ||
           element.heading.toLowerCase().search("cities") !== -1 ||
@@ -39,7 +44,7 @@ new Promise(function (resolve, reject) {
           element.heading.toLowerCase().search("municipality") !== -1 /* san marino */);
       });
 
-      var populationCensusString = countryPageTableHeadings.reduce(function(prev, curr, index, array) {
+      var populationCensusString = resultMap.reduce(function(prev, curr, index, array) {
         var foundNew = false;
         if (curr.heading.toLowerCase().search("pop") !== -1 || 
           curr.heading.toLowerCase().search("est") !== -1 ||
@@ -56,15 +61,6 @@ new Promise(function (resolve, reject) {
       }, {"year":"", column:""});
 
       new Promise(function (resolve, reject) {
-        // For a few exceptions, reformat the cities link to go to a page with real results
-        switch (item.country.toLowerCase()) {
-          case ("the united states"):
-            item.link = "https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population";
-            break;
-          case ("brazil"):
-            item.link = "https://en.wikipedia.org/wiki/List_of_largest_cities_in_Brazil";
-            break;
-        }
         resolve({
           country: item.country,
           link: item.link,
@@ -75,6 +71,43 @@ new Promise(function (resolve, reject) {
       }).then(function(preCities) {
         fs.appendFile('1-countriesCityColumnIndex.json', JSON.stringify(preCities, null, " "));
       })
+    }
+
+    xray(item.link, "table.wikitable th", [{
+        heading: ''
+    }])(function(err, countryPageTableHeadings) {
+      if (err) {
+        console.log("OH NO! " + err);
+      }
+      if (countryPageTableHeadings.length < 1){
+        xray(item.link, "table.wikitable", [{
+            row1: xray('tr:nth-of-type(1) td', [{heading:''}]),
+            row2: xray('tr:nth-of-type(2) td', [{heading:''}]),
+            row3: xray('tr:nth-of-type(3) td', [{heading:''}])
+        }])(function(err, countryPageTableTopRows) {
+          if (err) {
+            console.log("Another failure >:-0! " + err);
+          }
+          for(var key in countryPageTableTopRows[0]) {
+            var match = countryPageTableTopRows[0][key].find(function(element, index, array) {
+            return (element.heading.toLowerCase().search("name") !== -1 ||
+              element.heading.toLowerCase().search("city") !== -1 ||
+              element.heading.toLowerCase().search("community") !== -1 ||
+              element.heading.toLowerCase().search("town") !== -1 /* sweden */ ||
+              element.heading.toLowerCase().search("municipality") !== -1 /* san marino */);
+            })
+            if ((!countryPageTableHeadings || countryPageTableHeadings.length < 1) && match){
+              countryPageTableHeadings = countryPageTableTopRows[0][key];
+              console.log(countryPageTableHeadings);
+              saveRecord(countryPageTableHeadings); // Needed (but causes dup entry)
+              return;
+            }
+          }
+        })
+      }
+      else {
+        saveRecord(countryPageTableHeadings);
+      }
     })
   })
 })

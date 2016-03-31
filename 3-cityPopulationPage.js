@@ -12,7 +12,7 @@ fs.readFile('2b-nonMatchingCities.json', function(err, data) {
     if (item.cities) {
       item.cities.forEach(function(cities) {
         cities.forEach(function(city) {
-          var writeCitySet = {country: item.country}
+          var writeCitySet = {country: item.country, cityLink: city.cityLink || ""}
           if (city.cityLink) {
             xray(city.cityLink, 'table.geography tr.mergedrow', [{
               header: 'th:nth-of-type(1)',
@@ -21,13 +21,15 @@ fs.readFile('2b-nonMatchingCities.json', function(err, data) {
               if (geoData) {
                 console.log('Geodata for city ' + city.cityLink + ' is ' + JSON.stringify(geoData));
                 var populationRow = geoData.find(function(element, index, array) {
-                  return (element.header.toLowerCase().search("total") !== -1 ||
+                  return ((element.header.toLowerCase().search("total") !== -1 ||
                     element.header.toLowerCase().search("city") !== -1 ||
-                    element.header.toLowerCase().search("population") !== -1);
+                    element.header.toLowerCase().search("population") !== -1) &&
+                    element.data.match(/^[0-9\s,]+$/g));
                 });
-                if (populationRow) {
-                  var header = element.header;
-                  var data = element.data;
+                console.log('populationRow check ' + JSON.stringify(populationRow));
+                if (populationRow !== undefined) {
+                  var header = populationRow.header;
+                  var data = populationRow.data;
                   writeCitySet.population = data.replace(/[^0-9\s,]/, "");
                   fs.appendFile(OUTPUT_FILE, JSON.stringify(writeCitySet, null, " "));
                 }

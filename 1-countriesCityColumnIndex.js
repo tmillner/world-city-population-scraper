@@ -56,6 +56,15 @@ new Promise(function (resolve, reject) {
       }, {"year":"", column:""});
 
       new Promise(function (resolve, reject) {
+        // For a few exceptions, reformat the cities link to go to a page with real results
+        switch (item.country.toLowerCase()) {
+          case ("the united states"):
+            item.link = "https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population";
+            break;
+          case ("brazil"):
+            item.link = "https://en.wikipedia.org/wiki/List_of_largest_cities_in_Brazil";
+            break;
+        }
         resolve({
           country: item.country,
           link: item.link,

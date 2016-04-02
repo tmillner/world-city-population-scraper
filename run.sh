@@ -35,4 +35,14 @@ sed -i '.bak' 's/}{/},{/g' ./$output2b
 echo "File $input2b complete."
 
 # Run File 3 wait for output
+input3="3-cityPopulationPage"
+output3="$input3"on
+if [ -a "$output3" ]; then
+  rm "$output3"
+fi
+node "$input3" "$input2b"
+node "$input3" "$input2" # < May take a while
+echo "File $input2b complete."
+
+
 # Run consolidate

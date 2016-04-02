@@ -1,874 +1,144 @@
 [{
- "country": "the Marshall Islands",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Marshall_Islands",
- "cityColumnIndex": -1,
- "populationCensusDate": "1999",
- "populationCensusDateColumnIndex": "",
- "cities": [
-  [
-     {
-   "cityName": "Auki",
-   "population": "4,022"
-  },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Oceania_topic"
-   },
-   {
-    "cityName": "Australia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Australia"
-   },
-   {
-    "cityName": "New Zealand",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_New_Zealand"
-   },
-   {
-    "cityName": "Vanuatu",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Vanuatu"
-   },
-   {
-    "cityName": "French Polynesia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_French_Polynesia"
-   },
-   {
-    "cityName": "New Caledonia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_New_Caledonia"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Marshalls-geo-stub"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Marshalls-geo-stub"
-   }
-  ]
- ]
-},{
- "country": "El Salvador",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_El_Salvador",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
- "cities": [
-  [
-   {
-    "cityName": "Ahuachapán",
-    "cityLink": "https://en.wikipedia.org/wiki/Ahuachap%C3%A1n"
-   },
-   {
-    "cityName": "Chalatenango",
-    "cityLink": "https://en.wikipedia.org/wiki/Chalatenango,_Chalatenango"
-   },
-   {
-    "cityName": "Cojutepeque",
-    "cityLink": "https://en.wikipedia.org/wiki/Cojutepeque"
-   },
-   {
-    "cityName": "Nejapa",
-    "cityLink": "https://en.wikipedia.org/wiki/Nejapa"
-   },
-   {
-    "cityName": "Tacuba",
-    "cityLink": "https://en.wikipedia.org/wiki/Tacuba"
-   },
-   {
-    "cityName": "Usulután",
-    "cityLink": "https://en.wikipedia.org/wiki/Usulut%C3%A1n"
-   }
-  ],
-  [
-   {
-    "cityName": "Acajutla",
-    "cityLink": "https://en.wikipedia.org/wiki/Acajutla"
-   },
-   {
-    "cityName": "Apopa",
-    "cityLink": "https://en.wikipedia.org/wiki/Apopa"
-   },
-   {
-    "cityName": "Antiguo Cuscatlán",
-    "cityLink": "https://en.wikipedia.org/wiki/Antiguo_Cuscatl%C3%A1n"
-   },
-   {
-    "cityName": "Cuscatancingo",
-    "cityLink": "https://en.wikipedia.org/wiki/Cuscatancingo"
-   },
-   {
-    "cityName": "Ilopango",
-    "cityLink": "https://en.wikipedia.org/wiki/Ilopango"
-   },
-   {
-    "cityName": "Mejicanos",
-    "cityLink": "https://en.wikipedia.org/wiki/Mejicanos"
-   },
-   {
-    "cityName": "Metapán",
-    "cityLink": "https://en.wikipedia.org/wiki/Metap%C3%A1n"
-   },
-   {
-    "cityName": "San Miguel",
-    "cityLink": "https://en.wikipedia.org/wiki/San_Miguel,_El_Salvador"
-   },
-   {
-    "cityName": "Santa Tecla",
-    "cityLink": "https://en.wikipedia.org/wiki/Santa_Tecla,_El_Salvador"
-   },
-   {
-    "cityName": "Santa Ana",
-    "cityLink": "https://en.wikipedia.org/wiki/Santa_Ana,_El_Salvador"
-   },
-   {
-    "cityName": "San Martin",
-    "cityLink": "https://en.wikipedia.org/wiki/San_Mart%C3%ADn,_San_Salvador"
-   },
-   {
-    "cityName": "Soyapango",
-    "cityLink": "https://en.wikipedia.org/wiki/Soyapango"
-   },
-   {
-    "cityName": "Ahuachapán",
-    "cityLink": "https://en.wikipedia.org/wiki/Ahuachap%C3%A1n"
-   },
-   {
-    "cityName": "Chalatenango",
-    "cityLink": "https://en.wikipedia.org/wiki/Chalatenango,_Chalatenango"
-   },
-   {
-    "cityName": "Cojutepeque",
-    "cityLink": "https://en.wikipedia.org/wiki/Cojutepeque"
-   },
-   {
-    "cityName": "Nejapa",
-    "cityLink": "https://en.wikipedia.org/wiki/Nejapa"
-   },
-   {
-    "cityName": "Tacuba",
-    "cityLink": "https://en.wikipedia.org/wiki/Tacuba"
-   },
-   {
-    "cityName": "Usulután",
-    "cityLink": "https://en.wikipedia.org/wiki/Usulut%C3%A1n"
-   },
-   {
-    "cityName": "Alegria",
-    "cityLink": "https://en.wikipedia.org/wiki/Alegr%C3%ADa,_Usulut%C3%A1n"
-   },
-   {
-    "cityName": "Arambala",
-    "cityLink": "https://en.wikipedia.org/wiki/Arambala"
-   },
-   {
-    "cityName": "Apaneca",
-    "cityLink": "https://en.wikipedia.org/wiki/Apaneca"
-   },
-   {
-    "cityName": "Berlín",
-    "cityLink": "https://en.wikipedia.org/wiki/Berl%C3%ADn"
-   },
-   {
-    "cityName": "Comasagua",
-    "cityLink": "https://en.wikipedia.org/wiki/Comasagua"
-   },
-   {
-    "cityName": "Conchagua",
-    "cityLink": "https://en.wikipedia.org/wiki/Conchagua"
-   },
-   {
-    "cityName": "Concepción de Ataco",
-    "cityLink": "https://en.wikipedia.org/wiki/Concepci%C3%B3n_de_Ataco"
-   },
-   {
-    "cityName": "Juayúa",
-    "cityLink": "https://en.wikipedia.org/wiki/Juay%C3%BAa"
-   },
-   {
-    "cityName": "Jujutla",
-    "cityLink": "https://en.wikipedia.org/wiki/Jujutla"
-   },
-   {
-    "cityName": "La Palma, Chalatenango",
-    "cityLink": "https://en.wikipedia.org/wiki/La_Palma,_Chalatenango"
-   },
-   {
-    "cityName": "Nahuizalco",
-    "cityLink": "https://en.wikipedia.org/wiki/Nahuizalco"
-   },
-   {
-    "cityName": "Santa Rosa de Lima",
-    "cityLink": "https://en.wikipedia.org/wiki/Santa_Rosa_de_Lima,_La_Uni%C3%B3n"
-   },
-   {
-    "cityName": "Suchitoto",
-    "cityLink": "https://en.wikipedia.org/wiki/Suchitoto"
-   },
-   {
-    "cityName": "Municipalities of El Salvador",
-    "cityLink": "https://en.wikipedia.org/wiki/Municipalities_of_El_Salvador"
-   },
-   {
-    "cityName": "List of Salvadoran departmental capitals",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_Salvadoran_departmental_capitals"
-   },
-   {
-    "cityName": "Geography of El Salvador",
-    "cityLink": "https://en.wikipedia.org/wiki/Geography_of_El_Salvador"
-   }
-  ],
-  [
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:El_Salvador_topics"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:El_Salvador_topics"
-   },
-   {
-    "cityName": "Pre-Columbian history",
-    "cityLink": "https://en.wikipedia.org/wiki/Mesoamerica"
-   },
-   {
-    "cityName": "Captaincy General (Guatemalan)",
-    "cityLink": "https://en.wikipedia.org/wiki/Captaincy_General_of_Guatemala"
-   },
-   {
-    "cityName": "1811 Independence Movement",
-    "cityLink": "https://en.wikipedia.org/wiki/1811_Independence_Movement"
-   },
-   {
-    "cityName": "Federal Republic of Central America",
-    "cityLink": "https://en.wikipedia.org/wiki/Federal_Republic_of_Central_America"
-   },
-   {
-    "cityName": "History of El Salvador (1931–79)",
-    "cityLink": "https://en.wikipedia.org/wiki/History_of_El_Salvador_(1931%E2%80%9379)"
-   },
-   {
-    "cityName": "Salvadoran Civil War (1979–1992)",
-    "cityLink": "https://en.wikipedia.org/wiki/Salvadoran_Civil_War"
-   },
-   {
-    "cityName": "Biota",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Biota_of_El_Salvador"
-   },
-   {
-    "cityName": "Earthquakes",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_earthquakes_in_El_Salvador"
-   },
-   {
-    "cityName": "Islands",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_islands_of_El_Salvador"
-   },
-   {
-    "cityName": "National parks",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_national_parks_of_El_Salvador"
-   },
-   {
-    "cityName": "Rivers",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_rivers_of_El_Salvador"
-   },
-   {
-    "cityName": "Volcanism",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_volcanoes_in_El_Salvador"
-   },
-   {
-    "cityName": "Water resources",
-    "cityLink": "https://en.wikipedia.org/wiki/Water_resources_management_in_El_Salvador"
-   },
-   {
-    "cityName": "Administrative divisions",
-    "cityLink": "https://en.wikipedia.org/wiki/Departments_of_El_Salvador"
-   },
-   {
-    "cityName": "Constitution",
-    "cityLink": "https://en.wikipedia.org/wiki/Constitution_of_El_Salvador"
-   },
-   {
-    "cityName": "Elections",
-    "cityLink": "https://en.wikipedia.org/wiki/Elections_in_El_Salvador"
-   },
-   {
-    "cityName": "Foreign relations",
-    "cityLink": "https://en.wikipedia.org/wiki/Foreign_relations_of_El_Salvador"
-   },
-   {
-    "cityName": "Human rights",
-    "cityLink": "https://en.wikipedia.org/wiki/Human_rights_in_El_Salvador"
-   },
-   {
-    "cityName": "Legislative Assembly",
-    "cityLink": "https://en.wikipedia.org/wiki/Legislative_Assembly_of_El_Salvador"
-   },
-   {
-    "cityName": "Military",
-    "cityLink": "https://en.wikipedia.org/wiki/Armed_Forces_of_El_Salvador"
-   },
-   {
-    "cityName": "Political parties",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_political_parties_in_El_Salvador"
-   },
-   {
-    "cityName": "Presidents",
-    "cityLink": "https://en.wikipedia.org/wiki/President_of_El_Salvador"
-   },
-   {
-    "cityName": "Central bank",
-    "cityLink": "https://en.wikipedia.org/wiki/Central_Reserve_Bank_of_El_Salvador"
-   },
-   {
-    "cityName": "Coffee production",
-    "cityLink": "https://en.wikipedia.org/wiki/Coffee_production_in_El_Salvador"
-   },
-   {
-    "cityName": "Currency",
-    "cityLink": "https://en.wikipedia.org/wiki/Salvadoran_col%C3%B3n"
-   },
-   {
-    "cityName": "Energy",
-    "cityLink": "https://en.wikipedia.org/wiki/Electricity_sector_in_El_Salvador"
-   },
-   {
-    "cityName": "Telecommunications",
-    "cityLink": "https://en.wikipedia.org/wiki/Telecommunications_in_El_Salvador"
-   },
-   {
-    "cityName": "Tourism",
-    "cityLink": "https://en.wikipedia.org/wiki/Tourism_in_El_Salvador"
-   },
-   {
-    "cityName": "Transport",
-    "cityLink": "https://en.wikipedia.org/wiki/Transport_in_El_Salvador"
-   },
-   {
-    "cityName": "Abortion",
-    "cityLink": "https://en.wikipedia.org/wiki/Abortion_in_El_Salvador"
-   },
-   {
-    "cityName": "Crime",
-    "cityLink": "https://en.wikipedia.org/wiki/Crime_in_El_Salvador"
-   },
-   {
-    "cityName": "Demographics",
-    "cityLink": "https://en.wikipedia.org/wiki/Demographics_of_El_Salvador"
-   },
-   {
-    "cityName": "Education",
-    "cityLink": "https://en.wikipedia.org/wiki/Education_in_El_Salvador"
-   },
-   {
-    "cityName": "Gender Inequality",
-    "cityLink": "https://en.wikipedia.org/wiki/Gender_inequality_in_El_Salvador"
-   },
-   {
-    "cityName": "Religion",
-    "cityLink": "https://en.wikipedia.org/wiki/Religion_in_El_Salvador"
-   },
-   {
-    "cityName": "Water supply and sanitation",
-    "cityLink": "https://en.wikipedia.org/wiki/Water_supply_and_sanitation_in_El_Salvador"
-   },
-   {
-    "cityName": "Anthem",
-    "cityLink": "https://en.wikipedia.org/wiki/National_Anthem_of_El_Salvador"
-   },
-   {
-    "cityName": "Coat of arms",
-    "cityLink": "https://en.wikipedia.org/wiki/Coat_of_arms_of_El_Salvador"
-   },
-   {
-    "cityName": "Cuisine",
-    "cityLink": "https://en.wikipedia.org/wiki/Salvadoran_cuisine"
-   },
-   {
-    "cityName": "Flag",
-    "cityLink": "https://en.wikipedia.org/wiki/Flag_of_El_Salvador"
-   },
-   {
-    "cityName": "Music",
-    "cityLink": "https://en.wikipedia.org/wiki/Music_of_El_Salvador"
-   },
-   {
-    "cityName": "Television",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Television_stations_in_El_Salvador"
-   },
-   {
-    "cityName": "Outline",
-    "cityLink": "https://en.wikipedia.org/wiki/Outline_of_El_Salvador"
-   },
-   {
-    "cityName": "Index",
-    "cityLink": "https://en.wikipedia.org/wiki/Index_of_El_Salvador-related_articles"
-   },
-   {
-    "cityName": "Category",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:El_Salvador"
-   },
-   {
-    "cityName": "Portal",
-    "cityLink": "https://en.wikipedia.org/wiki/Portal:El_Salvador"
-   },
-   {
-    "cityName": "WikiProject",
-    "cityLink": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_El_Salvador"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:North_America_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:North_America_topic"
-   },
-   {
-    "cityName": "Antigua and Barbuda",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Antigua_and_Barbuda"
-   },
-   {
-    "cityName": "Bahamas",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Bahamas"
-   },
-   {
-    "cityName": "Canada",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Canada"
-   },
-   {
-    "cityName": "Cuba",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Cuba"
-   },
-   {
-    "cityName": "Dominican Republic",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Dominican_Republic"
-   },
-   {
-    "cityName": "Grenada",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Grenada"
-   },
-   {
-    "cityName": "Haiti",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Haiti"
-   },
-   {
-    "cityName": "Honduras",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Honduras"
-   },
-   {
-    "cityName": "Mexico",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mexico"
-   },
-   {
-    "cityName": "Panama",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Panama"
-   },
-   {
-    "cityName": "Saint Lucia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Saint_Lucia"
-   },
-   {
-    "cityName": "United States",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_United_States"
-   },
-   {
-    "cityName": "Aruba",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Aruba"
-   },
-   {
-    "cityName": "Cayman Islands",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Cayman_Islands"
-   },
-   {
-    "cityName": "Turks and Caicos Islands",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Turks_and_Caicos_Islands"
-   }
-  ]
- ]
-},{
- "country": "Chad",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Chad",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
- "cities": [
-  [
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Africa_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Africa_topic"
-   },
-   {
-    "cityName": "Algeria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Algeria"
-   },
-   {
-    "cityName": "Benin",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Benin"
-   },
-   {
-    "cityName": "Botswana",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Botswana"
-   },
-   {
-    "cityName": "Burkina Faso",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Burkina_Faso"
-   },
-   {
-    "cityName": "Burundi",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Burundi"
-   },
-   {
-    "cityName": "Central African Republic",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Central_African_Republic"
-   },
-   {
-    "cityName": "Comoros",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Comoros"
-   },
-   {
-    "cityName": "Democratic Republic of the Congo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Democratic_Republic_of_the_Congo"
-   },
-   {
-    "cityName": "Republic of the Congo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_the_Congo"
-   },
-   {
-    "cityName": "Egypt",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Egypt"
-   },
-   {
-    "cityName": "Equatorial Guinea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Equatorial_Guinea"
-   },
-   {
-    "cityName": "Eritrea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Eritrea"
-   },
-   {
-    "cityName": "Gabon",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Gabon"
-   },
-   {
-    "cityName": "Ghana",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana"
-   },
-   {
-    "cityName": "Guinea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea"
-   },
-   {
-    "cityName": "Guinea-Bissau",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea-Bissau"
-   },
-   {
-    "cityName": "Ivory Coast (Côte d'Ivoire)",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ivory_Coast"
-   },
-   {
-    "cityName": "Kenya",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kenya"
-   },
-   {
-    "cityName": "Lesotho",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Lesotho"
-   },
-   {
-    "cityName": "Liberia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Liberia"
-   },
-   {
-    "cityName": "Libya",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Libya"
-   },
-   {
-    "cityName": "Madagascar",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Madagascar"
-   },
-   {
-    "cityName": "Malawi",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Malawi"
-   },
-   {
-    "cityName": "Mali",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mali"
-   },
-   {
-    "cityName": "Mauritania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mauritania"
-   },
-   {
-    "cityName": "Morocco",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Morocco"
-   },
-   {
-    "cityName": "Mozambique",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mozambique"
-   },
-   {
-    "cityName": "Niger",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Niger"
-   },
-   {
-    "cityName": "Nigeria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Nigeria"
-   },
-   {
-    "cityName": "Rwanda",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Rwanda"
-   },
-   {
-    "cityName": "Senegal",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Senegal"
-   },
-   {
-    "cityName": "Seychelles",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Seychelles"
-   },
-   {
-    "cityName": "Sierra Leone",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Somalia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Somalia"
-   },
-   {
-    "cityName": "South Sudan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_South_Sudan"
-   },
-   {
-    "cityName": "Sudan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sudan"
-   },
-   {
-    "cityName": "Swaziland",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Swaziland"
-   },
-   {
-    "cityName": "Tanzania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tanzania"
-   },
-   {
-    "cityName": "Togo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Togo"
-   },
-   {
-    "cityName": "Tunisia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tunisia"
-   },
-   {
-    "cityName": "Madeira",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Madeira"
-   },
-   {
-    "cityName": "Mayotte",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mayotte"
-   },
-   {
-    "cityName": "Western Sahara",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Western_Sahara"
-   }
-  ]
- ]
-},{
- "country": "Benin",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Benin",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
- "cities": [
-  [
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Africa_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Africa_topic"
-   },
-   {
-    "cityName": "Algeria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Algeria"
-   },
-   {
-    "cityName": "Botswana",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Botswana"
-   },
-   {
-    "cityName": "Burkina Faso",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Burkina_Faso"
-   },
-   {
-    "cityName": "Burundi",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Burundi"
-   },
-   {
-    "cityName": "Central African Republic",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Central_African_Republic"
-   },
-   {
-    "cityName": "Chad",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Chad"
-   },
-   {
-    "cityName": "Comoros",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Comoros"
-   },
-   {
-    "cityName": "Democratic Republic of the Congo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Democratic_Republic_of_the_Congo"
-   },
-   {
-    "cityName": "Republic of the Congo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_the_Congo"
-   },
-   {
-    "cityName": "Egypt",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Egypt"
-   },
-   {
-    "cityName": "Equatorial Guinea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Equatorial_Guinea"
-   },
-   {
-    "cityName": "Eritrea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Eritrea"
-   },
-   {
-    "cityName": "Gabon",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Gabon"
-   },
-   {
-    "cityName": "Ghana",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana"
-   },
-   {
-    "cityName": "Guinea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea"
-   },
-   {
-    "cityName": "Guinea-Bissau",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea-Bissau"
-   },
-   {
-    "cityName": "Ivory Coast (Côte d'Ivoire)",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ivory_Coast"
-   },
-   {
-    "cityName": "Kenya",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kenya"
-   },
-   {
-    "cityName": "Lesotho",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Lesotho"
-   },
-   {
-    "cityName": "Liberia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Liberia"
-   },
-   {
-    "cityName": "Libya",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Libya"
-   },
-   {
-    "cityName": "Madagascar",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Madagascar"
-   },
-   {
-    "cityName": "Malawi",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Malawi"
-   },
-   {
-    "cityName": "Mali",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mali"
-   },
-   {
-    "cityName": "Mauritania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mauritania"
-   },
-   {
-    "cityName": "Morocco",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Morocco"
-   },
-   {
-    "cityName": "Mozambique",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mozambique"
-   },
-   {
-    "cityName": "Niger",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Niger"
-   },
-   {
-    "cityName": "Nigeria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Nigeria"
-   },
-   {
-    "cityName": "Rwanda",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Rwanda"
-   },
-   {
-    "cityName": "Senegal",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Senegal"
-   },
-   {
-    "cityName": "Seychelles",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Seychelles"
-   },
-   {
-    "cityName": "Sierra Leone",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Somalia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Somalia"
-   },
-   {
-    "cityName": "South Sudan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_South_Sudan"
-   },
-   {
-    "cityName": "Sudan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sudan"
-   },
-   {
-    "cityName": "Swaziland",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Swaziland"
-   },
-   {
-    "cityName": "Tanzania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tanzania"
-   },
-   {
-    "cityName": "Togo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Togo"
-   },
-   {
-    "cityName": "Tunisia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tunisia"
-   },
-   {
-    "cityName": "Madeira",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Madeira"
-   },
-   {
-    "cityName": "Mayotte",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mayotte"
-   },
-   {
-    "cityName": "Western Sahara",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Western_Sahara"
-   }
-  ]
- ]
-},{
  "country": "the Federated States of Micronesia",
  "link": "https://en.wikipedia.org/wiki/Administrative_divisions_of_the_Federated_States_of_Micronesia",
  "cityColumnIndex": -1,
  "populationCensusDate": "",
  "populationCensusDateColumnIndex": "",
  "cities": [
+  [
+   {
+    "cityName": "Eot",
+    "cityLink": "https://en.wikipedia.org/wiki/Eot_(island)"
+   },
+   {
+    "cityName": "Fala-Beguets",
+    "cityLink": "https://en.wikipedia.org/wiki/Fala-Beguets"
+   },
+   {
+    "cityName": "Fananu",
+    "cityLink": "https://en.wikipedia.org/wiki/Fananu"
+   },
+   {
+    "cityName": "Fefan",
+    "cityLink": "https://en.wikipedia.org/wiki/Fefan"
+   },
+   {
+    "cityName": "Kutu",
+    "cityLink": "https://en.wikipedia.org/wiki/Kutu_(island)"
+   },
+   {
+    "cityName": "Losap",
+    "cityLink": "https://en.wikipedia.org/wiki/Losap"
+   },
+   {
+    "cityName": "Lukunor",
+    "cityLink": "https://en.wikipedia.org/wiki/Lukunor"
+   },
+   {
+    "cityName": "Magur",
+    "cityLink": "https://en.wikipedia.org/wiki/Magur_(island)"
+   },
+   {
+    "cityName": "Moch",
+    "cityLink": "https://en.wikipedia.org/wiki/Moch"
+   },
+   {
+    "cityName": "Murilo",
+    "cityLink": "https://en.wikipedia.org/wiki/Murilo"
+   },
+   {
+    "cityName": "Nama",
+    "cityLink": "https://en.wikipedia.org/wiki/Nama_(island)"
+   },
+   {
+    "cityName": "Namoluk",
+    "cityLink": "https://en.wikipedia.org/wiki/Namoluk"
+   },
+   {
+    "cityName": "Nomwin",
+    "cityLink": "https://en.wikipedia.org/wiki/Nomwin"
+   },
+   {
+    "cityName": "Onari",
+    "cityLink": "https://en.wikipedia.org/wiki/Onari"
+   },
+   {
+    "cityName": "Oneop",
+    "cityLink": "https://en.wikipedia.org/wiki/Oneop"
+   },
+   {
+    "cityName": "Ono",
+    "cityLink": "https://en.wikipedia.org/wiki/Ono,_Chuuk"
+   },
+   {
+    "cityName": "Param",
+    "cityLink": "https://en.wikipedia.org/wiki/Param,_Chuuk"
+   },
+   {
+    "cityName": "Pis-Losap",
+    "cityLink": "https://en.wikipedia.org/wiki/Pis-Losap"
+   },
+   {
+    "cityName": "Pisaras",
+    "cityLink": "https://en.wikipedia.org/wiki/Pisaras"
+   },
+   {
+    "cityName": "Pulap",
+    "cityLink": "https://en.wikipedia.org/wiki/Pulap"
+   },
+   {
+    "cityName": "Pulusuk",
+    "cityLink": "https://en.wikipedia.org/wiki/Pulusuk"
+   },
+   {
+    "cityName": "Puluwat",
+    "cityLink": "https://en.wikipedia.org/wiki/Poluwat"
+   },
+   {
+    "cityName": "Romanum",
+    "cityLink": "https://en.wikipedia.org/wiki/Romanum_(island)"
+   },
+   {
+    "cityName": "Ruo",
+    "cityLink": "https://en.wikipedia.org/wiki/Ruo,_Micronesia"
+   },
+   {
+    "cityName": "Satawan",
+    "cityLink": "https://en.wikipedia.org/wiki/Satawan"
+   },
+   {
+    "cityName": "Ta",
+    "cityLink": "https://en.wikipedia.org/wiki/Ta_(island)"
+   },
+   {
+    "cityName": "Tamatam",
+    "cityLink": "https://en.wikipedia.org/wiki/Tamatam"
+   },
+   {
+    "cityName": "Tol",
+    "cityLink": "https://en.wikipedia.org/wiki/Tol_(island)"
+   },
+   {
+    "cityName": "Tonowas (Dublon)",
+    "cityLink": "https://en.wikipedia.org/wiki/Tonowas"
+   },
+   {
+    "cityName": "Tsis",
+    "cityLink": "https://en.wikipedia.org/wiki/Tsis"
+   },
+   {
+    "cityName": "Udot",
+    "cityLink": "https://en.wikipedia.org/wiki/Udot_(island)"
+   },
+   {
+    "cityName": "Ulul",
+    "cityLink": "https://en.wikipedia.org/wiki/Ulul"
+   },
+   {
+    "cityName": "Uman",
+    "cityLink": "https://en.wikipedia.org/wiki/Uman_Island"
+   }
+  ],
   [
    {
     "cityName": "v",
@@ -1101,4283 +371,849 @@
   ]
  ]
 },{
- "country": "Brunei",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Brunei",
+ "country": "Belarus",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Belarus",
  "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
- "cities": [
-  [
-   {
-    "cityName": "Bangar",
-    "cityLink": "https://en.wikipedia.org/wiki/Bangar,_Brunei"
-   },
-   {
-    "cityName": "Temburong",
-    "cityLink": "https://en.wikipedia.org/wiki/Temburong_District"
-   },
-   {
-    "cityName": "Muara Town",
-    "cityLink": "https://en.wikipedia.org/wiki/Muara,_Brunei"
-   },
-   {
-    "cityName": "Panaga",
-    "cityLink": "https://en.wikipedia.org/wiki/Panaga"
-   }
-  ],
-  [
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Brunei_topics"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Brunei_topics"
-   },
-   {
-    "cityName": "Bruneian Empire",
-    "cityLink": "https://en.wikipedia.org/wiki/Bruneian_Empire"
-   },
-   {
-    "cityName": "Brunei Civil War",
-    "cityLink": "https://en.wikipedia.org/wiki/Brunei_Civil_War"
-   },
-   {
-    "cityName": "White Rajahs",
-    "cityLink": "https://en.wikipedia.org/wiki/White_Rajahs"
-   },
-   {
-    "cityName": "British Borneo",
-    "cityLink": "https://en.wikipedia.org/wiki/British_Borneo"
-   },
-   {
-    "cityName": "Japanese occupation",
-    "cityLink": "https://en.wikipedia.org/wiki/Japanese_occupation_of_British_Borneo"
-   },
-   {
-    "cityName": "Borneo campaign",
-    "cityLink": "https://en.wikipedia.org/wiki/Borneo_campaign_(1945)"
-   },
-   {
-    "cityName": "British Military Administration",
-    "cityLink": "https://en.wikipedia.org/wiki/British_Military_Administration_(Borneo)"
-   },
-   {
-    "cityName": "Brunei Revolt",
-    "cityLink": "https://en.wikipedia.org/wiki/Brunei_Revolt"
-   },
-   {
-    "cityName": "Regional history",
-    "cityLink": "https://en.wikipedia.org/wiki/History_of_Southeast_Asia"
-   },
-   {
-    "cityName": "Borneo",
-    "cityLink": "https://en.wikipedia.org/wiki/Borneo"
-   },
-   {
-    "cityName": "Districts",
-    "cityLink": "https://en.wikipedia.org/wiki/Districts_of_Brunei"
-   },
-   {
-    "cityName": "Mukims (wards)",
-    "cityLink": "https://en.wikipedia.org/wiki/Mukims_of_Brunei"
-   },
-   {
-    "cityName": "Rivers",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_rivers_of_Brunei"
-   },
-   {
-    "cityName": "Wildlife",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Fauna_of_Brunei"
-   },
-   {
-    "cityName": "Cabinet",
-    "cityLink": "https://en.wikipedia.org/wiki/Cabinet_of_Brunei"
-   },
-   {
-    "cityName": "Foreign relations",
-    "cityLink": "https://en.wikipedia.org/wiki/Foreign_relations_of_Brunei"
-   },
-   {
-    "cityName": "Human rights",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Human_rights_in_Brunei"
-   },
-   {
-    "cityName": "LGBT",
-    "cityLink": "https://en.wikipedia.org/wiki/LGBT_rights_in_Brunei"
-   },
-   {
-    "cityName": "LGBT history",
-    "cityLink": "https://en.wikipedia.org/wiki/LGBT_history_in_Brunei"
-   },
-   {
-    "cityName": "Law enforcement",
-    "cityLink": "https://en.wikipedia.org/wiki/Royal_Brunei_Police_Force"
-   },
-   {
-    "cityName": "Melayu Islam Beraja (national philosophy)",
-    "cityLink": "https://en.wikipedia.org/wiki/Melayu_Islam_Beraja"
-   },
-   {
-    "cityName": "Military",
-    "cityLink": "https://en.wikipedia.org/wiki/Royal_Brunei_Armed_Forces"
-   },
-   {
-    "cityName": "Parliament",
-    "cityLink": "https://en.wikipedia.org/wiki/Legislative_Council_of_Brunei"
-   },
-   {
-    "cityName": "Sultan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_Sultans_of_Brunei"
-   },
-   {
-    "cityName": "Dollar (currency)",
-    "cityLink": "https://en.wikipedia.org/wiki/Brunei_dollar"
-   },
-   {
-    "cityName": "Companies",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_companies_of_Brunei"
-   },
-   {
-    "cityName": "Telecommunications",
-    "cityLink": "https://en.wikipedia.org/wiki/Telecommunications_in_Brunei"
-   },
-   {
-    "cityName": "Tourism",
-    "cityLink": "https://en.wikipedia.org/wiki/Tourism_in_Brunei"
-   },
-   {
-    "cityName": "airports",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_airports_in_Brunei"
-   },
-   {
-    "cityName": "Cuisine",
-    "cityLink": "https://en.wikipedia.org/wiki/Bruneian_cuisine"
-   },
-   {
-    "cityName": "Culture",
-    "cityLink": "https://en.wikipedia.org/wiki/Culture_of_Brunei"
-   },
-   {
-    "cityName": "Demographics",
-    "cityLink": "https://en.wikipedia.org/wiki/Demographics_of_Brunei"
-   },
-   {
-    "cityName": "Bruneian",
-    "cityLink": "https://en.wikipedia.org/wiki/Bruneian_Malay_people"
-   },
-   {
-    "cityName": "Ethnicity",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Ethnic_groups_in_Brunei"
-   },
-   {
-    "cityName": "Education",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_schools_in_Brunei"
-   },
-   {
-    "cityName": "Languages",
-    "cityLink": "https://en.wikipedia.org/wiki/Languages_of_Brunei"
-   },
-   {
-    "cityName": "Brunei English",
-    "cityLink": "https://en.wikipedia.org/wiki/Brunei_English"
-   },
-   {
-    "cityName": "Media",
-    "cityLink": "https://en.wikipedia.org/wiki/Media_of_Brunei"
-   },
-   {
-    "cityName": "Music",
-    "cityLink": "https://en.wikipedia.org/wiki/Music_of_Brunei"
-   },
-   {
-    "cityName": "Religion",
-    "cityLink": "https://en.wikipedia.org/wiki/Religion_in_Brunei"
-   },
-   {
-    "cityName": "Sports",
-    "cityLink": "https://en.wikipedia.org/wiki/Sport_in_Brunei"
-   },
-   {
-    "cityName": "Anthem",
-    "cityLink": "https://en.wikipedia.org/wiki/Allah_Peliharakan_Sultan"
-   },
-   {
-    "cityName": "Emblem",
-    "cityLink": "https://en.wikipedia.org/wiki/Emblem_of_Brunei"
-   },
-   {
-    "cityName": "Flag",
-    "cityLink": "https://en.wikipedia.org/wiki/Flag_of_Brunei"
-   },
-   {
-    "cityName": "Outline",
-    "cityLink": "https://en.wikipedia.org/wiki/Outline_of_Brunei"
-   },
-   {
-    "cityName": "Category",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Brunei"
-   },
-   {
-    "cityName": "WikiProject",
-    "cityLink": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Brunei"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Asia_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Asia_topic"
-   },
-   {
-    "cityName": "Afghanistan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Afghanistan"
-   },
-   {
-    "cityName": "Azerbaijan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Azerbaijan"
-   },
-   {
-    "cityName": "Bahrain",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Bahrain"
-   },
-   {
-    "cityName": "Bhutan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Bhutan"
-   },
-   {
-    "cityName": "Cambodia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Cambodia"
-   },
-   {
-    "cityName": "China",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_China"
-   },
-   {
-    "cityName": "Egypt",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Egypt"
-   },
-   {
-    "cityName": "Indonesia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Indonesia"
-   },
-   {
-    "cityName": "Iran",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Iran"
-   },
-   {
-    "cityName": "Iraq",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Iraq"
-   },
-   {
-    "cityName": "Israel",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Israel"
-   },
-   {
-    "cityName": "Japan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Japan"
-   },
-   {
-    "cityName": "Jordan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Jordan"
-   },
-   {
-    "cityName": "Kazakhstan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kazakhstan"
-   },
-   {
-    "cityName": "North Korea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_North_Korea"
-   },
-   {
-    "cityName": "South Korea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_South_Korea"
-   },
-   {
-    "cityName": "Kyrgyzstan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kyrgyzstan"
-   },
-   {
-    "cityName": "Laos",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Laos"
-   },
-   {
-    "cityName": "Malaysia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Malaysia"
-   },
-   {
-    "cityName": "Mongolia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mongolia"
-   },
-   {
-    "cityName": "Myanmar",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Myanmar"
-   },
-   {
-    "cityName": "Nepal",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Nepal"
-   },
-   {
-    "cityName": "Oman",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Oman"
-   },
-   {
-    "cityName": "Pakistan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Pakistan"
-   },
-   {
-    "cityName": "Philippines",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Philippines"
-   },
-   {
-    "cityName": "Qatar",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Qatar"
-   },
-   {
-    "cityName": "Sri Lanka",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sri_Lanka"
-   },
-   {
-    "cityName": "Syria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Syria"
-   },
-   {
-    "cityName": "Tajikistan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tajikistan"
-   },
-   {
-    "cityName": "Thailand",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Thailand"
-   },
-   {
-    "cityName": "Turkey",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Turkey"
-   },
-   {
-    "cityName": "Turkmenistan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Turkmenistan"
-   },
-   {
-    "cityName": "United Arab Emirates",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_United_Arab_Emirates"
-   },
-   {
-    "cityName": "Uzbekistan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Uzbekistan"
-   },
-   {
-    "cityName": "Vietnam",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Vietnam"
-   },
-   {
-    "cityName": "Yemen",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Yemen"
-   },
-   {
-    "cityName": "Taiwan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Taiwan"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Asia_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Asia_topic"
-   },
-   {
-    "cityName": "Japan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Japan"
-   },
-   {
-    "cityName": "South Korea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_South_Korea"
-   },
-   {
-    "cityName": "Sri Lanka",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Sri_Lanka"
-   },
-   {
-    "cityName": "Hong Kong",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Hong_Kong"
-   }
-  ]
- ]
-},{
- "country": "Antigua and Barbuda",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Antigua_and_Barbuda",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
+ "populationCensusDate": "2010",
+ "populationCensusDateColumnIndex": 6,
  "cities": [
   [
    {
     "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:North_America_topic"
+    "cityLink": "https://en.wikipedia.org/wiki/Template:Belarus_topics"
    },
    {
     "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:North_America_topic"
+    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Belarus_topics"
    },
    {
-    "cityName": "Bahamas",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Bahamas"
+    "cityName": "Kievan Rus'",
+    "cityLink": "https://en.wikipedia.org/wiki/Kievan_Rus%27"
    },
    {
-    "cityName": "Canada",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Canada"
+    "cityName": "Principality of Polotsk",
+    "cityLink": "https://en.wikipedia.org/wiki/Principality_of_Polotsk"
    },
    {
-    "cityName": "Costa Rica",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Costa_Rica"
+    "cityName": "Grand Duchy of Lithuania",
+    "cityLink": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania"
    },
    {
-    "cityName": "Cuba",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Cuba"
+    "cityName": "Polish–Lithuanian Commonwealth",
+    "cityLink": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth"
    },
    {
-    "cityName": "Dominican Republic",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Dominican_Republic"
+    "cityName": "Russian Empire",
+    "cityLink": "https://en.wikipedia.org/wiki/Russian_Empire"
    },
    {
-    "cityName": "El Salvador",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_El_Salvador"
+    "cityName": "Belarus National Republic",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_People%27s_Republic"
    },
    {
-    "cityName": "Grenada",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Grenada"
+    "cityName": "Byelorussian Soviet Socialist Republic",
+    "cityLink": "https://en.wikipedia.org/wiki/Byelorussian_Soviet_Socialist_Republic"
    },
    {
-    "cityName": "Haiti",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Haiti"
-   },
-   {
-    "cityName": "Honduras",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Honduras"
-   },
-   {
-    "cityName": "Mexico",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mexico"
-   },
-   {
-    "cityName": "Panama",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Panama"
-   },
-   {
-    "cityName": "Saint Lucia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Saint_Lucia"
-   },
-   {
-    "cityName": "United States",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_United_States"
-   },
-   {
-    "cityName": "Aruba",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Aruba"
-   },
-   {
-    "cityName": "Cayman Islands",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Cayman_Islands"
-   },
-   {
-    "cityName": "Turks and Caicos Islands",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Turks_and_Caicos_Islands"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Antigua-geo-stub"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Antigua-geo-stub"
-   }
-  ]
- ]
-},{
- "country": "Seychelles",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Seychelles",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
- "cities": [
-  [
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Africa_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Africa_topic"
-   },
-   {
-    "cityName": "Algeria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Algeria"
-   },
-   {
-    "cityName": "Benin",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Benin"
-   },
-   {
-    "cityName": "Botswana",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Botswana"
-   },
-   {
-    "cityName": "Burkina Faso",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Burkina_Faso"
-   },
-   {
-    "cityName": "Burundi",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Burundi"
-   },
-   {
-    "cityName": "Central African Republic",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Central_African_Republic"
-   },
-   {
-    "cityName": "Chad",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Chad"
-   },
-   {
-    "cityName": "Comoros",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Comoros"
-   },
-   {
-    "cityName": "Democratic Republic of the Congo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Democratic_Republic_of_the_Congo"
-   },
-   {
-    "cityName": "Republic of the Congo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_the_Congo"
-   },
-   {
-    "cityName": "Egypt",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Egypt"
-   },
-   {
-    "cityName": "Equatorial Guinea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Equatorial_Guinea"
-   },
-   {
-    "cityName": "Eritrea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Eritrea"
-   },
-   {
-    "cityName": "Gabon",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Gabon"
-   },
-   {
-    "cityName": "Ghana",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana"
-   },
-   {
-    "cityName": "Guinea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea"
-   },
-   {
-    "cityName": "Guinea-Bissau",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea-Bissau"
-   },
-   {
-    "cityName": "Ivory Coast (Côte d'Ivoire)",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ivory_Coast"
-   },
-   {
-    "cityName": "Kenya",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kenya"
-   },
-   {
-    "cityName": "Lesotho",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Lesotho"
-   },
-   {
-    "cityName": "Liberia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Liberia"
-   },
-   {
-    "cityName": "Libya",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Libya"
-   },
-   {
-    "cityName": "Madagascar",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Madagascar"
-   },
-   {
-    "cityName": "Malawi",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Malawi"
-   },
-   {
-    "cityName": "Mali",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mali"
-   },
-   {
-    "cityName": "Mauritania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mauritania"
-   },
-   {
-    "cityName": "Morocco",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Morocco"
-   },
-   {
-    "cityName": "Mozambique",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mozambique"
-   },
-   {
-    "cityName": "Niger",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Niger"
-   },
-   {
-    "cityName": "Nigeria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Nigeria"
-   },
-   {
-    "cityName": "Rwanda",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Rwanda"
-   },
-   {
-    "cityName": "Senegal",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Senegal"
-   },
-   {
-    "cityName": "Sierra Leone",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Somalia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Somalia"
-   },
-   {
-    "cityName": "South Sudan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_South_Sudan"
-   },
-   {
-    "cityName": "Sudan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sudan"
-   },
-   {
-    "cityName": "Swaziland",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Swaziland"
-   },
-   {
-    "cityName": "Tanzania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tanzania"
-   },
-   {
-    "cityName": "Togo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Togo"
-   },
-   {
-    "cityName": "Tunisia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tunisia"
-   },
-   {
-    "cityName": "Madeira",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Madeira"
-   },
-   {
-    "cityName": "Mayotte",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mayotte"
-   },
-   {
-    "cityName": "Western Sahara",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Western_Sahara"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Seychelles_topics"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Seychelles_topics"
-   },
-   {
-    "cityName": "History of Seychelles",
-    "cityLink": "https://en.wikipedia.org/wiki/History_of_Seychelles"
-   },
-   {
-    "cityName": "Capital",
-    "cityLink": "https://en.wikipedia.org/wiki/Victoria,_Seychelles"
-   },
-   {
-    "cityName": "Districts",
-    "cityLink": "https://en.wikipedia.org/wiki/Districts_of_Seychelles"
-   },
-   {
-    "cityName": "Wildlife",
-    "cityLink": "https://en.wikipedia.org/wiki/Wildlife_of_Seychelles"
-   },
-   {
-    "cityName": "Elections",
-    "cityLink": "https://en.wikipedia.org/wiki/Elections_in_Seychelles"
-   },
-   {
-    "cityName": "Foreign relations",
-    "cityLink": "https://en.wikipedia.org/wiki/Foreign_relations_of_Seychelles"
-   },
-   {
-    "cityName": "LGBT history",
-    "cityLink": "https://en.wikipedia.org/wiki/LGBT_history_in_Seychelles"
-   },
-   {
-    "cityName": "Military",
-    "cityLink": "https://en.wikipedia.org/wiki/Military_of_Seychelles"
-   },
-   {
-    "cityName": "National Assembly",
-    "cityLink": "https://en.wikipedia.org/wiki/National_Assembly_(Seychelles)"
-   },
-   {
-    "cityName": "Political parties",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Seychelles"
-   },
-   {
-    "cityName": "President",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_Presidents_of_Seychelles"
-   },
-   {
-    "cityName": "Vice President",
-    "cityLink": "https://en.wikipedia.org/wiki/Vice_President_of_Seychelles"
-   },
-   {
-    "cityName": "Prime Minister",
-    "cityLink": "https://en.wikipedia.org/wiki/Prime_Minister_of_Seychelles"
-   },
-   {
-    "cityName": "Supreme Court",
-    "cityLink": "https://en.wikipedia.org/wiki/Supreme_Court_of_Seychelles"
-   },
-   {
-    "cityName": "Central Bank",
-    "cityLink": "https://en.wikipedia.org/wiki/Central_Bank_of_Seychelles"
-   },
-   {
-    "cityName": "Rupee (currency)",
-    "cityLink": "https://en.wikipedia.org/wiki/Seychellois_rupee"
-   },
-   {
-    "cityName": "Telecommunications",
-    "cityLink": "https://en.wikipedia.org/wiki/Telecommunications_in_Seychelles"
-   },
-   {
-    "cityName": "Tourism",
-    "cityLink": "https://en.wikipedia.org/wiki/Tourism_in_Seychelles"
-   },
-   {
-    "cityName": "Transport",
-    "cityLink": "https://en.wikipedia.org/wiki/Transport_in_Seychelles"
-   },
-   {
-    "cityName": "airports",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_airports_in_Seychelles"
-   },
-   {
-    "cityName": "Demographics",
-    "cityLink": "https://en.wikipedia.org/wiki/Demographics_of_Seychelles"
-   },
-   {
-    "cityName": "Education",
-    "cityLink": "https://en.wikipedia.org/wiki/Education_in_Seychelles"
-   },
-   {
-    "cityName": "List of Seychellois people",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_Seychellois_people"
-   },
-   {
-    "cityName": "Music",
-    "cityLink": "https://en.wikipedia.org/wiki/Music_of_Seychelles"
-   },
-   {
-    "cityName": "Religion",
-    "cityLink": "https://en.wikipedia.org/wiki/Religion_in_Seychelles"
-   },
-   {
-    "cityName": "Sport",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Sport_in_Seychelles"
-   },
-   {
-    "cityName": "football",
-    "cityLink": "https://en.wikipedia.org/wiki/Football_in_Seychelles"
-   },
-   {
-    "cityName": "rugby union",
-    "cityLink": "https://en.wikipedia.org/wiki/Rugby_union_in_the_Seychelles"
-   },
-   {
-    "cityName": "Women",
-    "cityLink": "https://en.wikipedia.org/wiki/Women_in_Seychelles"
-   },
-   {
-    "cityName": "Outline",
-    "cityLink": "https://en.wikipedia.org/wiki/Outline_of_Seychelles"
-   },
-   {
-    "cityName": "Index",
-    "cityLink": "https://en.wikipedia.org/wiki/Index_of_Seychelles-related_articles"
-   },
-   {
-    "cityName": "Book",
-    "cityLink": "https://en.wikipedia.org/wiki/Book:Seychelles"
-   },
-   {
-    "cityName": "Category",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Seychelles"
-   },
-   {
-    "cityName": "WikiProject",
-    "cityLink": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Seychelles"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Seychelles-stub"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Seychelles-stub"
-   }
-  ]
- ]
-},{
- "country": "the United States",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_the_United_States",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
- "cities": []
-},{
- "country": "Suriname",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Suriname",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
- "cities": [
-  [
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:South_America_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:South_America_topic"
-   },
-   {
-    "cityName": "Argentina",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Argentina"
-   },
-   {
-    "cityName": "Chile",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Chile"
-   },
-   {
-    "cityName": "Colombia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Colombia"
-   },
-   {
-    "cityName": "Ecuador",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ecuador"
-   },
-   {
-    "cityName": "Paraguay",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Paraguay"
-   },
-   {
-    "cityName": "Peru",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Peru"
-   },
-   {
-    "cityName": "Uruguay",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Uruguay"
-   },
-   {
-    "cityName": "Venezuela",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Venezuela"
-   },
-   {
-    "cityName": "French Guiana",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_French_Guiana"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Suriname-geo-stub"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Suriname-geo-stub"
-   }
-  ]
- ]
-},{
- "country": "Australia",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Australia",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
- "cities": [
-  [
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Oceania_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Oceania_topic"
-   },
-   {
-    "cityName": "Marshall Islands",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Marshall_Islands"
-   },
-   {
-    "cityName": "New Zealand",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_New_Zealand"
-   },
-   {
-    "cityName": "Vanuatu",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Vanuatu"
-   },
-   {
-    "cityName": "French Polynesia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_French_Polynesia"
-   },
-   {
-    "cityName": "New Caledonia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_New_Caledonia"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Capital_cities_of_Australia"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Capital_cities_of_Australia"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Australia_topics"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Australia_topics"
-   },
-   {
-    "cityName": "Timeline",
-    "cityLink": "https://en.wikipedia.org/wiki/Timeline_of_Australian_history"
-   },
-   {
-    "cityName": "Bibliography",
-    "cityLink": "https://en.wikipedia.org/wiki/Bibliography_of_Australian_history"
-   },
-   {
-    "cityName": "Prehistory",
-    "cityLink": "https://en.wikipedia.org/wiki/Prehistory_of_Australia"
-   },
-   {
-    "cityName": "Archaeology",
-    "cityLink": "https://en.wikipedia.org/wiki/Australian_archaeology"
-   },
-   {
-    "cityName": "European Exploration",
-    "cityLink": "https://en.wikipedia.org/wiki/European_exploration_of_Australia"
-   },
-   {
-    "cityName": "1788–1850",
-    "cityLink": "https://en.wikipedia.org/wiki/History_of_Australia_(1788%E2%80%931850)"
-   },
-   {
-    "cityName": "1851–1900",
-    "cityLink": "https://en.wikipedia.org/wiki/History_of_Australia_(1851%E2%80%931900)"
-   },
-   {
-    "cityName": "1901–1945",
-    "cityLink": "https://en.wikipedia.org/wiki/History_of_Australia_(1901%E2%80%9345)"
-   },
-   {
-    "cityName": "Since 1945",
-    "cityLink": "https://en.wikipedia.org/wiki/History_of_Australia_since_1945"
-   },
-   {
-    "cityName": "Constitutional",
-    "cityLink": "https://en.wikipedia.org/wiki/Constitutional_history_of_Australia"
-   },
-   {
-    "cityName": "Diplomatic",
-    "cityLink": "https://en.wikipedia.org/wiki/Diplomatic_history_of_Australia"
-   },
-   {
-    "cityName": "Economic",
-    "cityLink": "https://en.wikipedia.org/wiki/Economic_history_of_Australia"
-   },
-   {
-    "cityName": "Federation",
-    "cityLink": "https://en.wikipedia.org/wiki/Federation_of_Australia"
-   },
-   {
-    "cityName": "Immigration",
-    "cityLink": "https://en.wikipedia.org/wiki/Immigration_history_of_Australia"
-   },
-   {
-    "cityName": "Indigenous",
-    "cityLink": "https://en.wikipedia.org/wiki/History_of_Indigenous_Australians"
-   },
-   {
-    "cityName": "Military",
-    "cityLink": "https://en.wikipedia.org/wiki/Military_history_of_Australia"
-   },
-   {
-    "cityName": "Monarchy",
-    "cityLink": "https://en.wikipedia.org/wiki/History_of_monarchy_in_Australia"
-   },
-   {
-    "cityName": "Railway",
-    "cityLink": "https://en.wikipedia.org/wiki/History_of_rail_transport_in_Australia"
-   },
-   {
-    "cityName": "Women",
-    "cityLink": "https://en.wikipedia.org/wiki/Women_in_Australia"
-   },
-   {
-    "cityName": "Climate",
-    "cityLink": "https://en.wikipedia.org/wiki/Climate_of_Australia"
-   },
-   {
-    "cityName": "Continent",
-    "cityLink": "https://en.wikipedia.org/wiki/Australia_(continent)"
-   },
-   {
-    "cityName": "Deserts",
-    "cityLink": "https://en.wikipedia.org/wiki/Deserts_of_Australia"
-   },
-   {
-    "cityName": "Environment",
-    "cityLink": "https://en.wikipedia.org/wiki/Environment_of_Australia"
-   },
-   {
-    "cityName": "issues",
-    "cityLink": "https://en.wikipedia.org/wiki/Environmental_issues_in_Australia"
-   },
-   {
-    "cityName": "Earthquakes",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia"
-   },
-   {
-    "cityName": "Flora",
-    "cityLink": "https://en.wikipedia.org/wiki/Flora_of_Australia"
-   },
-   {
-    "cityName": "Fauna",
-    "cityLink": "https://en.wikipedia.org/wiki/Fauna_of_Australia"
-   },
-   {
-    "cityName": "Forests",
-    "cityLink": "https://en.wikipedia.org/wiki/Forests_of_Australia"
-   },
-   {
-    "cityName": "Geology",
-    "cityLink": "https://en.wikipedia.org/wiki/Geology_of_Australia"
-   },
-   {
-    "cityName": "Islands",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_islands_of_Australia"
-   },
-   {
-    "cityName": "Mountains",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_mountains_in_Australia"
-   },
-   {
-    "cityName": "Regions",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_regions_of_Australia"
+    "cityName": "Republic of Belarus",
+    "cityLink": "https://en.wikipedia.org/wiki/History_of_Belarus#Republic_of_Belarus"
    },
    {
     "cityName": "Protected areas",
-    "cityLink": "https://en.wikipedia.org/wiki/National_Reserve_System"
+    "cityLink": "https://en.wikipedia.org/wiki/Protected_areas_of_Belarus"
    },
    {
-    "cityName": "Rivers",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_rivers_of_Australia"
-   },
-   {
-    "cityName": "Rabbits",
-    "cityLink": "https://en.wikipedia.org/wiki/Rabbits_in_Australia"
-   },
-   {
-    "cityName": "Waterfalls",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_waterfalls_of_Australia"
-   },
-   {
-    "cityName": "States and Territories",
-    "cityLink": "https://en.wikipedia.org/wiki/States_and_territories_of_Australia"
-   },
-   {
-    "cityName": "Capitals",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_Australian_capital_cities"
-   },
-   {
-    "cityName": "by population",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Australia_by_population"
-   },
-   {
-    "cityName": "by settlement",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_and_cities_in_Australia_by_year_of_settlement"
-   },
-   {
-    "cityName": "Constitution",
-    "cityLink": "https://en.wikipedia.org/wiki/Constitution_of_Australia"
-   },
-   {
-    "cityName": "Courts",
-    "cityLink": "https://en.wikipedia.org/wiki/Australian_court_hierarchy"
-   },
-   {
-    "cityName": "Electoral system",
-    "cityLink": "https://en.wikipedia.org/wiki/Electoral_system_of_Australia"
-   },
-   {
-    "cityName": "Federal budget",
-    "cityLink": "https://en.wikipedia.org/wiki/Australian_federal_budget"
-   },
-   {
-    "cityName": "Foreign relations",
-    "cityLink": "https://en.wikipedia.org/wiki/Foreign_relations_of_Australia"
-   },
-   {
-    "cityName": "Government",
-    "cityLink": "https://en.wikipedia.org/wiki/Government_of_Australia"
-   },
-   {
-    "cityName": "overview",
-    "cityLink": "https://en.wikipedia.org/wiki/Australian_governments"
-   },
-   {
-    "cityName": "Governor-General",
-    "cityLink": "https://en.wikipedia.org/wiki/Governor-General_of_Australia"
-   },
-   {
-    "cityName": "Intelligence and security",
-    "cityLink": "https://en.wikipedia.org/wiki/Australian_Intelligence_Community"
-   },
-   {
-    "cityName": "Law",
-    "cityLink": "https://en.wikipedia.org/wiki/Law_of_Australia"
-   },
-   {
-    "cityName": "Chief Justice",
-    "cityLink": "https://en.wikipedia.org/wiki/Chief_Justice_of_Australia"
-   },
-   {
-    "cityName": "enforcement",
-    "cityLink": "https://en.wikipedia.org/wiki/Law_enforcement_in_Australia"
-   },
-   {
-    "cityName": "Military",
-    "cityLink": "https://en.wikipedia.org/wiki/Australian_Defence_Force"
-   },
-   {
-    "cityName": "Monarchy",
-    "cityLink": "https://en.wikipedia.org/wiki/Monarchy_of_Australia"
-   },
-   {
-    "cityName": "National debt",
-    "cityLink": "https://en.wikipedia.org/wiki/Australian_government_debt"
-   },
-   {
-    "cityName": "Parliament",
-    "cityLink": "https://en.wikipedia.org/wiki/Parliament_of_Australia"
-   },
-   {
-    "cityName": "Public Service",
-    "cityLink": "https://en.wikipedia.org/wiki/Australian_Public_Service"
-   },
-   {
-    "cityName": "Elections",
-    "cityLink": "https://en.wikipedia.org/wiki/Elections_in_Australia"
-   },
-   {
-    "cityName": "Donations",
-    "cityLink": "https://en.wikipedia.org/wiki/Political_funding_in_Australia"
-   },
-   {
-    "cityName": "Parties",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Australia"
-   },
-   {
-    "cityName": "Agriculture",
-    "cityLink": "https://en.wikipedia.org/wiki/Agriculture_in_Australia"
-   },
-   {
-    "cityName": "Companies",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_companies_of_Australia"
-   },
-   {
-    "cityName": "Dollar (currency)",
-    "cityLink": "https://en.wikipedia.org/wiki/Australian_dollar"
-   },
-   {
-    "cityName": "Energy",
-    "cityLink": "https://en.wikipedia.org/wiki/Energy_in_Australia"
-   },
-   {
-    "cityName": "Gross state product",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_Australian_states_and_territories_by_gross_state_product"
-   },
-   {
-    "cityName": "Home ownership",
-    "cityLink": "https://en.wikipedia.org/wiki/Home-ownership_in_Australia"
-   },
-   {
-    "cityName": "Public housing",
-    "cityLink": "https://en.wikipedia.org/wiki/Public_housing_in_Australia"
-   },
-   {
-    "cityName": "Homelessness",
-    "cityLink": "https://en.wikipedia.org/wiki/Homelessness_in_Australia"
-   },
-   {
-    "cityName": "Household income",
-    "cityLink": "https://en.wikipedia.org/wiki/Median_household_income_in_Australia_and_New_Zealand"
-   },
-   {
-    "cityName": "Manufacturing",
-    "cityLink": "https://en.wikipedia.org/wiki/Manufacturing_in_Australia"
-   },
-   {
-    "cityName": "Media",
-    "cityLink": "https://en.wikipedia.org/wiki/Media_of_Australia"
-   },
-   {
-    "cityName": "Mining",
-    "cityLink": "https://en.wikipedia.org/wiki/Mining_in_Australia"
-   },
-   {
-    "cityName": "Reserve Bank",
-    "cityLink": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
-   },
-   {
-    "cityName": "Stock Exchange",
-    "cityLink": "https://en.wikipedia.org/wiki/Australian_Securities_Exchange"
-   },
-   {
-    "cityName": "Superannuation",
-    "cityLink": "https://en.wikipedia.org/wiki/Superannuation_in_Australia"
-   },
-   {
-    "cityName": "Taxation",
-    "cityLink": "https://en.wikipedia.org/wiki/Taxation_in_Australia"
-   },
-   {
-    "cityName": "Telecommunications",
-    "cityLink": "https://en.wikipedia.org/wiki/Telecommunications_in_Australia"
-   },
-   {
-    "cityName": "Tourism",
-    "cityLink": "https://en.wikipedia.org/wiki/Tourism_in_Australia"
-   },
-   {
-    "cityName": "Transportation",
-    "cityLink": "https://en.wikipedia.org/wiki/Transport_in_Australia"
-   },
-   {
-    "cityName": "Welfare system",
-    "cityLink": "https://en.wikipedia.org/wiki/Social_security_in_Australia"
-   },
-   {
-    "cityName": "Australians",
-    "cityLink": "https://en.wikipedia.org/wiki/Australians"
-   },
-   {
-    "cityName": "indigenous",
-    "cityLink": "https://en.wikipedia.org/wiki/Indigenous_Australians"
-   },
-   {
-    "cityName": "Crime",
-    "cityLink": "https://en.wikipedia.org/wiki/Crime_in_Australia"
-   },
-   {
-    "cityName": "Demographics",
-    "cityLink": "https://en.wikipedia.org/wiki/Demographics_of_Australia"
-   },
-   {
-    "cityName": "Education",
-    "cityLink": "https://en.wikipedia.org/wiki/Education_in_Australia"
-   },
-   {
-    "cityName": "Health care",
-    "cityLink": "https://en.wikipedia.org/wiki/Health_care_in_Australia"
-   },
-   {
-    "cityName": "Human rights",
-    "cityLink": "https://en.wikipedia.org/wiki/Human_rights_in_Australia"
-   },
-   {
-    "cityName": "LGBT rights",
-    "cityLink": "https://en.wikipedia.org/wiki/LGBT_rights_in_Australia"
-   },
-   {
-    "cityName": "Immigration",
-    "cityLink": "https://en.wikipedia.org/wiki/Immigration_to_Australia"
-   },
-   {
-    "cityName": "Languages",
-    "cityLink": "https://en.wikipedia.org/wiki/Languages_of_Australia"
-   },
-   {
-    "cityName": "Multiculturalism",
-    "cityLink": "https://en.wikipedia.org/wiki/Multiculturalism_in_Australia"
-   },
-   {
-    "cityName": "Poverty",
-    "cityLink": "https://en.wikipedia.org/wiki/Poverty_in_Australia"
-   },
-   {
-    "cityName": "Architecture",
-    "cityLink": "https://en.wikipedia.org/wiki/Architecture_of_Australia"
-   },
-   {
-    "cityName": "Art",
-    "cityLink": "https://en.wikipedia.org/wiki/Australian_art"
-   },
-   {
-    "cityName": "Arts",
-    "cityLink": "https://en.wikipedia.org/wiki/Arts_in_Australia"
-   },
-   {
-    "cityName": "Australian English",
-    "cityLink": "https://en.wikipedia.org/wiki/Australian_English"
-   },
-   {
-    "cityName": "Cinema",
-    "cityLink": "https://en.wikipedia.org/wiki/Cinema_of_Australia"
-   },
-   {
-    "cityName": "Cuisine",
-    "cityLink": "https://en.wikipedia.org/wiki/Australian_cuisine"
-   },
-   {
-    "cityName": "wine",
-    "cityLink": "https://en.wikipedia.org/wiki/Australian_wine"
-   },
-   {
-    "cityName": "Dance",
-    "cityLink": "https://en.wikipedia.org/wiki/Dance_in_Australia"
-   },
-   {
-    "cityName": "Literature",
-    "cityLink": "https://en.wikipedia.org/wiki/Australian_literature"
-   },
-   {
-    "cityName": "Music",
-    "cityLink": "https://en.wikipedia.org/wiki/Music_of_Australia"
-   },
-   {
-    "cityName": "Public holidays",
-    "cityLink": "https://en.wikipedia.org/wiki/Public_holidays_in_Australia"
-   },
-   {
-    "cityName": "Radio",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_radio_stations_in_Australia"
-   },
-   {
-    "cityName": "Religion",
-    "cityLink": "https://en.wikipedia.org/wiki/Religion_in_Australia"
-   },
-   {
-    "cityName": "Sport",
-    "cityLink": "https://en.wikipedia.org/wiki/Sport_in_Australia"
-   },
-   {
-    "cityName": "Television",
-    "cityLink": "https://en.wikipedia.org/wiki/Television_in_Australia"
-   },
-   {
-    "cityName": "Theatre",
-    "cityLink": "https://en.wikipedia.org/wiki/Theatre_of_Australia"
-   },
-   {
-    "cityName": "Coat of arms",
-    "cityLink": "https://en.wikipedia.org/wiki/Coat_of_arms_of_Australia"
-   },
-   {
-    "cityName": "Flags",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_Australian_flags"
-   },
-   {
-    "cityName": "Honours",
-    "cityLink": "https://en.wikipedia.org/wiki/Australian_honours_system"
-   },
-   {
-    "cityName": "State and Territory symbols",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_symbols_of_states_and_territories_of_Australia"
-   },
-   {
-    "cityName": "Outline",
-    "cityLink": "https://en.wikipedia.org/wiki/Outline_of_Australia"
-   },
-   {
-    "cityName": "Index",
-    "cityLink": "https://en.wikipedia.org/wiki/Index_of_Australia-related_articles"
-   },
-   {
-    "cityName": "Book",
-    "cityLink": "https://en.wikipedia.org/wiki/Book:Australia"
-   },
-   {
-    "cityName": "Category",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Australia"
-   },
-   {
-    "cityName": "Portal",
-    "cityLink": "https://en.wikipedia.org/wiki/Portal:Australia"
-   },
-   {
-    "cityName": "WikiProject",
-    "cityLink": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Australia"
-   }
-  ]
- ]
-},{
- "country": "Oman",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Oman",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
- "cities": [
-  [
-   {
-    "cityName": "Adam",
-    "cityLink": "https://en.wikipedia.org/wiki/Adam,_Oman"
-   },
-   {
-    "cityName": "Al Hamra",
-    "cityLink": "https://en.wikipedia.org/wiki/Al_Hamra,_Oman"
-   },
-   {
-    "cityName": "Al Madina A'Zarqa",
-    "cityLink": "https://en.wikipedia.org/wiki/Blue_City,_Oman"
-   },
-   {
-    "cityName": "Bahla",
-    "cityLink": "https://en.wikipedia.org/wiki/Bahla"
-   },
-   {
-    "cityName": "Barka",
-    "cityLink": "https://en.wikipedia.org/wiki/Barka,_Oman"
-   },
-   {
-    "cityName": "Bidbid",
-    "cityLink": "https://en.wikipedia.org/wiki/Bidbid"
-   },
-   {
-    "cityName": "Bidiya",
-    "cityLink": "https://en.wikipedia.org/wiki/Bidiya"
-   },
-   {
-    "cityName": "Dibba Al-Baya",
-    "cityLink": "https://en.wikipedia.org/wiki/Dibba_Al-Baya"
-   },
-   {
-    "cityName": "Duqm",
-    "cityLink": "https://en.wikipedia.org/wiki/Duqm"
-   },
-   {
-    "cityName": "Haima",
-    "cityLink": "https://en.wikipedia.org/wiki/Haima,_Oman"
-   },
-   {
-    "cityName": "Ibra",
-    "cityLink": "https://en.wikipedia.org/wiki/Ibra"
-   },
-   {
-    "cityName": "Ibri",
-    "cityLink": "https://en.wikipedia.org/wiki/Ibri"
-   },
-   {
-    "cityName": "Izki",
-    "cityLink": "https://en.wikipedia.org/wiki/Izki"
-   },
-   {
-    "cityName": "Jabrin",
-    "cityLink": "https://en.wikipedia.org/wiki/Jabrin"
-   },
-   {
-    "cityName": "Khasab",
-    "cityLink": "https://en.wikipedia.org/wiki/Khasab"
-   },
-   {
-    "cityName": "Manah",
-    "cityLink": "https://en.wikipedia.org/wiki/Manah,_Oman"
-   },
-   {
-    "cityName": "Muscat",
-    "cityLink": "https://en.wikipedia.org/wiki/Muscat,_Oman"
-   },
-   {
-    "cityName": "Nizwa",
-    "cityLink": "https://en.wikipedia.org/wiki/Nizwa"
-   },
-   {
-    "cityName": "Quriyat",
-    "cityLink": "https://en.wikipedia.org/wiki/Qurayyat,_Oman"
-   },
-   {
-    "cityName": "Raysut",
-    "cityLink": "https://en.wikipedia.org/wiki/Raysut"
-   },
-   {
-    "cityName": "Ruwi",
-    "cityLink": "https://en.wikipedia.org/wiki/Ruwi"
-   },
-   {
-    "cityName": "Saham",
-    "cityLink": "https://en.wikipedia.org/wiki/Saham"
-   },
-   {
-    "cityName": "Shinas",
-    "cityLink": "https://en.wikipedia.org/wiki/Shinas"
-   },
-   {
-    "cityName": "Saiq",
-    "cityLink": "https://en.wikipedia.org/wiki/Saiq"
-   },
-   {
-    "cityName": "Salalah",
-    "cityLink": "https://en.wikipedia.org/wiki/Salalah"
-   },
-   {
-    "cityName": "Samail",
-    "cityLink": "https://en.wikipedia.org/wiki/Samail"
-   },
-   {
-    "cityName": "Sohar",
-    "cityLink": "https://en.wikipedia.org/wiki/Sohar"
-   },
-   {
-    "cityName": "Sur",
-    "cityLink": "https://en.wikipedia.org/wiki/Sur,_Oman"
-   },
-   {
-    "cityName": "Thumrait",
-    "cityLink": "https://en.wikipedia.org/wiki/Thumrait"
-   },
-   {
-    "cityName": "Provinces of Oman",
-    "cityLink": "https://en.wikipedia.org/wiki/Provinces_of_Oman"
-   }
-  ],
-  [
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Asia_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Asia_topic"
-   },
-   {
-    "cityName": "Afghanistan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Afghanistan"
-   },
-   {
-    "cityName": "Azerbaijan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Azerbaijan"
-   },
-   {
-    "cityName": "Bahrain",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Bahrain"
-   },
-   {
-    "cityName": "Bhutan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Bhutan"
-   },
-   {
-    "cityName": "Cambodia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Cambodia"
-   },
-   {
-    "cityName": "China",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_China"
-   },
-   {
-    "cityName": "Egypt",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Egypt"
-   },
-   {
-    "cityName": "Indonesia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Indonesia"
-   },
-   {
-    "cityName": "Iran",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Iran"
-   },
-   {
-    "cityName": "Iraq",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Iraq"
-   },
-   {
-    "cityName": "Israel",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Israel"
-   },
-   {
-    "cityName": "Japan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Japan"
-   },
-   {
-    "cityName": "Jordan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Jordan"
-   },
-   {
-    "cityName": "Kazakhstan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kazakhstan"
-   },
-   {
-    "cityName": "North Korea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_North_Korea"
-   },
-   {
-    "cityName": "South Korea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_South_Korea"
-   },
-   {
-    "cityName": "Kyrgyzstan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kyrgyzstan"
-   },
-   {
-    "cityName": "Laos",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Laos"
-   },
-   {
-    "cityName": "Malaysia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Malaysia"
-   },
-   {
-    "cityName": "Mongolia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mongolia"
-   },
-   {
-    "cityName": "Myanmar",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Myanmar"
-   },
-   {
-    "cityName": "Nepal",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Nepal"
-   },
-   {
-    "cityName": "Pakistan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Pakistan"
-   },
-   {
-    "cityName": "Philippines",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Philippines"
-   },
-   {
-    "cityName": "Qatar",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Qatar"
-   },
-   {
-    "cityName": "Sri Lanka",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sri_Lanka"
-   },
-   {
-    "cityName": "Syria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Syria"
-   },
-   {
-    "cityName": "Tajikistan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tajikistan"
-   },
-   {
-    "cityName": "Thailand",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Thailand"
-   },
-   {
-    "cityName": "Turkey",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Turkey"
-   },
-   {
-    "cityName": "Turkmenistan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Turkmenistan"
-   },
-   {
-    "cityName": "United Arab Emirates",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_United_Arab_Emirates"
-   },
-   {
-    "cityName": "Uzbekistan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Uzbekistan"
-   },
-   {
-    "cityName": "Vietnam",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Vietnam"
-   },
-   {
-    "cityName": "Yemen",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Yemen"
-   },
-   {
-    "cityName": "Taiwan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Taiwan"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Lists_of_cities_in_the_Middle_East"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Lists_of_cities_in_the_Middle_East"
-   },
-   {
-    "cityName": "Bahrain",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Bahrain"
-   },
-   {
-    "cityName": "Cyprus",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities,_towns_and_villages_in_Cyprus"
-   },
-   {
-    "cityName": "Egypt",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Egypt"
-   },
-   {
-    "cityName": "Iran",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Iran"
-   },
-   {
-    "cityName": "Iraq",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Iraq"
-   },
-   {
-    "cityName": "Israel",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Israel"
-   },
-   {
-    "cityName": "Jordan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Jordan"
-   },
-   {
-    "cityName": "Palestine",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_administered_by_the_State_of_Palestine"
-   },
-   {
-    "cityName": "Gaza",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Gaza_Strip"
-   },
-   {
-    "cityName": "Qatar",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Qatar"
-   },
-   {
-    "cityName": "Saudi Arabia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Saudi_Arabia"
-   },
-   {
-    "cityName": "Syria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Syria"
-   },
-   {
-    "cityName": "Turkey",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Turkey"
-   },
-   {
-    "cityName": "United Arab Emirates",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_United_Arab_Emirates"
-   },
-   {
-    "cityName": "Yemen",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Yemen"
-   }
-  ]
- ]
-},{
- "country": "Fiji",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Fiji",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
- "cities": [
-  [
-   {
-    "cityName": "Ba",
-    "cityLink": "https://en.wikipedia.org/wiki/Ba_(town)"
-   },
-   {
-    "cityName": "Labasa",
-    "cityLink": "https://en.wikipedia.org/wiki/Labasa"
-   },
-   {
-    "cityName": "Lami",
-    "cityLink": "https://en.wikipedia.org/wiki/Lami,_Fiji"
-   },
-   {
-    "cityName": "Levuka",
-    "cityLink": "https://en.wikipedia.org/wiki/Levuka"
-   },
-   {
-    "cityName": "Nausori",
-    "cityLink": "https://en.wikipedia.org/wiki/Nausori"
-   },
-   {
-    "cityName": "Savusavu",
-    "cityLink": "https://en.wikipedia.org/wiki/Savusavu"
-   },
-   {
-    "cityName": "Sigatoka",
-    "cityLink": "https://en.wikipedia.org/wiki/Sigatoka"
-   },
-   {
-    "cityName": "Tavua",
-    "cityLink": "https://en.wikipedia.org/wiki/Tavua,_Fiji"
-   },
-   {
-    "cityName": "Nadi",
-    "cityLink": "https://en.wikipedia.org/wiki/Nadi"
-   },
-   {
-    "cityName": "Korovou",
-    "cityLink": "https://en.wikipedia.org/wiki/Korovou"
-   },
-   {
-    "cityName": "Nasinu",
-    "cityLink": "https://en.wikipedia.org/wiki/Nasinu"
-   }
-  ],
-  [
-   {
-    "cityName": "Lautoka",
-    "cityLink": "https://en.wikipedia.org/wiki/Lautoka"
-   },
-   {
-    "cityName": "Suva",
-    "cityLink": "https://en.wikipedia.org/wiki/Suva"
-   },
-   {
-    "cityName": "Ba",
-    "cityLink": "https://en.wikipedia.org/wiki/Ba_(town)"
-   },
-   {
-    "cityName": "Labasa",
-    "cityLink": "https://en.wikipedia.org/wiki/Labasa"
-   },
-   {
-    "cityName": "Lami",
-    "cityLink": "https://en.wikipedia.org/wiki/Lami,_Fiji"
-   },
-   {
-    "cityName": "Levuka",
-    "cityLink": "https://en.wikipedia.org/wiki/Levuka"
-   },
-   {
-    "cityName": "Nausori",
-    "cityLink": "https://en.wikipedia.org/wiki/Nausori"
-   },
-   {
-    "cityName": "Savusavu",
-    "cityLink": "https://en.wikipedia.org/wiki/Savusavu"
-   },
-   {
-    "cityName": "Sigatoka",
-    "cityLink": "https://en.wikipedia.org/wiki/Sigatoka"
-   },
-   {
-    "cityName": "Tavua",
-    "cityLink": "https://en.wikipedia.org/wiki/Tavua,_Fiji"
-   },
-   {
-    "cityName": "Nadi",
-    "cityLink": "https://en.wikipedia.org/wiki/Nadi"
-   },
-   {
-    "cityName": "Korovou",
-    "cityLink": "https://en.wikipedia.org/wiki/Korovou"
-   },
-   {
-    "cityName": "Nasinu",
-    "cityLink": "https://en.wikipedia.org/wiki/Nasinu"
-   },
-   {
-    "cityName": "Vatukoula",
-    "cityLink": "https://en.wikipedia.org/wiki/Vatukoula"
-   },
-   {
-    "cityName": "Nakasi",
-    "cityLink": "https://en.wikipedia.org/wiki/Nakasi,_Fiji"
-   }
-  ],
-  [
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Oceania_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Oceania_topic"
-   },
-   {
-    "cityName": "Australia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Australia"
-   },
-   {
-    "cityName": "Marshall Islands",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Marshall_Islands"
-   },
-   {
-    "cityName": "New Zealand",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_New_Zealand"
-   },
-   {
-    "cityName": "Vanuatu",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Vanuatu"
-   },
-   {
-    "cityName": "French Polynesia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_French_Polynesia"
-   },
-   {
-    "cityName": "New Caledonia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_New_Caledonia"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Oceania_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Oceania_topic"
-   },
-   {
-    "cityName": "Australia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Australia"
-   },
-   {
-    "cityName": "New Zealand",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_New_Zealand"
-   },
-   {
-    "cityName": "Norfolk Island",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Norfolk_Island"
-   }
-  ]
- ]
-},{
- "country": "East Timor (Timor-Leste)",
- "link": "https://en.wikipedia.org/wiki/List_of_cities,_towns_and_villages_in_East_Timor",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
- "cities": [
-  [
-   {
-    "cityName": "Aileu District",
-    "cityLink": "https://en.wikipedia.org/wiki/Aileu_District"
-   },
-   {
-    "cityName": "Aileu",
-    "cityLink": "https://en.wikipedia.org/wiki/Aileu"
-   },
-   {
-    "cityName": "Ainaro District",
-    "cityLink": "https://en.wikipedia.org/wiki/Ainaro_District"
-   },
-   {
-    "cityName": "Ainaro",
-    "cityLink": "https://en.wikipedia.org/wiki/Ainaro"
-   },
-   {
-    "cityName": "Maubara",
-    "cityLink": "https://en.wikipedia.org/wiki/Maubara"
-   },
-   {
-    "cityName": "Baucau District",
-    "cityLink": "https://en.wikipedia.org/wiki/Baucau_District"
-   },
-   {
-    "cityName": "Baucau",
-    "cityLink": "https://en.wikipedia.org/wiki/Baucau"
-   },
-   {
-    "cityName": "Bucoli",
-    "cityLink": "https://en.wikipedia.org/wiki/Bucoli"
-   },
-   {
-    "cityName": "Venilale",
-    "cityLink": "https://en.wikipedia.org/wiki/Venilale"
-   },
-   {
-    "cityName": "Bobonaro District",
-    "cityLink": "https://en.wikipedia.org/wiki/Bobonaro_District"
-   },
-   {
-    "cityName": "Atabae",
-    "cityLink": "https://en.wikipedia.org/wiki/Atabae"
-   },
-   {
-    "cityName": "Balibo",
-    "cityLink": "https://en.wikipedia.org/wiki/Balibo"
-   },
-   {
-    "cityName": "Bobonaro",
-    "cityLink": "https://en.wikipedia.org/wiki/Bobonaro"
-   },
-   {
-    "cityName": "Lolotoe",
-    "cityLink": "https://en.wikipedia.org/wiki/Lolotoe"
-   },
-   {
-    "cityName": "Maliana",
-    "cityLink": "https://en.wikipedia.org/wiki/Maliana"
-   },
-   {
-    "cityName": "Cova Lima District",
-    "cityLink": "https://en.wikipedia.org/wiki/Cova_Lima_District"
-   },
-   {
-    "cityName": "Fohoren",
-    "cityLink": "https://en.wikipedia.org/wiki/Fohoren"
-   },
-   {
-    "cityName": "Suai",
-    "cityLink": "https://en.wikipedia.org/wiki/Suai,_East_Timor"
-   },
-   {
-    "cityName": "Zumalai",
-    "cityLink": "https://en.wikipedia.org/wiki/Zumalai"
-   },
-   {
-    "cityName": "Dili District",
-    "cityLink": "https://en.wikipedia.org/wiki/Dili_District"
-   },
-   {
-    "cityName": "Dili",
-    "cityLink": "https://en.wikipedia.org/wiki/Dili"
-   },
-   {
-    "cityName": "Metinaro",
-    "cityLink": "https://en.wikipedia.org/wiki/Metinaro"
-   },
-   {
-    "cityName": "Ermera District",
-    "cityLink": "https://en.wikipedia.org/wiki/Ermera_District"
-   },
-   {
-    "cityName": "Atsabe",
-    "cityLink": "https://en.wikipedia.org/wiki/Atsabe"
-   },
-   {
-    "cityName": "Ermera",
-    "cityLink": "https://en.wikipedia.org/wiki/Ermera"
-   },
-   {
-    "cityName": "Gleno",
-    "cityLink": "https://en.wikipedia.org/wiki/Gleno"
-   },
-   {
-    "cityName": "Lautém District",
-    "cityLink": "https://en.wikipedia.org/wiki/Laut%C3%A9m_District"
-   },
-   {
-    "cityName": "Fuiloro",
-    "cityLink": "https://en.wikipedia.org/wiki/Fuiloro"
-   },
-   {
-    "cityName": "Lautém",
-    "cityLink": "https://en.wikipedia.org/wiki/Laut%C3%A9m_(city)"
-   },
-   {
-    "cityName": "Lospalos",
-    "cityLink": "https://en.wikipedia.org/wiki/Lospalos"
-   },
-   {
-    "cityName": "Tutuala",
-    "cityLink": "https://en.wikipedia.org/wiki/Tutuala"
-   },
-   {
-    "cityName": "Liquiçá District",
-    "cityLink": "https://en.wikipedia.org/wiki/Liqui%C3%A7%C3%A1_District"
-   },
-   {
-    "cityName": "Bazartete",
-    "cityLink": "https://en.wikipedia.org/wiki/Bazartete"
-   },
-   {
-    "cityName": "Liquiçá",
-    "cityLink": "https://en.wikipedia.org/wiki/Liqui%C3%A7%C3%A1"
-   },
-   {
-    "cityName": "Maubara",
-    "cityLink": "https://en.wikipedia.org/wiki/Maubara"
-   },
-   {
-    "cityName": "Manatuto District",
-    "cityLink": "https://en.wikipedia.org/wiki/Manatuto_District"
-   },
-   {
-    "cityName": "Laclubar",
-    "cityLink": "https://en.wikipedia.org/wiki/Laclubar"
-   },
-   {
-    "cityName": "Manatuto",
-    "cityLink": "https://en.wikipedia.org/wiki/Manatuto"
-   },
-   {
-    "cityName": "Manufahi District",
-    "cityLink": "https://en.wikipedia.org/wiki/Manufahi_District"
-   },
-   {
-    "cityName": "Alas",
-    "cityLink": "https://en.wikipedia.org/wiki/Alas_(East_Timor)"
-   },
-   {
-    "cityName": "Fatuberlio",
-    "cityLink": "https://en.wikipedia.org/wiki/Fatuberlio"
-   },
-   {
-    "cityName": "Turiscai",
-    "cityLink": "https://en.wikipedia.org/wiki/Turiscai"
-   },
-   {
-    "cityName": "Oecusse District",
-    "cityLink": "https://en.wikipedia.org/wiki/Oecusse_District"
-   },
-   {
-    "cityName": "Citrana",
-    "cityLink": "https://en.wikipedia.org/wiki/Citrana"
-   },
-   {
-    "cityName": "Nitibe",
-    "cityLink": "https://en.wikipedia.org/wiki/Nitibe"
-   },
-   {
-    "cityName": "Pante Macassar",
-    "cityLink": "https://en.wikipedia.org/wiki/Pante_Macassar"
-   },
-   {
-    "cityName": "Passabe",
-    "cityLink": "https://en.wikipedia.org/wiki/Passabe"
-   },
-   {
-    "cityName": "Viqueque District",
-    "cityLink": "https://en.wikipedia.org/wiki/Viqueque_District"
-   },
-   {
-    "cityName": "Ossu",
-    "cityLink": "https://en.wikipedia.org/wiki/Ossu_(East_Timor)"
-   },
-   {
-    "cityName": "Viqueque",
-    "cityLink": "https://en.wikipedia.org/wiki/Viqueque"
-   },
-   {
-    "cityName": "Atauro Island",
-    "cityLink": "https://en.wikipedia.org/wiki/Atauro_Island"
-   }
-  ],
-  [
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Asia_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Asia_topic"
-   },
-   {
-    "cityName": "Afghanistan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Afghanistan"
-   },
-   {
-    "cityName": "Azerbaijan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Azerbaijan"
-   },
-   {
-    "cityName": "Bahrain",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Bahrain"
-   },
-   {
-    "cityName": "Bhutan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Bhutan"
-   },
-   {
-    "cityName": "Cambodia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Cambodia"
-   },
-   {
-    "cityName": "China",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_China"
-   },
-   {
-    "cityName": "Egypt",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Egypt"
-   },
-   {
-    "cityName": "Indonesia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Indonesia"
-   },
-   {
-    "cityName": "Iran",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Iran"
-   },
-   {
-    "cityName": "Iraq",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Iraq"
-   },
-   {
-    "cityName": "Israel",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Israel"
-   },
-   {
-    "cityName": "Japan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Japan"
-   },
-   {
-    "cityName": "Jordan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Jordan"
-   },
-   {
-    "cityName": "Kazakhstan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kazakhstan"
-   },
-   {
-    "cityName": "North Korea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_North_Korea"
-   },
-   {
-    "cityName": "South Korea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_South_Korea"
-   },
-   {
-    "cityName": "Kyrgyzstan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kyrgyzstan"
-   },
-   {
-    "cityName": "Laos",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Laos"
-   },
-   {
-    "cityName": "Malaysia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Malaysia"
-   },
-   {
-    "cityName": "Mongolia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mongolia"
-   },
-   {
-    "cityName": "Myanmar",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Myanmar"
-   },
-   {
-    "cityName": "Nepal",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Nepal"
-   },
-   {
-    "cityName": "Oman",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Oman"
-   },
-   {
-    "cityName": "Pakistan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Pakistan"
-   },
-   {
-    "cityName": "Philippines",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Philippines"
-   },
-   {
-    "cityName": "Qatar",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Qatar"
-   },
-   {
-    "cityName": "Sri Lanka",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sri_Lanka"
-   },
-   {
-    "cityName": "Syria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Syria"
-   },
-   {
-    "cityName": "Tajikistan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tajikistan"
-   },
-   {
-    "cityName": "Thailand",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Thailand"
-   },
-   {
-    "cityName": "Turkey",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Turkey"
-   },
-   {
-    "cityName": "Turkmenistan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Turkmenistan"
-   },
-   {
-    "cityName": "United Arab Emirates",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_United_Arab_Emirates"
-   },
-   {
-    "cityName": "Uzbekistan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Uzbekistan"
-   },
-   {
-    "cityName": "Vietnam",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Vietnam"
-   },
-   {
-    "cityName": "Yemen",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Yemen"
-   },
-   {
-    "cityName": "Taiwan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Taiwan"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Asia_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Asia_topic"
-   },
-   {
-    "cityName": "Japan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Japan"
-   },
-   {
-    "cityName": "South Korea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_South_Korea"
-   },
-   {
-    "cityName": "Sri Lanka",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Sri_Lanka"
-   },
-   {
-    "cityName": "Hong Kong",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Hong_Kong"
-   }
-  ]
- ]
-},{
- "country": "Guinea",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
- "cities": [
-  [
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Guinea_topics"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Guinea_topics"
-   },
-   {
-    "cityName": "Regional history",
-    "cityLink": "https://en.wikipedia.org/wiki/History_of_West_Africa"
-   },
-   {
-    "cityName": "Songhai Empire",
-    "cityLink": "https://en.wikipedia.org/wiki/Songhai_Empire"
-   },
-   {
-    "cityName": "Imamate of Futa Jallon",
-    "cityLink": "https://en.wikipedia.org/wiki/Imamate_of_Futa_Jallon"
-   },
-   {
-    "cityName": "Wassoulou Empire",
-    "cityLink": "https://en.wikipedia.org/wiki/Wassoulou_Empire"
-   },
-   {
-    "cityName": "African slave trade",
-    "cityLink": "https://en.wikipedia.org/wiki/Slavery_in_Africa"
-   },
-   {
-    "cityName": "French West Africa",
-    "cityLink": "https://en.wikipedia.org/wiki/French_West_Africa"
-   },
-   {
-    "cityName": "Rivières du Sud",
-    "cityLink": "https://en.wikipedia.org/wiki/Rivi%C3%A8res_du_Sud"
-   },
-   {
-    "cityName": "French Guinea",
-    "cityLink": "https://en.wikipedia.org/wiki/French_Guinea"
-   },
-   {
-    "cityName": "Guinea-Bissau War of Independence",
-    "cityLink": "https://en.wikipedia.org/wiki/Guinea-Bissau_War_of_Independence"
-   },
-   {
-    "cityName": "Portuguese invasion",
-    "cityLink": "https://en.wikipedia.org/wiki/Operation_Green_Sea"
-   },
-   {
-    "cityName": "Camp Boiro",
-    "cityLink": "https://en.wikipedia.org/wiki/Camp_Boiro"
-   },
-   {
-    "cityName": "2007 protests",
-    "cityLink": "https://en.wikipedia.org/wiki/2007_Guinean_general_strike"
-   },
-   {
-    "cityName": "2008 military unrest",
-    "cityLink": "https://en.wikipedia.org/wiki/2008_Guinean_military_unrest"
-   },
-   {
-    "cityName": "2008 coup d'état",
-    "cityLink": "https://en.wikipedia.org/wiki/2008_Guinean_coup_d%27%C3%A9tat"
-   },
-   {
-    "cityName": "2009 protests",
-    "cityLink": "https://en.wikipedia.org/wiki/2009_Guinea_protest"
-   },
-   {
-    "cityName": "2014 Ebola virus epidemic",
-    "cityLink": "https://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_Guinea"
-   },
-   {
-    "cityName": "Biosphere reserves",
-    "cityLink": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves_in_Africa#Guinea"
-   },
-   {
-    "cityName": "Ecoregions",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Ecoregions_of_Guinea"
-   },
-   {
-    "cityName": "Mountains",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Mountains_of_Guinea"
-   },
-   {
-    "cityName": "Protected areas",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Protected_areas_of_Guinea"
-   },
-   {
-    "cityName": "Rivers",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_rivers_of_Guinea"
-   },
-   {
-    "cityName": "Wildlife",
-    "cityLink": "https://en.wikipedia.org/wiki/Wildlife_of_Guinea"
-   },
-   {
-    "cityName": "Cabinet",
-    "cityLink": "https://en.wikipedia.org/wiki/Komara_government"
-   },
-   {
-    "cityName": "Elections",
-    "cityLink": "https://en.wikipedia.org/wiki/Elections_in_Guinea"
-   },
-   {
-    "cityName": "Foreign relations",
-    "cityLink": "https://en.wikipedia.org/wiki/Foreign_relations_of_Guinea"
-   },
-   {
-    "cityName": "Human rights",
-    "cityLink": "https://en.wikipedia.org/wiki/Human_rights_in_Guinea"
-   },
-   {
-    "cityName": "Military",
-    "cityLink": "https://en.wikipedia.org/wiki/Military_of_Guinea"
-   },
-   {
-    "cityName": "Parliament",
-    "cityLink": "https://en.wikipedia.org/wiki/National_Assembly_(Guinea)"
-   },
-   {
-    "cityName": "Political parties",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Guinea"
-   },
-   {
-    "cityName": "President",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_heads_of_state_of_Guinea"
-   },
-   {
-    "cityName": "Prime Minister",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_heads_of_government_of_Guinea"
-   },
-   {
-    "cityName": "Agriculture",
-    "cityLink": "https://en.wikipedia.org/wiki/Agriculture_in_Guinea"
-   },
-   {
-    "cityName": "Central bank",
-    "cityLink": "https://en.wikipedia.org/wiki/Central_Bank_of_the_Republic_of_Guinea"
-   },
-   {
-    "cityName": "Energy",
-    "cityLink": "https://en.wikipedia.org/wiki/Energy_in_Guinea"
-   },
-   {
-    "cityName": "Franc (currency)",
-    "cityLink": "https://en.wikipedia.org/wiki/Guinean_franc"
-   },
-   {
-    "cityName": "Mining",
-    "cityLink": "https://en.wikipedia.org/wiki/Mining_industry_of_Guinea"
-   },
-   {
-    "cityName": "Telecommunications",
-    "cityLink": "https://en.wikipedia.org/wiki/Telecommunications_in_Guinea"
-   },
-   {
-    "cityName": "Trade unions",
-    "cityLink": "https://en.wikipedia.org/wiki/Trade_unions_in_Guinea"
-   },
-   {
-    "cityName": "Transport",
-    "cityLink": "https://en.wikipedia.org/wiki/Transport_in_Guinea"
-   },
-   {
-    "cityName": "Demographics",
-    "cityLink": "https://en.wikipedia.org/wiki/Demographics_of_Guinea"
-   },
-   {
-    "cityName": "Education",
-    "cityLink": "https://en.wikipedia.org/wiki/Education_in_Guinea"
-   },
-   {
-    "cityName": "Ethnic groups",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Ethnic_groups_in_Guinea"
-   },
-   {
-    "cityName": "Health",
-    "cityLink": "https://en.wikipedia.org/wiki/Health_in_Guinea"
-   },
-   {
-    "cityName": "Languages",
-    "cityLink": "https://en.wikipedia.org/wiki/Languages_of_Guinea"
-   },
-   {
-    "cityName": "Religion",
-    "cityLink": "https://en.wikipedia.org/wiki/Religion_in_Guinea"
-   },
-   {
-    "cityName": "Anthem",
-    "cityLink": "https://en.wikipedia.org/wiki/Libert%C3%A9"
-   },
-   {
-    "cityName": "Cinema",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_Guinean_films"
-   },
-   {
-    "cityName": "Cuisine",
-    "cityLink": "https://en.wikipedia.org/wiki/Cuisine_of_Guinea"
-   },
-   {
-    "cityName": "Coat of arms",
-    "cityLink": "https://en.wikipedia.org/wiki/Coat_of_arms_of_Guinea"
-   },
-   {
-    "cityName": "Flag",
-    "cityLink": "https://en.wikipedia.org/wiki/Flag_of_Guinea"
-   },
-   {
-    "cityName": "Music",
-    "cityLink": "https://en.wikipedia.org/wiki/Music_of_Guinea"
-   },
-   {
-    "cityName": "Polygamy",
-    "cityLink": "https://en.wikipedia.org/wiki/Polygamy_in_Guinea"
-   },
-   {
-    "cityName": "Sports",
-    "cityLink": "https://en.wikipedia.org/wiki/Outline_of_Guinea#Sports_in_Guinea"
-   },
-   {
-    "cityName": "Outline",
-    "cityLink": "https://en.wikipedia.org/wiki/Outline_of_Guinea"
-   },
-   {
-    "cityName": "Index",
-    "cityLink": "https://en.wikipedia.org/wiki/Index_of_Guinea-related_articles"
-   },
-   {
-    "cityName": "Category",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Guinea"
-   },
-   {
-    "cityName": "Portal",
-    "cityLink": "https://en.wikipedia.org/wiki/Portal:Guinea"
-   },
-   {
-    "cityName": "WikiProject",
-    "cityLink": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Guinea"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Africa_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Africa_topic"
-   },
-   {
-    "cityName": "Algeria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Algeria"
-   },
-   {
-    "cityName": "Benin",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Benin"
-   },
-   {
-    "cityName": "Botswana",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Botswana"
-   },
-   {
-    "cityName": "Burkina Faso",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Burkina_Faso"
-   },
-   {
-    "cityName": "Burundi",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Burundi"
-   },
-   {
-    "cityName": "Central African Republic",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Central_African_Republic"
-   },
-   {
-    "cityName": "Chad",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Chad"
-   },
-   {
-    "cityName": "Comoros",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Comoros"
-   },
-   {
-    "cityName": "Democratic Republic of the Congo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Democratic_Republic_of_the_Congo"
-   },
-   {
-    "cityName": "Republic of the Congo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_the_Congo"
-   },
-   {
-    "cityName": "Egypt",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Egypt"
-   },
-   {
-    "cityName": "Equatorial Guinea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Equatorial_Guinea"
-   },
-   {
-    "cityName": "Eritrea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Eritrea"
-   },
-   {
-    "cityName": "Gabon",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Gabon"
-   },
-   {
-    "cityName": "Ghana",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana"
-   },
-   {
-    "cityName": "Guinea-Bissau",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea-Bissau"
-   },
-   {
-    "cityName": "Ivory Coast (Côte d'Ivoire)",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ivory_Coast"
-   },
-   {
-    "cityName": "Kenya",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kenya"
-   },
-   {
-    "cityName": "Lesotho",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Lesotho"
-   },
-   {
-    "cityName": "Liberia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Liberia"
-   },
-   {
-    "cityName": "Libya",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Libya"
-   },
-   {
-    "cityName": "Madagascar",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Madagascar"
-   },
-   {
-    "cityName": "Malawi",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Malawi"
-   },
-   {
-    "cityName": "Mali",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mali"
-   },
-   {
-    "cityName": "Mauritania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mauritania"
-   },
-   {
-    "cityName": "Morocco",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Morocco"
-   },
-   {
-    "cityName": "Mozambique",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mozambique"
-   },
-   {
-    "cityName": "Niger",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Niger"
-   },
-   {
-    "cityName": "Nigeria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Nigeria"
-   },
-   {
-    "cityName": "Rwanda",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Rwanda"
-   },
-   {
-    "cityName": "Senegal",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Senegal"
-   },
-   {
-    "cityName": "Seychelles",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Seychelles"
-   },
-   {
-    "cityName": "Sierra Leone",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Somalia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Somalia"
-   },
-   {
-    "cityName": "South Sudan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_South_Sudan"
-   },
-   {
-    "cityName": "Sudan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sudan"
-   },
-   {
-    "cityName": "Swaziland",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Swaziland"
-   },
-   {
-    "cityName": "Tanzania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tanzania"
-   },
-   {
-    "cityName": "Togo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Togo"
-   },
-   {
-    "cityName": "Tunisia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tunisia"
-   },
-   {
-    "cityName": "Madeira",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Madeira"
-   },
-   {
-    "cityName": "Mayotte",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mayotte"
-   },
-   {
-    "cityName": "Western Sahara",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Western_Sahara"
-   }
-  ]
- ]
-},{
- "country": "Rwanda",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Rwanda",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
- "cities": [
-  [
-   {
-    "cityName": "Butare",
-    "cityLink": "https://en.wikipedia.org/wiki/Butare"
-   },
-   {
-    "cityName": "Byumba",
-    "cityLink": "https://en.wikipedia.org/wiki/Byumba"
-   },
-   {
-    "cityName": "Cyangugu",
-    "cityLink": "https://en.wikipedia.org/wiki/Cyangugu"
-   },
-   {
-    "cityName": "Gisenyi",
-    "cityLink": "https://en.wikipedia.org/wiki/Gisenyi"
-   },
-   {
-    "cityName": "Gitarama",
-    "cityLink": "https://en.wikipedia.org/wiki/Gitarama"
-   },
-   {
-    "cityName": "Kibeho",
-    "cityLink": "https://en.wikipedia.org/wiki/Kibeho"
-   },
-   {
-    "cityName": "Kibungo",
-    "cityLink": "https://en.wikipedia.org/wiki/Kibungo_Municipality"
-   },
-   {
-    "cityName": "Kibuye",
-    "cityLink": "https://en.wikipedia.org/wiki/Kibuye,_Rwanda"
-   },
-   {
-    "cityName": "Kigali",
-    "cityLink": "https://en.wikipedia.org/wiki/Kigali"
-   },
-   {
-    "cityName": "Nyanza",
-    "cityLink": "https://en.wikipedia.org/wiki/Nyanza,_Rwanda"
-   },
-   {
-    "cityName": "Ruhengeri",
-    "cityLink": "https://en.wikipedia.org/wiki/Ruhengeri"
-   },
-   {
-    "cityName": "Rwamagana",
-    "cityLink": "https://en.wikipedia.org/wiki/Rwamagana"
-   },
-   {
-    "cityName": "Gikongoro",
-    "cityLink": "https://en.wikipedia.org/wiki/Gikongoro"
-   },
-   {
-    "cityName": "Gasarenda",
-    "cityLink": "https://en.wikipedia.org/wiki/Gasarenda"
-   },
-   {
-    "cityName": "Geography of Rwanda",
-    "cityLink": "https://en.wikipedia.org/wiki/Geography_of_Rwanda"
-   }
-  ],
-  [
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Rwanda_topics"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Rwanda_topics"
-   },
-   {
-    "cityName": "Timeline",
-    "cityLink": "https://en.wikipedia.org/wiki/Timeline_of_Rwandan_history"
-   },
-   {
-    "cityName": "Kingdom (11th century-1962)",
-    "cityLink": "https://en.wikipedia.org/wiki/Kingdom_of_Rwanda"
-   },
-   {
-    "cityName": "German rule (1885–1919)",
-    "cityLink": "https://en.wikipedia.org/wiki/German_East_Africa"
-   },
-   {
-    "cityName": "Belgian rule (1922–1962)",
-    "cityLink": "https://en.wikipedia.org/wiki/Ruanda-Urundi"
-   },
-   {
-    "cityName": "Ruzagayura famine",
-    "cityLink": "https://en.wikipedia.org/wiki/Ruzagayura_famine"
-   },
-   {
-    "cityName": "Revolution (1959–62)",
-    "cityLink": "https://en.wikipedia.org/wiki/Rwandan_Revolution"
-   },
-   {
-    "cityName": "Civil War (1990-1994)",
-    "cityLink": "https://en.wikipedia.org/wiki/Rwandan_Civil_War"
-   },
-   {
-    "cityName": "Genocide (1994)",
-    "cityLink": "https://en.wikipedia.org/wiki/Rwandan_Genocide"
-   },
-   {
-    "cityName": "Second Congo War (1998-2003)",
-    "cityLink": "https://en.wikipedia.org/wiki/Second_Congo_War"
-   },
-   {
-    "cityName": "Ecoregions",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_ecoregions_in_Rwanda"
-   },
-   {
-    "cityName": "Lakes",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_lakes_of_Rwanda"
+    "cityName": "Biosphere Reserves",
+    "cityLink": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves_in_Europe_and_North_America#Belarus"
    },
    {
     "cityName": "National parks",
-    "cityLink": "https://en.wikipedia.org/wiki/National_parks_of_Rwanda"
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_national_parks_of_Belarus"
    },
    {
-    "cityName": "Volcanoes",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_volcanoes_in_Rwanda"
-   },
-   {
-    "cityName": "Wildlife",
-    "cityLink": "https://en.wikipedia.org/wiki/Wildlife_of_Rwanda"
-   },
-   {
-    "cityName": "Administrative divisions",
-    "cityLink": "https://en.wikipedia.org/wiki/Subdivisions_of_Rwanda"
+    "cityName": "Rivers",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_rivers_of_Belarus"
    },
    {
     "cityName": "Constitution",
-    "cityLink": "https://en.wikipedia.org/wiki/Constitution_of_Rwanda"
+    "cityLink": "https://en.wikipedia.org/wiki/Constitution_of_Belarus"
    },
    {
     "cityName": "Elections",
-    "cityLink": "https://en.wikipedia.org/wiki/Elections_in_Rwanda"
+    "cityLink": "https://en.wikipedia.org/wiki/Elections_in_Belarus"
    },
    {
     "cityName": "Foreign relations",
-    "cityLink": "https://en.wikipedia.org/wiki/Foreign_relations_of_Rwanda"
+    "cityLink": "https://en.wikipedia.org/wiki/Foreign_relations_of_Belarus"
+   },
+   {
+    "cityName": "Government",
+    "cityLink": "https://en.wikipedia.org/wiki/Government_of_Belarus"
    },
    {
     "cityName": "Human rights",
-    "cityLink": "https://en.wikipedia.org/wiki/Human_rights_in_Rwanda"
+    "cityLink": "https://en.wikipedia.org/wiki/Human_rights_in_Belarus"
    },
    {
     "cityName": "Law enforcement",
-    "cityLink": "https://en.wikipedia.org/wiki/Law_enforcement_in_Rwanda"
-   },
-   {
-    "cityName": "Military",
-    "cityLink": "https://en.wikipedia.org/wiki/Rwandan_Defence_Forces"
-   },
-   {
-    "cityName": "Parliament",
-    "cityLink": "https://en.wikipedia.org/wiki/Parliament_of_Rwanda"
-   },
-   {
-    "cityName": "Political parties",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Rwanda"
-   },
-   {
-    "cityName": "President",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_Presidents_of_Rwanda"
-   },
-   {
-    "cityName": "Prime Minister",
-    "cityLink": "https://en.wikipedia.org/wiki/Prime_Minister_of_Rwanda"
-   },
-   {
-    "cityName": "Franc (currency)",
-    "cityLink": "https://en.wikipedia.org/wiki/Rwandan_franc"
-   },
-   {
-    "cityName": "Mining",
-    "cityLink": "https://en.wikipedia.org/wiki/Mining_in_Rwanda"
-   },
-   {
-    "cityName": "National Bank",
-    "cityLink": "https://en.wikipedia.org/wiki/National_Bank_of_Rwanda"
-   },
-   {
-    "cityName": "Telecommunications",
-    "cityLink": "https://en.wikipedia.org/wiki/Telecommunications_in_Rwanda"
-   },
-   {
-    "cityName": "Tourism",
-    "cityLink": "https://en.wikipedia.org/wiki/Tourism_in_Rwanda"
-   },
-   {
-    "cityName": "Transport",
-    "cityLink": "https://en.wikipedia.org/wiki/Transport_in_Rwanda"
-   },
-   {
-    "cityName": "Demographics",
-    "cityLink": "https://en.wikipedia.org/wiki/Demographics_of_Rwanda"
-   },
-   {
-    "cityName": "Education",
-    "cityLink": "https://en.wikipedia.org/wiki/Education_in_Rwanda"
-   },
-   {
-    "cityName": "Ethnic groups",
-    "cityLink": "https://en.wikipedia.org/wiki/Ethnic_groups_in_Rwanda"
-   },
-   {
-    "cityName": "Health",
-    "cityLink": "https://en.wikipedia.org/wiki/Healthcare_in_Rwanda"
-   },
-   {
-    "cityName": "Religion",
-    "cityLink": "https://en.wikipedia.org/wiki/Religion_in_Rwanda"
-   },
-   {
-    "cityName": "Water supply and sanitation",
-    "cityLink": "https://en.wikipedia.org/wiki/Water_supply_and_sanitation_in_Rwanda"
-   },
-   {
-    "cityName": "Cuisine",
-    "cityLink": "https://en.wikipedia.org/wiki/Rwandan_cuisine"
-   },
-   {
-    "cityName": "Flag",
-    "cityLink": "https://en.wikipedia.org/wiki/Flag_of_Rwanda"
-   },
-   {
-    "cityName": "Languages",
-    "cityLink": "https://en.wikipedia.org/wiki/Languages_of_Rwanda"
-   },
-   {
-    "cityName": "Literature",
-    "cityLink": "https://en.wikipedia.org/wiki/Rwandan_literature"
-   },
-   {
-    "cityName": "Music",
-    "cityLink": "https://en.wikipedia.org/wiki/Music_of_Rwanda"
-   },
-   {
-    "cityName": "Public holidays",
-    "cityLink": "https://en.wikipedia.org/wiki/Public_holidays_in_Rwanda"
-   },
-   {
-    "cityName": "Outline",
-    "cityLink": "https://en.wikipedia.org/wiki/Outline_of_Rwanda"
-   },
-   {
-    "cityName": "Index",
-    "cityLink": "https://en.wikipedia.org/wiki/Index_of_Rwanda-related_articles"
-   },
-   {
-    "cityName": "Book",
-    "cityLink": "https://en.wikipedia.org/wiki/Book:Rwanda"
-   },
-   {
-    "cityName": "Category",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Rwanda"
-   },
-   {
-    "cityName": "Portal",
-    "cityLink": "https://en.wikipedia.org/wiki/Portal:Rwanda"
-   },
-   {
-    "cityName": "WikiProject",
-    "cityLink": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Rwanda"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Africa_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Africa_topic"
-   },
-   {
-    "cityName": "Algeria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Algeria"
-   },
-   {
-    "cityName": "Benin",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Benin"
-   },
-   {
-    "cityName": "Botswana",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Botswana"
-   },
-   {
-    "cityName": "Burkina Faso",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Burkina_Faso"
-   },
-   {
-    "cityName": "Burundi",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Burundi"
-   },
-   {
-    "cityName": "Central African Republic",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Central_African_Republic"
-   },
-   {
-    "cityName": "Chad",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Chad"
-   },
-   {
-    "cityName": "Comoros",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Comoros"
-   },
-   {
-    "cityName": "Democratic Republic of the Congo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Democratic_Republic_of_the_Congo"
-   },
-   {
-    "cityName": "Republic of the Congo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_the_Congo"
-   },
-   {
-    "cityName": "Egypt",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Egypt"
-   },
-   {
-    "cityName": "Equatorial Guinea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Equatorial_Guinea"
-   },
-   {
-    "cityName": "Eritrea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Eritrea"
-   },
-   {
-    "cityName": "Gabon",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Gabon"
-   },
-   {
-    "cityName": "Ghana",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana"
-   },
-   {
-    "cityName": "Guinea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea"
-   },
-   {
-    "cityName": "Guinea-Bissau",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea-Bissau"
-   },
-   {
-    "cityName": "Ivory Coast (Côte d'Ivoire)",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ivory_Coast"
-   },
-   {
-    "cityName": "Kenya",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kenya"
-   },
-   {
-    "cityName": "Lesotho",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Lesotho"
-   },
-   {
-    "cityName": "Liberia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Liberia"
-   },
-   {
-    "cityName": "Libya",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Libya"
-   },
-   {
-    "cityName": "Madagascar",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Madagascar"
-   },
-   {
-    "cityName": "Malawi",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Malawi"
-   },
-   {
-    "cityName": "Mali",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mali"
-   },
-   {
-    "cityName": "Mauritania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mauritania"
-   },
-   {
-    "cityName": "Morocco",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Morocco"
-   },
-   {
-    "cityName": "Mozambique",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mozambique"
-   },
-   {
-    "cityName": "Niger",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Niger"
-   },
-   {
-    "cityName": "Nigeria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Nigeria"
-   },
-   {
-    "cityName": "Senegal",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Senegal"
-   },
-   {
-    "cityName": "Seychelles",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Seychelles"
-   },
-   {
-    "cityName": "Sierra Leone",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Somalia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Somalia"
-   },
-   {
-    "cityName": "South Sudan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_South_Sudan"
-   },
-   {
-    "cityName": "Sudan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sudan"
-   },
-   {
-    "cityName": "Swaziland",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Swaziland"
-   },
-   {
-    "cityName": "Tanzania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tanzania"
-   },
-   {
-    "cityName": "Togo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Togo"
-   },
-   {
-    "cityName": "Tunisia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tunisia"
-   },
-   {
-    "cityName": "Madeira",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Madeira"
-   },
-   {
-    "cityName": "Mayotte",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mayotte"
-   },
-   {
-    "cityName": "Western Sahara",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Western_Sahara"
-   }
-  ]
- ]
-},{
- "country": "Sierra Leone",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Sierra_Leone",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
- "cities": [
-  [
-   {
-    "cityName": "Freetown",
-    "cityLink": "https://en.wikipedia.org/wiki/Freetown"
-   },
-   {
-    "cityName": "Bo",
-    "cityLink": "https://en.wikipedia.org/wiki/Bo,_Sierra_Leone"
-   },
-   {
-    "cityName": "[1]",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sierra_Leone#cite_note-1"
-   },
-   {
-    "cityName": "Kenema",
-    "cityLink": "https://en.wikipedia.org/wiki/Kenema"
-   },
-   {
-    "cityName": "[2]",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sierra_Leone#cite_note-2"
-   },
-   {
-    "cityName": "Makeni",
-    "cityLink": "https://en.wikipedia.org/wiki/Makeni"
-   },
-   {
-    "cityName": "[3]",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sierra_Leone#cite_note-3"
-   },
-   {
-    "cityName": "[4]",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sierra_Leone#cite_note-4"
-   }
-  ],
-  [
-   {
-    "cityName": "Wangechi",
-    "cityLink": "https://en.wikipedia.org/wiki/Wangechi"
-   },
-   {
-    "cityName": "Kalewa",
-    "cityLink": "https://en.wikipedia.org/wiki/Kalewa"
-   },
-   {
-    "cityName": "Magburaka",
-    "cityLink": "https://en.wikipedia.org/wiki/Magburaka"
-   },
-   {
-    "cityName": "Kabala",
-    "cityLink": "https://en.wikipedia.org/wiki/Kabala,_Sierra_Leone"
-   },
-   {
-    "cityName": "Port Loko",
-    "cityLink": "https://en.wikipedia.org/wiki/Port_Loko"
-   },
-   {
-    "cityName": "Moyamba",
-    "cityLink": "https://en.wikipedia.org/wiki/Moyamba"
-   },
-   {
-    "cityName": "Kailahun",
-    "cityLink": "https://en.wikipedia.org/wiki/Kailahun"
-   },
-   {
-    "cityName": "Bonthe",
-    "cityLink": "https://en.wikipedia.org/wiki/Bonthe"
-   },
-   {
-    "cityName": "Waterloo",
-    "cityLink": "https://en.wikipedia.org/wiki/Waterloo,_Sierra_Leone"
-   },
-   {
-    "cityName": "Binkolo",
-    "cityLink": "https://en.wikipedia.org/wiki/Binkolo"
-   },
-   {
-    "cityName": "Daru",
-    "cityLink": "https://en.wikipedia.org/wiki/Daru,_Sierra_Leone"
-   },
-   {
-    "cityName": "Falaba",
-    "cityLink": "https://en.wikipedia.org/wiki/Falaba"
-   },
-   {
-    "cityName": "Gbinti",
-    "cityLink": "https://en.wikipedia.org/wiki/Gbinti"
-   },
-   {
-    "cityName": "Kamakwie",
-    "cityLink": "https://en.wikipedia.org/wiki/Kamakwie"
-   },
-   {
-    "cityName": "Kaima",
-    "cityLink": "https://en.wikipedia.org/wiki/Kaima"
-   },
-   {
-    "cityName": "Koindu",
-    "cityLink": "https://en.wikipedia.org/wiki/Koindu"
-   },
-   {
-    "cityName": "Lungi",
-    "cityLink": "https://en.wikipedia.org/wiki/Lungi,_Sierra_Leone"
-   },
-   {
-    "cityName": "Lunsar",
-    "cityLink": "https://en.wikipedia.org/wiki/Lunsar"
-   },
-   {
-    "cityName": "Mano",
-    "cityLink": "https://en.wikipedia.org/wiki/Mano,_Sierra_Leone"
-   },
-   {
-    "cityName": "Pepel",
-    "cityLink": "https://en.wikipedia.org/wiki/Pepel"
-   },
-   {
-    "cityName": "Shenge",
-    "cityLink": "https://en.wikipedia.org/wiki/Shenge"
-   },
-   {
-    "cityName": "Sulima",
-    "cityLink": "https://en.wikipedia.org/wiki/Sulima,_Sierra_Leone"
-   },
-   {
-    "cityName": "Tongo",
-    "cityLink": "https://en.wikipedia.org/wiki/Tongo,_Sierra_Leone"
-   },
-   {
-    "cityName": "Yana",
-    "cityLink": "https://en.wikipedia.org/wiki/Yana,_Sierra_Leone"
-   },
-   {
-    "cityName": "Yengema",
-    "cityLink": "https://en.wikipedia.org/wiki/Yengema"
-   },
-   {
-    "cityName": "Yonibana",
-    "cityLink": "https://en.wikipedia.org/wiki/Yonibana"
-   }
-  ],
-  [
-   {
-    "cityName": "Binkolo",
-    "cityLink": "https://en.wikipedia.org/wiki/Binkolo"
-   },
-   {
-    "cityName": "Daru",
-    "cityLink": "https://en.wikipedia.org/wiki/Daru,_Sierra_Leone"
-   },
-   {
-    "cityName": "Falaba",
-    "cityLink": "https://en.wikipedia.org/wiki/Falaba"
-   },
-   {
-    "cityName": "Gbinti",
-    "cityLink": "https://en.wikipedia.org/wiki/Gbinti"
-   },
-   {
-    "cityName": "Kamakwie",
-    "cityLink": "https://en.wikipedia.org/wiki/Kamakwie"
-   },
-   {
-    "cityName": "Kaima",
-    "cityLink": "https://en.wikipedia.org/wiki/Kaima"
-   },
-   {
-    "cityName": "Koindu",
-    "cityLink": "https://en.wikipedia.org/wiki/Koindu"
-   },
-   {
-    "cityName": "Lungi",
-    "cityLink": "https://en.wikipedia.org/wiki/Lungi,_Sierra_Leone"
-   },
-   {
-    "cityName": "Lunsar",
-    "cityLink": "https://en.wikipedia.org/wiki/Lunsar"
-   },
-   {
-    "cityName": "Mano",
-    "cityLink": "https://en.wikipedia.org/wiki/Mano,_Sierra_Leone"
-   },
-   {
-    "cityName": "Pepel",
-    "cityLink": "https://en.wikipedia.org/wiki/Pepel"
-   },
-   {
-    "cityName": "Shenge",
-    "cityLink": "https://en.wikipedia.org/wiki/Shenge"
-   },
-   {
-    "cityName": "Sulima",
-    "cityLink": "https://en.wikipedia.org/wiki/Sulima,_Sierra_Leone"
-   },
-   {
-    "cityName": "Tongo",
-    "cityLink": "https://en.wikipedia.org/wiki/Tongo,_Sierra_Leone"
-   },
-   {
-    "cityName": "Yana",
-    "cityLink": "https://en.wikipedia.org/wiki/Yana,_Sierra_Leone"
-   },
-   {
-    "cityName": "Yengema",
-    "cityLink": "https://en.wikipedia.org/wiki/Yengema"
-   },
-   {
-    "cityName": "Yonibana",
-    "cityLink": "https://en.wikipedia.org/wiki/Yonibana"
-   }
-  ],
-  [
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Sierra_Leone_topics"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Sierra_Leone_topics"
-   },
-   {
-    "cityName": "Atlantic slave trade",
-    "cityLink": "https://en.wikipedia.org/wiki/Atlantic_slave_trade"
-   },
-   {
-    "cityName": "(1600-1787)",
-    "cityLink": "https://en.wikipedia.org/wiki/History_of_Sierra_Leone#1600-1787"
-   },
-   {
-    "cityName": "British colony (1800-1961)",
-    "cityLink": "https://en.wikipedia.org/wiki/History_of_Sierra_Leone#Colonial_era_.281800_-_1961.29"
-   },
-   {
-    "cityName": "Civil War (1991–2002)",
-    "cityLink": "https://en.wikipedia.org/wiki/Sierra_Leone_Civil_War"
-   },
-   {
-    "cityName": "2002 to present",
-    "cityLink": "https://en.wikipedia.org/wiki/History_of_Sierra_Leone#2002_to_present"
-   },
-   {
-    "cityName": "2014 Ebola virus epidemic",
-    "cityLink": "https://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Climate",
-    "cityLink": "https://en.wikipedia.org/wiki/Geography_of_Sierra_Leone#Climate"
-   },
-   {
-    "cityName": "Protected areas",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_protected_areas_of_Sierra_Leone"
-   },
-   {
-    "cityName": "Upper Guinean forests",
-    "cityLink": "https://en.wikipedia.org/wiki/Upper_Guinean_forests"
-   },
-   {
-    "cityName": "Water supply",
-    "cityLink": "https://en.wikipedia.org/wiki/Water_supply_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Wildlife",
-    "cityLink": "https://en.wikipedia.org/wiki/Wildlife_of_Sierra_Leone"
-   },
-   {
-    "cityName": "Cabinet",
-    "cityLink": "https://en.wikipedia.org/wiki/Cabinet_of_Sierra_Leone"
-   },
-   {
-    "cityName": "Elections",
-    "cityLink": "https://en.wikipedia.org/wiki/Elections_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Foreign relations",
-    "cityLink": "https://en.wikipedia.org/wiki/Foreign_relations_of_Sierra_Leone"
-   },
-   {
-    "cityName": "Human rights",
-    "cityLink": "https://en.wikipedia.org/wiki/Human_rights_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Law enforcement",
-    "cityLink": "https://en.wikipedia.org/wiki/Sierra_Leone_Police"
-   },
-   {
-    "cityName": "Military",
-    "cityLink": "https://en.wikipedia.org/wiki/Republic_of_Sierra_Leone_Armed_Forces"
-   },
-   {
-    "cityName": "Parliament",
-    "cityLink": "https://en.wikipedia.org/wiki/Parliament_of_Sierra_Leone"
-   },
-   {
-    "cityName": "Political parties",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Sierra_Leone"
-   },
-   {
-    "cityName": "President",
-    "cityLink": "https://en.wikipedia.org/wiki/President_of_Sierra_Leone"
-   },
-   {
-    "cityName": "Judiciary of Sierra Leone",
-    "cityLink": "https://en.wikipedia.org/wiki/Judiciary_of_Sierra_Leone"
-   },
-   {
-    "cityName": "Special Court",
-    "cityLink": "https://en.wikipedia.org/wiki/Special_Court_for_Sierra_Leone"
-   },
-   {
-    "cityName": "Supreme Court",
-    "cityLink": "https://en.wikipedia.org/wiki/Supreme_Court_of_Sierra_Leone"
-   },
-   {
-    "cityName": "Agriculture",
-    "cityLink": "https://en.wikipedia.org/wiki/Agriculture_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Banking",
-    "cityLink": "https://en.wikipedia.org/wiki/Banking_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Central bank",
-    "cityLink": "https://en.wikipedia.org/wiki/Bank_of_Sierra_Leone"
-   },
-   {
-    "cityName": "Leone (currency)",
-    "cityLink": "https://en.wikipedia.org/wiki/Sierra_Leonean_leone"
-   },
-   {
-    "cityName": "Mining",
-    "cityLink": "https://en.wikipedia.org/wiki/Mining_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Telecommunications",
-    "cityLink": "https://en.wikipedia.org/wiki/Telecommunications_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Tourism",
-    "cityLink": "https://en.wikipedia.org/wiki/Tourism_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Transport",
-    "cityLink": "https://en.wikipedia.org/wiki/Transport_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Demographics",
-    "cityLink": "https://en.wikipedia.org/wiki/Demographics_of_Sierra_Leone"
-   },
-   {
-    "cityName": "Education",
-    "cityLink": "https://en.wikipedia.org/wiki/Education_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Ethnic groups",
-    "cityLink": "https://en.wikipedia.org/wiki/Ethnic_groups_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Health",
-    "cityLink": "https://en.wikipedia.org/wiki/Health_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Languages",
-    "cityLink": "https://en.wikipedia.org/wiki/Languages_of_Sierra_Leone"
-   },
-   {
-    "cityName": "Religion",
-    "cityLink": "https://en.wikipedia.org/wiki/Religion_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Women",
-    "cityLink": "https://en.wikipedia.org/wiki/Women_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Anthem",
-    "cityLink": "https://en.wikipedia.org/wiki/High_We_Exalt_Thee,_Realm_of_the_Free"
-   },
-   {
-    "cityName": "Art",
-    "cityLink": "https://en.wikipedia.org/wiki/Art_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Coat of arms",
-    "cityLink": "https://en.wikipedia.org/wiki/Coat_of_arms_of_Sierra_Leone"
-   },
-   {
-    "cityName": "Cuisine",
-    "cityLink": "https://en.wikipedia.org/wiki/Sierra_Leonean_cuisine"
-   },
-   {
-    "cityName": "Flag",
-    "cityLink": "https://en.wikipedia.org/wiki/Flag_of_Sierra_Leone"
-   },
-   {
-    "cityName": "Media",
-    "cityLink": "https://en.wikipedia.org/wiki/Media_of_Sierra_Leone"
-   },
-   {
-    "cityName": "Music",
-    "cityLink": "https://en.wikipedia.org/wiki/Music_of_Sierra_Leone"
-   },
-   {
-    "cityName": "Polygamy",
-    "cityLink": "https://en.wikipedia.org/wiki/Polygamy_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Sports",
-    "cityLink": "https://en.wikipedia.org/wiki/Sport_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Outline",
-    "cityLink": "https://en.wikipedia.org/wiki/Outline_of_Sierra_Leone"
-   },
-   {
-    "cityName": "Index",
-    "cityLink": "https://en.wikipedia.org/wiki/Index_of_Sierra_Leone-related_articles"
-   },
-   {
-    "cityName": "Book",
-    "cityLink": "https://en.wikipedia.org/wiki/Book:Sierra_Leone"
-   },
-   {
-    "cityName": "Category",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Sierra_Leone"
-   },
-   {
-    "cityName": "Portal",
-    "cityLink": "https://en.wikipedia.org/wiki/Portal:Sierra_Leone"
-   },
-   {
-    "cityName": "WikiProject",
-    "cityLink": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Sierra_Leone"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Africa_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Africa_topic"
-   },
-   {
-    "cityName": "Algeria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Algeria"
-   },
-   {
-    "cityName": "Benin",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Benin"
-   },
-   {
-    "cityName": "Botswana",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Botswana"
-   },
-   {
-    "cityName": "Burkina Faso",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Burkina_Faso"
-   },
-   {
-    "cityName": "Burundi",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Burundi"
-   },
-   {
-    "cityName": "Central African Republic",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Central_African_Republic"
-   },
-   {
-    "cityName": "Chad",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Chad"
-   },
-   {
-    "cityName": "Comoros",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Comoros"
-   },
-   {
-    "cityName": "Democratic Republic of the Congo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Democratic_Republic_of_the_Congo"
-   },
-   {
-    "cityName": "Republic of the Congo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_the_Congo"
-   },
-   {
-    "cityName": "Egypt",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Egypt"
-   },
-   {
-    "cityName": "Equatorial Guinea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Equatorial_Guinea"
-   },
-   {
-    "cityName": "Eritrea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Eritrea"
-   },
-   {
-    "cityName": "Gabon",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Gabon"
-   },
-   {
-    "cityName": "Ghana",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana"
-   },
-   {
-    "cityName": "Guinea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea"
-   },
-   {
-    "cityName": "Guinea-Bissau",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea-Bissau"
-   },
-   {
-    "cityName": "Ivory Coast (Côte d'Ivoire)",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ivory_Coast"
-   },
-   {
-    "cityName": "Kenya",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kenya"
-   },
-   {
-    "cityName": "Lesotho",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Lesotho"
-   },
-   {
-    "cityName": "Liberia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Liberia"
-   },
-   {
-    "cityName": "Libya",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Libya"
-   },
-   {
-    "cityName": "Madagascar",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Madagascar"
-   },
-   {
-    "cityName": "Malawi",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Malawi"
-   },
-   {
-    "cityName": "Mali",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mali"
-   },
-   {
-    "cityName": "Mauritania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mauritania"
-   },
-   {
-    "cityName": "Morocco",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Morocco"
-   },
-   {
-    "cityName": "Mozambique",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mozambique"
-   },
-   {
-    "cityName": "Niger",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Niger"
-   },
-   {
-    "cityName": "Nigeria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Nigeria"
-   },
-   {
-    "cityName": "Rwanda",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Rwanda"
-   },
-   {
-    "cityName": "Senegal",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Senegal"
-   },
-   {
-    "cityName": "Seychelles",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Seychelles"
-   },
-   {
-    "cityName": "Somalia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Somalia"
-   },
-   {
-    "cityName": "South Sudan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_South_Sudan"
-   },
-   {
-    "cityName": "Sudan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sudan"
-   },
-   {
-    "cityName": "Swaziland",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Swaziland"
-   },
-   {
-    "cityName": "Tanzania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tanzania"
-   },
-   {
-    "cityName": "Togo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Togo"
-   },
-   {
-    "cityName": "Tunisia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tunisia"
-   },
-   {
-    "cityName": "Madeira",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Madeira"
-   },
-   {
-    "cityName": "Mayotte",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mayotte"
-   },
-   {
-    "cityName": "Western Sahara",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Western_Sahara"
-   }
-  ]
- ]
-},{
- "country": "Kiribati",
- "link": "https://en.wikipedia.org/wiki/List_of_towns_and_villages_in_Kiribati",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
- "cities": [
-  [
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Oceania_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Oceania_topic"
-   },
-   {
-    "cityName": "Australia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Australia"
-   },
-   {
-    "cityName": "Marshall Islands",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Marshall_Islands"
-   },
-   {
-    "cityName": "New Zealand",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_New_Zealand"
-   },
-   {
-    "cityName": "Vanuatu",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Vanuatu"
-   },
-   {
-    "cityName": "French Polynesia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_French_Polynesia"
-   },
-   {
-    "cityName": "New Caledonia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_New_Caledonia"
-   }
-  ]
- ]
-},{
- "country": "Cape Verde",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Cabo_Verde",
- "cityColumnIndex": -1,
- "populationCensusDate": "",
- "populationCensusDateColumnIndex": "",
- "cities": [
-  [
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Africa_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Africa_topic"
-   },
-   {
-    "cityName": "Algeria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Algeria"
-   },
-   {
-    "cityName": "Benin",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Benin"
-   },
-   {
-    "cityName": "Botswana",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Botswana"
-   },
-   {
-    "cityName": "Burkina Faso",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Burkina_Faso"
-   },
-   {
-    "cityName": "Burundi",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Burundi"
-   },
-   {
-    "cityName": "Central African Republic",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Central_African_Republic"
-   },
-   {
-    "cityName": "Chad",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Chad"
-   },
-   {
-    "cityName": "Comoros",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Comoros"
-   },
-   {
-    "cityName": "Democratic Republic of the Congo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Democratic_Republic_of_the_Congo"
-   },
-   {
-    "cityName": "Republic of the Congo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_the_Congo"
-   },
-   {
-    "cityName": "Egypt",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Egypt"
-   },
-   {
-    "cityName": "Equatorial Guinea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Equatorial_Guinea"
-   },
-   {
-    "cityName": "Eritrea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Eritrea"
-   },
-   {
-    "cityName": "Gabon",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Gabon"
-   },
-   {
-    "cityName": "Ghana",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana"
-   },
-   {
-    "cityName": "Guinea",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea"
-   },
-   {
-    "cityName": "Guinea-Bissau",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea-Bissau"
-   },
-   {
-    "cityName": "Ivory Coast (Côte d'Ivoire)",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ivory_Coast"
-   },
-   {
-    "cityName": "Kenya",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kenya"
-   },
-   {
-    "cityName": "Lesotho",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Lesotho"
-   },
-   {
-    "cityName": "Liberia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Liberia"
-   },
-   {
-    "cityName": "Libya",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Libya"
-   },
-   {
-    "cityName": "Madagascar",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Madagascar"
-   },
-   {
-    "cityName": "Malawi",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Malawi"
-   },
-   {
-    "cityName": "Mali",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mali"
-   },
-   {
-    "cityName": "Mauritania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mauritania"
-   },
-   {
-    "cityName": "Morocco",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Morocco"
-   },
-   {
-    "cityName": "Mozambique",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mozambique"
-   },
-   {
-    "cityName": "Niger",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Niger"
-   },
-   {
-    "cityName": "Nigeria",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Nigeria"
-   },
-   {
-    "cityName": "Rwanda",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Rwanda"
-   },
-   {
-    "cityName": "Senegal",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Senegal"
-   },
-   {
-    "cityName": "Seychelles",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Seychelles"
-   },
-   {
-    "cityName": "Sierra Leone",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sierra_Leone"
-   },
-   {
-    "cityName": "Somalia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Somalia"
-   },
-   {
-    "cityName": "South Sudan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_South_Sudan"
-   },
-   {
-    "cityName": "Sudan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sudan"
-   },
-   {
-    "cityName": "Swaziland",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Swaziland"
-   },
-   {
-    "cityName": "Tanzania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tanzania"
-   },
-   {
-    "cityName": "Togo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Togo"
-   },
-   {
-    "cityName": "Tunisia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tunisia"
-   },
-   {
-    "cityName": "Madeira",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Madeira"
-   },
-   {
-    "cityName": "Mayotte",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mayotte"
-   },
-   {
-    "cityName": "Western Sahara",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Western_Sahara"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Cape_Verde_topics"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Cape_Verde_topics"
-   },
-   {
-    "cityName": "African Party for the Independence of Guinea and Cape Verde",
-    "cityLink": "https://en.wikipedia.org/wiki/African_Party_for_the_Independence_of_Guinea_and_Cape_Verde"
-   },
-   {
-    "cityName": "Climate",
-    "cityLink": "https://en.wikipedia.org/wiki/Geography_of_Cape_Verde#Climate"
-   },
-   {
-    "cityName": "Islands",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_islands_of_Cape_Verde"
-   },
-   {
-    "cityName": "Barlavento",
-    "cityLink": "https://en.wikipedia.org/wiki/Barlavento_Islands"
-   },
-   {
-    "cityName": "Sotavento",
-    "cityLink": "https://en.wikipedia.org/wiki/Sotavento_Islands"
-   },
-   {
-    "cityName": "Volcanoes",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_volcanoes_in_Cape_Verde"
-   },
-   {
-    "cityName": "Wildlife",
-    "cityLink": "https://en.wikipedia.org/wiki/Wildlife_of_Cape_Verde"
-   },
-   {
-    "cityName": "Elections",
-    "cityLink": "https://en.wikipedia.org/wiki/Elections_in_Cape_Verde"
-   },
-   {
-    "cityName": "Foreign relations",
-    "cityLink": "https://en.wikipedia.org/wiki/Foreign_relations_of_Cape_Verde"
-   },
-   {
-    "cityName": "Human rights",
-    "cityLink": "https://en.wikipedia.org/wiki/Human_rights_in_Cape_Verde"
-   },
-   {
-    "cityName": "LGBT",
-    "cityLink": "https://en.wikipedia.org/wiki/LGBT_rights_in_Cape_Verde"
+    "cityLink": "https://en.wikipedia.org/wiki/Law_enforcement_in_Belarus"
    },
    {
     "cityName": "LGBT history",
-    "cityLink": "https://en.wikipedia.org/wiki/LGBT_history_in_Cape_Verde"
+    "cityLink": "https://en.wikipedia.org/wiki/LGBT_history_in_Belarus"
    },
    {
-    "cityName": "Law enforcement",
-    "cityLink": "https://en.wikipedia.org/wiki/Law_enforcement_in_Cape_Verde"
+    "cityName": "Military",
+    "cityLink": "https://en.wikipedia.org/wiki/Armed_Forces_of_Belarus"
+   },
+   {
+    "cityName": "Parliament",
+    "cityLink": "https://en.wikipedia.org/wiki/National_Assembly_of_Belarus"
    },
    {
     "cityName": "Political parties",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Cape_Verde"
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Belarus"
    },
    {
     "cityName": "President",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_heads_of_state_of_Cape_Verde"
+    "cityLink": "https://en.wikipedia.org/wiki/President_of_Belarus"
    },
    {
     "cityName": "Prime Minister",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_heads_of_government_of_Cape_Verde"
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_Prime_Ministers_of_Belarus"
+   },
+   {
+    "cityName": "Union of Russia and Belarus",
+    "cityLink": "https://en.wikipedia.org/wiki/Union_State"
    },
    {
     "cityName": "Agriculture",
-    "cityLink": "https://en.wikipedia.org/wiki/Agriculture_in_Cape_Verde"
+    "cityLink": "https://en.wikipedia.org/wiki/Agriculture_in_Belarus"
    },
    {
-    "cityName": "Companies",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_companies_of_Cape_Verde"
+    "cityName": "Central bank",
+    "cityLink": "https://en.wikipedia.org/wiki/National_Bank_of_the_Republic_of_Belarus"
    },
    {
-    "cityName": "Escudo (currency)",
-    "cityLink": "https://en.wikipedia.org/wiki/Cape_Verdean_escudo"
-   },
-   {
-    "cityName": "Stock market",
-    "cityLink": "https://en.wikipedia.org/wiki/Bolsa_de_Valores_de_Cabo_Verde"
+    "cityName": "Belarusian ruble",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_ruble"
    },
    {
     "cityName": "Telecommunications",
-    "cityLink": "https://en.wikipedia.org/wiki/Telecommunications_in_Cape_Verde"
+    "cityLink": "https://en.wikipedia.org/wiki/Telecommunications_in_Belarus"
+   },
+   {
+    "cityName": "Currency",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_ruble"
    },
    {
     "cityName": "Energy",
-    "cityLink": "https://en.wikipedia.org/wiki/Energy_in_Cape_Verde"
+    "cityLink": "https://en.wikipedia.org/wiki/Energy_in_Belarus"
    },
    {
-    "cityName": "Tourism",
-    "cityLink": "https://en.wikipedia.org/wiki/Tourism_in_Cape_Verde"
+    "cityName": "Stock exchange",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_Currency_and_Stock_Exchange"
    },
    {
     "cityName": "Transport",
-    "cityLink": "https://en.wikipedia.org/wiki/Transport_in_Cape_Verde"
-   },
-   {
-    "cityName": "airports",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_airports_in_Cape_Verde"
-   },
-   {
-    "cityName": "Basketball",
-    "cityLink": "https://en.wikipedia.org/wiki/Basketball_in_Cape_Verde"
-   },
-   {
-    "cityName": "Cape Verdean Creole",
-    "cityLink": "https://en.wikipedia.org/wiki/Cape_Verdean_Creole"
-   },
-   {
-    "cityName": "Cape Verdean Portuguese",
-    "cityLink": "https://en.wikipedia.org/wiki/Cape_Verdean_Portuguese"
-   },
-   {
-    "cityName": "Crime",
-    "cityLink": "https://en.wikipedia.org/wiki/Crime_in_Cape_Verde"
+    "cityLink": "https://en.wikipedia.org/wiki/Transport_in_Belarus"
    },
    {
     "cityName": "Demographics",
-    "cityLink": "https://en.wikipedia.org/wiki/Demographics_of_Cape_Verde"
+    "cityLink": "https://en.wikipedia.org/wiki/Demographics_of_Belarus"
+   },
+   {
+    "cityName": "Belarusians",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusians"
    },
    {
     "cityName": "Education",
-    "cityLink": "https://en.wikipedia.org/wiki/Education_in_Cape_Verde"
+    "cityLink": "https://en.wikipedia.org/wiki/Education_in_Belarus"
    },
    {
-    "cityName": "Emblem",
-    "cityLink": "https://en.wikipedia.org/wiki/National_emblem_of_Cape_Verde"
+    "cityName": "Healthcare",
+    "cityLink": "https://en.wikipedia.org/wiki/Healthcare_in_Belarus"
    },
    {
-    "cityName": "Flag",
-    "cityLink": "https://en.wikipedia.org/wiki/Flag_of_Cape_Verde"
-   },
-   {
-    "cityName": "Football",
-    "cityLink": "https://en.wikipedia.org/wiki/Football_in_Cape_Verde"
-   },
-   {
-    "cityName": "Health",
-    "cityLink": "https://en.wikipedia.org/wiki/Health_in_Cape_Verde"
-   },
-   {
-    "cityName": "List of Cape Verdeans",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_Cape_Verdeans"
-   },
-   {
-    "cityName": "Media",
-    "cityLink": "https://en.wikipedia.org/wiki/Media_of_Cape_Verde"
-   },
-   {
-    "cityName": "Music",
-    "cityLink": "https://en.wikipedia.org/wiki/Music_of_Cape_Verde"
-   },
-   {
-    "cityName": "Public holidays",
-    "cityLink": "https://en.wikipedia.org/wiki/Public_holidays_in_Cape_Verde"
+    "cityName": "Language",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
    },
    {
     "cityName": "Religion",
-    "cityLink": "https://en.wikipedia.org/wiki/Religion_in_Cape_Verde"
+    "cityLink": "https://en.wikipedia.org/wiki/Religion_in_Belarus"
+   },
+   {
+    "cityName": "Awards and decorations",
+    "cityLink": "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Belarus"
+   },
+   {
+    "cityName": "Belarusian names",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_name"
+   },
+   {
+    "cityName": "Cuisine",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_cuisine"
+   },
+   {
+    "cityName": "Languages",
+    "cityLink": "https://en.wikipedia.org/wiki/Languages_of_Belarus"
+   },
+   {
+    "cityName": "Literature",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_literature"
+   },
+   {
+    "cityName": "Media",
+    "cityLink": "https://en.wikipedia.org/wiki/Telecommunications_in_Belarus"
+   },
+   {
+    "cityName": "Music",
+    "cityLink": "https://en.wikipedia.org/wiki/Music_of_Belarus"
+   },
+   {
+    "cityName": "National symbols",
+    "cityLink": "https://en.wikipedia.org/wiki/National_symbols_of_Belarus"
+   },
+   {
+    "cityName": "Public holidays",
+    "cityLink": "https://en.wikipedia.org/wiki/Public_holidays_in_Belarus"
    },
    {
     "cityName": "Outline",
-    "cityLink": "https://en.wikipedia.org/wiki/Outline_of_Cape_Verde"
+    "cityLink": "https://en.wikipedia.org/wiki/Outline_of_Belarus"
    },
    {
-    "cityName": "Index",
-    "cityLink": "https://en.wikipedia.org/wiki/Index_of_Cape_Verde-related_articles"
+    "cityName": "Book",
+    "cityLink": "https://en.wikipedia.org/wiki/Book:Belarus"
    },
    {
     "cityName": "Category",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Cape_Verde"
+    "cityLink": "https://en.wikipedia.org/wiki/Category:Belarus"
    },
    {
     "cityName": "Portal",
-    "cityLink": "https://en.wikipedia.org/wiki/Portal:Cape_Verde"
+    "cityLink": "https://en.wikipedia.org/wiki/Portal:Belarus"
    },
    {
     "cityName": "WikiProject",
-    "cityLink": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Cape_Verde"
+    "cityLink": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Belarus"
+   },
+   {
+    "cityName": "v",
+    "cityLink": "https://en.wikipedia.org/wiki/Template:List_of_cities_in_Europe"
+   },
+   {
+    "cityName": "t",
+    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:List_of_cities_in_Europe"
+   },
+   {
+    "cityName": "Albania",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Albania"
+   },
+   {
+    "cityName": "Andorra",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Andorra"
+   },
+   {
+    "cityName": "Azerbaijan",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Azerbaijan"
+   },
+   {
+    "cityName": "Belgium",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Belgium"
+   },
+   {
+    "cityName": "Bosnia and Herzegovina",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Bosnia_and_Herzegovina"
+   },
+   {
+    "cityName": "Greece",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Greece"
+   },
+   {
+    "cityName": "Italy",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Italy"
+   },
+   {
+    "cityName": "Kazakhstan",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kazakhstan"
+   },
+   {
+    "cityName": "Lithuania",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Lithuania"
+   },
+   {
+    "cityName": "Macedonia",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_Macedonia"
+   },
+   {
+    "cityName": "Malta",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Malta"
+   },
+   {
+    "cityName": "Moldova",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Moldova"
+   },
+   {
+    "cityName": "Montenegro",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Montenegro"
+   },
+   {
+    "cityName": "Portugal",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Portugal"
+   },
+   {
+    "cityName": "Serbia",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Serbia"
+   },
+   {
+    "cityName": "Sweden",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sweden"
+   },
+   {
+    "cityName": "Switzerland",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Switzerland"
+   },
+   {
+    "cityName": "Turkey",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Turkey"
+   },
+   {
+    "cityName": "Ukraine",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ukraine"
+   },
+   {
+    "cityName": "United Kingdom",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_United_Kingdom"
+   },
+   {
+    "cityName": "Kosovo",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kosovo"
+   },
+   {
+    "cityName": "v",
+    "cityLink": "https://en.wikipedia.org/wiki/Template:Europe_topic"
+   },
+   {
+    "cityName": "t",
+    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Europe_topic"
+   },
+   {
+    "cityName": "Lithuania",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Lithuania"
+   },
+   {
+    "cityName": "Luxembourg",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Luxembourg"
+   },
+   {
+    "cityName": "Portugal",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Portugal"
+   },
+   {
+    "cityName": "United Kingdom",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_the_United_Kingdom"
+   },
+   {
+    "cityName": "Faroe Islands",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_the_Faroe_Islands"
    }
   ]
  ]
-}
-]
+},{
+ "country": "Ghana",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana",
+ "cityColumnIndex": -1,
+ "populationCensusDate": "",
+ "populationCensusDateColumnIndex": "",
+ "cities": [
+  [
+   {
+    "cityName": "a",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana#cite_ref-Ghana_Statistical_Service_1-0"
+   },
+   {
+    "cityName": "b",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana#cite_ref-Ghana_Statistical_Service_1-1"
+   },
+   {
+    "cityName": "c",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana#cite_ref-Ghana_Statistical_Service_1-2"
+   },
+   {
+    "cityName": "a",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana#cite_ref-World_Gazetteer_2-0"
+   },
+   {
+    "cityName": "b",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana#cite_ref-World_Gazetteer_2-1"
+   }
+  ],
+  [
+   {
+    "cityName": "v",
+    "cityLink": "https://en.wikipedia.org/wiki/Template:Ghana_topics"
+   },
+   {
+    "cityName": "t",
+    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Ghana_topics"
+   },
+   {
+    "cityName": "History",
+    "cityLink": "https://en.wikipedia.org/wiki/History_of_Ghana"
+   },
+   {
+    "cityName": "Climate",
+    "cityLink": "https://en.wikipedia.org/wiki/Climate_of_Ghana"
+   },
+   {
+    "cityName": "Rivers",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_rivers_of_Ghana"
+   },
+   {
+    "cityName": "Fauna",
+    "cityLink": "https://en.wikipedia.org/wiki/Fauna_of_Ghana"
+   },
+   {
+    "cityName": "National parks",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_national_parks_of_Ghana"
+   },
+   {
+    "cityName": "BNI",
+    "cityLink": "https://en.wikipedia.org/wiki/Bureau_of_National_Investigations"
+   },
+   {
+    "cityName": "Constitution",
+    "cityLink": "https://en.wikipedia.org/wiki/Constitution_of_Ghana"
+   },
+   {
+    "cityName": "Elections",
+    "cityLink": "https://en.wikipedia.org/wiki/Elections_in_Ghana"
+   },
+   {
+    "cityName": "electoral system",
+    "cityLink": "https://en.wikipedia.org/wiki/Electoral_Commission_of_Ghana"
+   },
+   {
+    "cityName": "GAF",
+    "cityLink": "https://en.wikipedia.org/wiki/Ghana_Armed_Forces"
+   },
+   {
+    "cityName": "Government",
+    "cityLink": "https://en.wikipedia.org/wiki/Government_of_Ghana"
+   },
+   {
+    "cityName": "Governments",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_Ghana_governments"
+   },
+   {
+    "cityName": "Ministers",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_Mahama_government_ministers"
+   },
+   {
+    "cityName": "Parliament",
+    "cityLink": "https://en.wikipedia.org/wiki/Parliament_of_Ghana"
+   },
+   {
+    "cityName": "President",
+    "cityLink": "https://en.wikipedia.org/wiki/President_of_Ghana"
+   },
+   {
+    "cityName": "Prime Minister",
+    "cityLink": "https://en.wikipedia.org/wiki/Prime_Minister_of_Ghana"
+   },
+   {
+    "cityName": "Foreign relations",
+    "cityLink": "https://en.wikipedia.org/wiki/Foreign_relations_of_Ghana"
+   },
+   {
+    "cityName": "LGBT history",
+    "cityLink": "https://en.wikipedia.org/wiki/LGBT_history_in_Ghana"
+   },
+   {
+    "cityName": "Nationality law",
+    "cityLink": "https://en.wikipedia.org/wiki/Ghanaian_nationality_law"
+   },
+   {
+    "cityName": "Passport",
+    "cityLink": "https://en.wikipedia.org/wiki/Ghanaian_passport"
+   },
+   {
+    "cityName": "National I.D.",
+    "cityLink": "https://en.wikipedia.org/wiki/Ghana_Card"
+   },
+   {
+    "cityName": "Political parties",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Ghana"
+   },
+   {
+    "cityName": "CPP",
+    "cityLink": "https://en.wikipedia.org/wiki/Convention_People%27s_Party"
+   },
+   {
+    "cityName": "NDC",
+    "cityLink": "https://en.wikipedia.org/wiki/National_Democratic_Congress_(Ghana)"
+   },
+   {
+    "cityName": "NPP",
+    "cityLink": "https://en.wikipedia.org/wiki/New_Patriotic_Party"
+   },
+   {
+    "cityName": "PNC",
+    "cityLink": "https://en.wikipedia.org/wiki/People%27s_National_Convention_(Ghana)"
+   },
+   {
+    "cityName": "Regions and districts",
+    "cityLink": "https://en.wikipedia.org/wiki/Administrative_divisions_of_Ghana"
+   },
+   {
+    "cityName": "Enforcement",
+    "cityLink": "https://en.wikipedia.org/wiki/Law_enforcement_in_Ghana"
+   },
+   {
+    "cityName": "GPS",
+    "cityLink": "https://en.wikipedia.org/wiki/Ghana_Police_Service"
+   },
+   {
+    "cityName": "Immigration Service",
+    "cityLink": "https://en.wikipedia.org/wiki/Ghana_Immigration_Service"
+   },
+   {
+    "cityName": "Immigration",
+    "cityLink": "https://en.wikipedia.org/wiki/Immigration_to_Ghana"
+   },
+   {
+    "cityName": "illegal",
+    "cityLink": "https://en.wikipedia.org/wiki/Illegal_immigration_to_Ghana"
+   },
+   {
+    "cityName": "Judiciary",
+    "cityLink": "https://en.wikipedia.org/wiki/Judiciary_of_Ghana"
+   },
+   {
+    "cityName": "Social conduct",
+    "cityLink": "https://en.wikipedia.org/wiki/Social_conduct_in_Ghana"
+   },
+   {
+    "cityName": "Agriculture",
+    "cityLink": "https://en.wikipedia.org/wiki/Agriculture_in_Ghana"
+   },
+   {
+    "cityName": "Cedi (currency)",
+    "cityLink": "https://en.wikipedia.org/wiki/Ghanaian_cedi"
+   },
+   {
+    "cityName": "Central Bank",
+    "cityLink": "https://en.wikipedia.org/wiki/Bank_of_Ghana"
+   },
+   {
+    "cityName": "Companies",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_companies_of_Ghana"
+   },
+   {
+    "cityName": "Stock Exchange",
+    "cityLink": "https://en.wikipedia.org/wiki/Ghana_Stock_Exchange"
+   },
+   {
+    "cityName": "GSE Composite Index",
+    "cityLink": "https://en.wikipedia.org/wiki/GSE_Composite_Index"
+   },
+   {
+    "cityName": "Telecommunications",
+    "cityLink": "https://en.wikipedia.org/wiki/Telecommunications_in_Ghana"
+   },
+   {
+    "cityName": "Tourism",
+    "cityLink": "https://en.wikipedia.org/wiki/Tourism_in_Ghana"
+   },
+   {
+    "cityName": "Transport",
+    "cityLink": "https://en.wikipedia.org/wiki/Transport_in_Ghana"
+   },
+   {
+    "cityName": "Ghanaians",
+    "cityLink": "https://en.wikipedia.org/wiki/Ghanaian_people"
+   },
+   {
+    "cityName": "Demographics",
+    "cityLink": "https://en.wikipedia.org/wiki/Demographics_of_Ghana"
+   },
+   {
+    "cityName": "Education",
+    "cityLink": "https://en.wikipedia.org/wiki/Education_in_Ghana"
+   },
+   {
+    "cityName": "Health",
+    "cityLink": "https://en.wikipedia.org/wiki/Health_in_Ghana"
+   },
+   {
+    "cityName": "Ghana Health Service",
+    "cityLink": "https://en.wikipedia.org/wiki/Ghana_Health_Service"
+   },
+   {
+    "cityName": "International rankings",
+    "cityLink": "https://en.wikipedia.org/wiki/International_rankings_of_Ghana"
+   },
+   {
+    "cityName": "Languages",
+    "cityLink": "https://en.wikipedia.org/wiki/Languages_of_Ghana"
+   },
+   {
+    "cityName": "God Bless Our Homeland Ghana",
+    "cityLink": "https://en.wikipedia.org/wiki/God_Bless_Our_Homeland_Ghana"
+   },
+   {
+    "cityName": "Public holidays",
+    "cityLink": "https://en.wikipedia.org/wiki/Public_holidays_in_Ghana"
+   },
+   {
+    "cityName": "National Health Insurance",
+    "cityLink": "https://en.wikipedia.org/wiki/National_Health_Insurance_Scheme_(Ghana)"
+   },
+   {
+    "cityName": "Culture",
+    "cityLink": "https://en.wikipedia.org/wiki/Culture_of_Ghana"
+   },
+   {
+    "cityName": "Cultural heritage",
+    "cityLink": "https://en.wikipedia.org/wiki/Ghana%27s_material_cultural_heritage"
+   },
+   {
+    "cityName": "Cuisine",
+    "cityLink": "https://en.wikipedia.org/wiki/Ghanaian_cuisine"
+   },
+   {
+    "cityName": "Media",
+    "cityLink": "https://en.wikipedia.org/wiki/Media_of_Ghana"
+   },
+   {
+    "cityName": "Music",
+    "cityLink": "https://en.wikipedia.org/wiki/Music_of_Ghana"
+   },
+   {
+    "cityName": "National Pledge Of Ghana",
+    "cityLink": "https://en.wikipedia.org/wiki/National_Pledge_Of_Ghana"
+   },
+   {
+    "cityName": "Religion",
+    "cityLink": "https://en.wikipedia.org/wiki/Religion_in_Ghana"
+   },
+   {
+    "cityName": "Sport",
+    "cityLink": "https://en.wikipedia.org/wiki/Sports_in_Ghana"
+   },
+   {
+    "cityName": "Outline",
+    "cityLink": "https://en.wikipedia.org/wiki/Outline_of_Ghana"
+   },
+   {
+    "cityName": "Index",
+    "cityLink": "https://en.wikipedia.org/wiki/Index_of_Ghana-related_articles"
+   },
+   {
+    "cityName": "Bibliography",
+    "cityLink": "https://en.wikipedia.org/wiki/Bibliography_of_Ghana"
+   },
+   {
+    "cityName": "Category",
+    "cityLink": "https://en.wikipedia.org/wiki/Category:Ghana"
+   },
+   {
+    "cityName": "Portal",
+    "cityLink": "https://en.wikipedia.org/wiki/Portal:Ghana"
+   },
+   {
+    "cityName": "WikiProject",
+    "cityLink": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Ghana"
+   },
+   {
+    "cityName": "Timeline of Ghana",
+    "cityLink": "https://en.wikipedia.org/wiki/Timeline_of_Ghanaian_history"
+   },
+   {
+    "cityName": "Templates",
+    "cityLink": "https://en.wikipedia.org/wiki/Category:Ghana_templates"
+   },
+   {
+    "cityName": "v",
+    "cityLink": "https://en.wikipedia.org/wiki/Template:Africa_topic"
+   },
+   {
+    "cityName": "t",
+    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Africa_topic"
+   },
+   {
+    "cityName": "Algeria",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Algeria"
+   },
+   {
+    "cityName": "Benin",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Benin"
+   },
+   {
+    "cityName": "Botswana",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Botswana"
+   },
+   {
+    "cityName": "Burkina Faso",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Burkina_Faso"
+   },
+   {
+    "cityName": "Burundi",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Burundi"
+   },
+   {
+    "cityName": "Central African Republic",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Central_African_Republic"
+   },
+   {
+    "cityName": "Chad",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Chad"
+   },
+   {
+    "cityName": "Comoros",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Comoros"
+   },
+   {
+    "cityName": "Democratic Republic of the Congo",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Democratic_Republic_of_the_Congo"
+   },
+   {
+    "cityName": "Republic of the Congo",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_the_Congo"
+   },
+   {
+    "cityName": "Egypt",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Egypt"
+   },
+   {
+    "cityName": "Equatorial Guinea",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Equatorial_Guinea"
+   },
+   {
+    "cityName": "Eritrea",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Eritrea"
+   },
+   {
+    "cityName": "Gabon",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Gabon"
+   },
+   {
+    "cityName": "Guinea",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea"
+   },
+   {
+    "cityName": "Guinea-Bissau",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Guinea-Bissau"
+   },
+   {
+    "cityName": "Ivory Coast (Côte d'Ivoire)",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ivory_Coast"
+   },
+   {
+    "cityName": "Kenya",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kenya"
+   },
+   {
+    "cityName": "Lesotho",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Lesotho"
+   },
+   {
+    "cityName": "Liberia",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Liberia"
+   },
+   {
+    "cityName": "Libya",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Libya"
+   },
+   {
+    "cityName": "Madagascar",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Madagascar"
+   },
+   {
+    "cityName": "Malawi",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Malawi"
+   },
+   {
+    "cityName": "Mali",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mali"
+   },
+   {
+    "cityName": "Mauritania",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mauritania"
+   },
+   {
+    "cityName": "Morocco",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Morocco"
+   },
+   {
+    "cityName": "Mozambique",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mozambique"
+   },
+   {
+    "cityName": "Niger",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Niger"
+   },
+   {
+    "cityName": "Nigeria",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Nigeria"
+   },
+   {
+    "cityName": "Rwanda",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Rwanda"
+   },
+   {
+    "cityName": "Senegal",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Senegal"
+   },
+   {
+    "cityName": "Seychelles",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Seychelles"
+   },
+   {
+    "cityName": "Sierra Leone",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sierra_Leone"
+   },
+   {
+    "cityName": "Somalia",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Somalia"
+   },
+   {
+    "cityName": "South Sudan",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_South_Sudan"
+   },
+   {
+    "cityName": "Sudan",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sudan"
+   },
+   {
+    "cityName": "Swaziland",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Swaziland"
+   },
+   {
+    "cityName": "Tanzania",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tanzania"
+   },
+   {
+    "cityName": "Togo",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Togo"
+   },
+   {
+    "cityName": "Tunisia",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Tunisia"
+   },
+   {
+    "cityName": "Madeira",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Madeira"
+   },
+   {
+    "cityName": "Mayotte",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Mayotte"
+   },
+   {
+    "cityName": "Western Sahara",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Western_Sahara"
+   }
+  ]
+ ]
+}]

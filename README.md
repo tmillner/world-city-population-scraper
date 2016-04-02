@@ -1,5 +1,6 @@
 Crawler on wikipedia to get all 'cities' population data
-The scripts need to be processed in order *Script is WIP*
+1) In bash run `chmod +x ./run.sh`
+2) Execute `./run.sh`
 
 ### Alternative data sets
 - http://download.geonames.org/export/dump/

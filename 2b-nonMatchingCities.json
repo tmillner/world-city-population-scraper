@@ -7,140 +7,6 @@
  "cities": [
   [
    {
-    "cityName": "Eot",
-    "cityLink": "https://en.wikipedia.org/wiki/Eot_(island)"
-   },
-   {
-    "cityName": "Fala-Beguets",
-    "cityLink": "https://en.wikipedia.org/wiki/Fala-Beguets"
-   },
-   {
-    "cityName": "Fananu",
-    "cityLink": "https://en.wikipedia.org/wiki/Fananu"
-   },
-   {
-    "cityName": "Fefan",
-    "cityLink": "https://en.wikipedia.org/wiki/Fefan"
-   },
-   {
-    "cityName": "Kutu",
-    "cityLink": "https://en.wikipedia.org/wiki/Kutu_(island)"
-   },
-   {
-    "cityName": "Losap",
-    "cityLink": "https://en.wikipedia.org/wiki/Losap"
-   },
-   {
-    "cityName": "Lukunor",
-    "cityLink": "https://en.wikipedia.org/wiki/Lukunor"
-   },
-   {
-    "cityName": "Magur",
-    "cityLink": "https://en.wikipedia.org/wiki/Magur_(island)"
-   },
-   {
-    "cityName": "Moch",
-    "cityLink": "https://en.wikipedia.org/wiki/Moch"
-   },
-   {
-    "cityName": "Murilo",
-    "cityLink": "https://en.wikipedia.org/wiki/Murilo"
-   },
-   {
-    "cityName": "Nama",
-    "cityLink": "https://en.wikipedia.org/wiki/Nama_(island)"
-   },
-   {
-    "cityName": "Namoluk",
-    "cityLink": "https://en.wikipedia.org/wiki/Namoluk"
-   },
-   {
-    "cityName": "Nomwin",
-    "cityLink": "https://en.wikipedia.org/wiki/Nomwin"
-   },
-   {
-    "cityName": "Onari",
-    "cityLink": "https://en.wikipedia.org/wiki/Onari"
-   },
-   {
-    "cityName": "Oneop",
-    "cityLink": "https://en.wikipedia.org/wiki/Oneop"
-   },
-   {
-    "cityName": "Ono",
-    "cityLink": "https://en.wikipedia.org/wiki/Ono,_Chuuk"
-   },
-   {
-    "cityName": "Param",
-    "cityLink": "https://en.wikipedia.org/wiki/Param,_Chuuk"
-   },
-   {
-    "cityName": "Pis-Losap",
-    "cityLink": "https://en.wikipedia.org/wiki/Pis-Losap"
-   },
-   {
-    "cityName": "Pisaras",
-    "cityLink": "https://en.wikipedia.org/wiki/Pisaras"
-   },
-   {
-    "cityName": "Pulap",
-    "cityLink": "https://en.wikipedia.org/wiki/Pulap"
-   },
-   {
-    "cityName": "Pulusuk",
-    "cityLink": "https://en.wikipedia.org/wiki/Pulusuk"
-   },
-   {
-    "cityName": "Puluwat",
-    "cityLink": "https://en.wikipedia.org/wiki/Poluwat"
-   },
-   {
-    "cityName": "Romanum",
-    "cityLink": "https://en.wikipedia.org/wiki/Romanum_(island)"
-   },
-   {
-    "cityName": "Ruo",
-    "cityLink": "https://en.wikipedia.org/wiki/Ruo,_Micronesia"
-   },
-   {
-    "cityName": "Satawan",
-    "cityLink": "https://en.wikipedia.org/wiki/Satawan"
-   },
-   {
-    "cityName": "Ta",
-    "cityLink": "https://en.wikipedia.org/wiki/Ta_(island)"
-   },
-   {
-    "cityName": "Tamatam",
-    "cityLink": "https://en.wikipedia.org/wiki/Tamatam"
-   },
-   {
-    "cityName": "Tol",
-    "cityLink": "https://en.wikipedia.org/wiki/Tol_(island)"
-   },
-   {
-    "cityName": "Tonowas (Dublon)",
-    "cityLink": "https://en.wikipedia.org/wiki/Tonowas"
-   },
-   {
-    "cityName": "Tsis",
-    "cityLink": "https://en.wikipedia.org/wiki/Tsis"
-   },
-   {
-    "cityName": "Udot",
-    "cityLink": "https://en.wikipedia.org/wiki/Udot_(island)"
-   },
-   {
-    "cityName": "Ulul",
-    "cityLink": "https://en.wikipedia.org/wiki/Ulul"
-   },
-   {
-    "cityName": "Uman",
-    "cityLink": "https://en.wikipedia.org/wiki/Uman_Island"
-   }
-  ],
-  [
-   {
     "cityName": "v",
     "cityLink": "https://en.wikipedia.org/wiki/Template:Oceania_topic"
    },
@@ -367,356 +233,6 @@
    {
     "cityName": "Tuvalu",
     "cityLink": "https://en.wikipedia.org/wiki/List_of_islands_of_Tuvalu"
-   }
-  ]
- ]
-},{
- "country": "Belarus",
- "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Belarus",
- "cityColumnIndex": -1,
- "populationCensusDate": "2010",
- "populationCensusDateColumnIndex": 6,
- "cities": [
-  [
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Belarus_topics"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Belarus_topics"
-   },
-   {
-    "cityName": "Kievan Rus'",
-    "cityLink": "https://en.wikipedia.org/wiki/Kievan_Rus%27"
-   },
-   {
-    "cityName": "Principality of Polotsk",
-    "cityLink": "https://en.wikipedia.org/wiki/Principality_of_Polotsk"
-   },
-   {
-    "cityName": "Grand Duchy of Lithuania",
-    "cityLink": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania"
-   },
-   {
-    "cityName": "Polish–Lithuanian Commonwealth",
-    "cityLink": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth"
-   },
-   {
-    "cityName": "Russian Empire",
-    "cityLink": "https://en.wikipedia.org/wiki/Russian_Empire"
-   },
-   {
-    "cityName": "Belarus National Republic",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_People%27s_Republic"
-   },
-   {
-    "cityName": "Byelorussian Soviet Socialist Republic",
-    "cityLink": "https://en.wikipedia.org/wiki/Byelorussian_Soviet_Socialist_Republic"
-   },
-   {
-    "cityName": "Republic of Belarus",
-    "cityLink": "https://en.wikipedia.org/wiki/History_of_Belarus#Republic_of_Belarus"
-   },
-   {
-    "cityName": "Protected areas",
-    "cityLink": "https://en.wikipedia.org/wiki/Protected_areas_of_Belarus"
-   },
-   {
-    "cityName": "Biosphere Reserves",
-    "cityLink": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves_in_Europe_and_North_America#Belarus"
-   },
-   {
-    "cityName": "National parks",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_national_parks_of_Belarus"
-   },
-   {
-    "cityName": "Rivers",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_rivers_of_Belarus"
-   },
-   {
-    "cityName": "Constitution",
-    "cityLink": "https://en.wikipedia.org/wiki/Constitution_of_Belarus"
-   },
-   {
-    "cityName": "Elections",
-    "cityLink": "https://en.wikipedia.org/wiki/Elections_in_Belarus"
-   },
-   {
-    "cityName": "Foreign relations",
-    "cityLink": "https://en.wikipedia.org/wiki/Foreign_relations_of_Belarus"
-   },
-   {
-    "cityName": "Government",
-    "cityLink": "https://en.wikipedia.org/wiki/Government_of_Belarus"
-   },
-   {
-    "cityName": "Human rights",
-    "cityLink": "https://en.wikipedia.org/wiki/Human_rights_in_Belarus"
-   },
-   {
-    "cityName": "Law enforcement",
-    "cityLink": "https://en.wikipedia.org/wiki/Law_enforcement_in_Belarus"
-   },
-   {
-    "cityName": "LGBT history",
-    "cityLink": "https://en.wikipedia.org/wiki/LGBT_history_in_Belarus"
-   },
-   {
-    "cityName": "Military",
-    "cityLink": "https://en.wikipedia.org/wiki/Armed_Forces_of_Belarus"
-   },
-   {
-    "cityName": "Parliament",
-    "cityLink": "https://en.wikipedia.org/wiki/National_Assembly_of_Belarus"
-   },
-   {
-    "cityName": "Political parties",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Belarus"
-   },
-   {
-    "cityName": "President",
-    "cityLink": "https://en.wikipedia.org/wiki/President_of_Belarus"
-   },
-   {
-    "cityName": "Prime Minister",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_Prime_Ministers_of_Belarus"
-   },
-   {
-    "cityName": "Union of Russia and Belarus",
-    "cityLink": "https://en.wikipedia.org/wiki/Union_State"
-   },
-   {
-    "cityName": "Agriculture",
-    "cityLink": "https://en.wikipedia.org/wiki/Agriculture_in_Belarus"
-   },
-   {
-    "cityName": "Central bank",
-    "cityLink": "https://en.wikipedia.org/wiki/National_Bank_of_the_Republic_of_Belarus"
-   },
-   {
-    "cityName": "Belarusian ruble",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_ruble"
-   },
-   {
-    "cityName": "Telecommunications",
-    "cityLink": "https://en.wikipedia.org/wiki/Telecommunications_in_Belarus"
-   },
-   {
-    "cityName": "Currency",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_ruble"
-   },
-   {
-    "cityName": "Energy",
-    "cityLink": "https://en.wikipedia.org/wiki/Energy_in_Belarus"
-   },
-   {
-    "cityName": "Stock exchange",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_Currency_and_Stock_Exchange"
-   },
-   {
-    "cityName": "Transport",
-    "cityLink": "https://en.wikipedia.org/wiki/Transport_in_Belarus"
-   },
-   {
-    "cityName": "Demographics",
-    "cityLink": "https://en.wikipedia.org/wiki/Demographics_of_Belarus"
-   },
-   {
-    "cityName": "Belarusians",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusians"
-   },
-   {
-    "cityName": "Education",
-    "cityLink": "https://en.wikipedia.org/wiki/Education_in_Belarus"
-   },
-   {
-    "cityName": "Healthcare",
-    "cityLink": "https://en.wikipedia.org/wiki/Healthcare_in_Belarus"
-   },
-   {
-    "cityName": "Language",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
-   },
-   {
-    "cityName": "Religion",
-    "cityLink": "https://en.wikipedia.org/wiki/Religion_in_Belarus"
-   },
-   {
-    "cityName": "Awards and decorations",
-    "cityLink": "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Belarus"
-   },
-   {
-    "cityName": "Belarusian names",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_name"
-   },
-   {
-    "cityName": "Cuisine",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_cuisine"
-   },
-   {
-    "cityName": "Languages",
-    "cityLink": "https://en.wikipedia.org/wiki/Languages_of_Belarus"
-   },
-   {
-    "cityName": "Literature",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_literature"
-   },
-   {
-    "cityName": "Media",
-    "cityLink": "https://en.wikipedia.org/wiki/Telecommunications_in_Belarus"
-   },
-   {
-    "cityName": "Music",
-    "cityLink": "https://en.wikipedia.org/wiki/Music_of_Belarus"
-   },
-   {
-    "cityName": "National symbols",
-    "cityLink": "https://en.wikipedia.org/wiki/National_symbols_of_Belarus"
-   },
-   {
-    "cityName": "Public holidays",
-    "cityLink": "https://en.wikipedia.org/wiki/Public_holidays_in_Belarus"
-   },
-   {
-    "cityName": "Outline",
-    "cityLink": "https://en.wikipedia.org/wiki/Outline_of_Belarus"
-   },
-   {
-    "cityName": "Book",
-    "cityLink": "https://en.wikipedia.org/wiki/Book:Belarus"
-   },
-   {
-    "cityName": "Category",
-    "cityLink": "https://en.wikipedia.org/wiki/Category:Belarus"
-   },
-   {
-    "cityName": "Portal",
-    "cityLink": "https://en.wikipedia.org/wiki/Portal:Belarus"
-   },
-   {
-    "cityName": "WikiProject",
-    "cityLink": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Belarus"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:List_of_cities_in_Europe"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:List_of_cities_in_Europe"
-   },
-   {
-    "cityName": "Albania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Albania"
-   },
-   {
-    "cityName": "Andorra",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Andorra"
-   },
-   {
-    "cityName": "Azerbaijan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Azerbaijan"
-   },
-   {
-    "cityName": "Belgium",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Belgium"
-   },
-   {
-    "cityName": "Bosnia and Herzegovina",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Bosnia_and_Herzegovina"
-   },
-   {
-    "cityName": "Greece",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Greece"
-   },
-   {
-    "cityName": "Italy",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Italy"
-   },
-   {
-    "cityName": "Kazakhstan",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kazakhstan"
-   },
-   {
-    "cityName": "Lithuania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Lithuania"
-   },
-   {
-    "cityName": "Macedonia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_Macedonia"
-   },
-   {
-    "cityName": "Malta",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Malta"
-   },
-   {
-    "cityName": "Moldova",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Moldova"
-   },
-   {
-    "cityName": "Montenegro",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Montenegro"
-   },
-   {
-    "cityName": "Portugal",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Portugal"
-   },
-   {
-    "cityName": "Serbia",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Serbia"
-   },
-   {
-    "cityName": "Sweden",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sweden"
-   },
-   {
-    "cityName": "Switzerland",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Switzerland"
-   },
-   {
-    "cityName": "Turkey",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Turkey"
-   },
-   {
-    "cityName": "Ukraine",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ukraine"
-   },
-   {
-    "cityName": "United Kingdom",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_United_Kingdom"
-   },
-   {
-    "cityName": "Kosovo",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kosovo"
-   },
-   {
-    "cityName": "v",
-    "cityLink": "https://en.wikipedia.org/wiki/Template:Europe_topic"
-   },
-   {
-    "cityName": "t",
-    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Europe_topic"
-   },
-   {
-    "cityName": "Lithuania",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Lithuania"
-   },
-   {
-    "cityName": "Luxembourg",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Luxembourg"
-   },
-   {
-    "cityName": "Portugal",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Portugal"
-   },
-   {
-    "cityName": "United Kingdom",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_the_United_Kingdom"
-   },
-   {
-    "cityName": "Faroe Islands",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_the_Faroe_Islands"
    }
   ]
  ]
@@ -1216,4 +732,433 @@
    }
   ]
  ]
-}]
+},{
+ "country": "Belarus",
+ "link": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Belarus",
+ "cityColumnIndex": -1,
+ "populationCensusDate": "2010",
+ "populationCensusDateColumnIndex": 6,
+ "cities": [
+  [
+   {
+    "cityName": "Belarusian",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
+   },
+   {
+    "cityName": "Russian",
+    "cityLink": "https://en.wikipedia.org/wiki/Russian_language"
+   },
+   {
+    "cityName": "Belarusian",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
+   },
+   {
+    "cityName": "Russian",
+    "cityLink": "https://en.wikipedia.org/wiki/Russian_language"
+   },
+   {
+    "cityName": "Belarusian",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
+   },
+   {
+    "cityName": "Russian",
+    "cityLink": "https://en.wikipedia.org/wiki/Russian_language"
+   },
+   {
+    "cityName": "Belarusian",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
+   },
+   {
+    "cityName": "Belarusian",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
+   },
+   {
+    "cityName": "Russian",
+    "cityLink": "https://en.wikipedia.org/wiki/Russian_language"
+   },
+   {
+    "cityName": "Belarusian",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
+   },
+   {
+    "cityName": "Russian",
+    "cityLink": "https://en.wikipedia.org/wiki/Russian_language"
+   },
+   {
+    "cityName": "Belarusian",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
+   },
+   {
+    "cityName": "Russian",
+    "cityLink": "https://en.wikipedia.org/wiki/Russian_language"
+   },
+   {
+    "cityName": "Belarusian",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
+   },
+   {
+    "cityName": "Russian",
+    "cityLink": "https://en.wikipedia.org/wiki/Russian_language"
+   },
+   {
+    "cityName": "Towns of Belarus",
+    "cityLink": "https://en.wikipedia.org/wiki/Towns_of_Belarus"
+   },
+   {
+    "cityName": "Instruction on transliteration of Belarusian geographical names with letters of Latin script",
+    "cityLink": "https://en.wikipedia.org/wiki/Instruction_on_transliteration_of_Belarusian_geographical_names_with_letters_of_Latin_script"
+   },
+   {
+    "cityName": "Names of Belarusian places in other languages",
+    "cityLink": "https://en.wikipedia.org/wiki/Names_of_Belarusian_places_in_other_languages"
+   },
+   {
+    "cityName": "List of renamed cities in Belarus",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_renamed_cities_in_Belarus"
+   }
+  ],
+  [
+   {
+    "cityName": "v",
+    "cityLink": "https://en.wikipedia.org/wiki/Template:Belarus_topics"
+   },
+   {
+    "cityName": "t",
+    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Belarus_topics"
+   },
+   {
+    "cityName": "Kievan Rus'",
+    "cityLink": "https://en.wikipedia.org/wiki/Kievan_Rus%27"
+   },
+   {
+    "cityName": "Principality of Polotsk",
+    "cityLink": "https://en.wikipedia.org/wiki/Principality_of_Polotsk"
+   },
+   {
+    "cityName": "Grand Duchy of Lithuania",
+    "cityLink": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania"
+   },
+   {
+    "cityName": "Polish–Lithuanian Commonwealth",
+    "cityLink": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth"
+   },
+   {
+    "cityName": "Russian Empire",
+    "cityLink": "https://en.wikipedia.org/wiki/Russian_Empire"
+   },
+   {
+    "cityName": "Belarus National Republic",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_People%27s_Republic"
+   },
+   {
+    "cityName": "Byelorussian Soviet Socialist Republic",
+    "cityLink": "https://en.wikipedia.org/wiki/Byelorussian_Soviet_Socialist_Republic"
+   },
+   {
+    "cityName": "Republic of Belarus",
+    "cityLink": "https://en.wikipedia.org/wiki/History_of_Belarus#Republic_of_Belarus"
+   },
+   {
+    "cityName": "Protected areas",
+    "cityLink": "https://en.wikipedia.org/wiki/Protected_areas_of_Belarus"
+   },
+   {
+    "cityName": "Biosphere Reserves",
+    "cityLink": "https://en.wikipedia.org/wiki/World_Network_of_Biosphere_Reserves_in_Europe_and_North_America#Belarus"
+   },
+   {
+    "cityName": "National parks",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_national_parks_of_Belarus"
+   },
+   {
+    "cityName": "Rivers",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_rivers_of_Belarus"
+   },
+   {
+    "cityName": "Constitution",
+    "cityLink": "https://en.wikipedia.org/wiki/Constitution_of_Belarus"
+   },
+   {
+    "cityName": "Elections",
+    "cityLink": "https://en.wikipedia.org/wiki/Elections_in_Belarus"
+   },
+   {
+    "cityName": "Foreign relations",
+    "cityLink": "https://en.wikipedia.org/wiki/Foreign_relations_of_Belarus"
+   },
+   {
+    "cityName": "Government",
+    "cityLink": "https://en.wikipedia.org/wiki/Government_of_Belarus"
+   },
+   {
+    "cityName": "Human rights",
+    "cityLink": "https://en.wikipedia.org/wiki/Human_rights_in_Belarus"
+   },
+   {
+    "cityName": "Law enforcement",
+    "cityLink": "https://en.wikipedia.org/wiki/Law_enforcement_in_Belarus"
+   },
+   {
+    "cityName": "LGBT history",
+    "cityLink": "https://en.wikipedia.org/wiki/LGBT_history_in_Belarus"
+   },
+   {
+    "cityName": "Military",
+    "cityLink": "https://en.wikipedia.org/wiki/Armed_Forces_of_Belarus"
+   },
+   {
+    "cityName": "Parliament",
+    "cityLink": "https://en.wikipedia.org/wiki/National_Assembly_of_Belarus"
+   },
+   {
+    "cityName": "Political parties",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Belarus"
+   },
+   {
+    "cityName": "President",
+    "cityLink": "https://en.wikipedia.org/wiki/President_of_Belarus"
+   },
+   {
+    "cityName": "Prime Minister",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_Prime_Ministers_of_Belarus"
+   },
+   {
+    "cityName": "Union of Russia and Belarus",
+    "cityLink": "https://en.wikipedia.org/wiki/Union_State"
+   },
+   {
+    "cityName": "Agriculture",
+    "cityLink": "https://en.wikipedia.org/wiki/Agriculture_in_Belarus"
+   },
+   {
+    "cityName": "Central bank",
+    "cityLink": "https://en.wikipedia.org/wiki/National_Bank_of_the_Republic_of_Belarus"
+   },
+   {
+    "cityName": "Belarusian ruble",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_ruble"
+   },
+   {
+    "cityName": "Telecommunications",
+    "cityLink": "https://en.wikipedia.org/wiki/Telecommunications_in_Belarus"
+   },
+   {
+    "cityName": "Currency",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_ruble"
+   },
+   {
+    "cityName": "Energy",
+    "cityLink": "https://en.wikipedia.org/wiki/Energy_in_Belarus"
+   },
+   {
+    "cityName": "Stock exchange",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_Currency_and_Stock_Exchange"
+   },
+   {
+    "cityName": "Transport",
+    "cityLink": "https://en.wikipedia.org/wiki/Transport_in_Belarus"
+   },
+   {
+    "cityName": "Demographics",
+    "cityLink": "https://en.wikipedia.org/wiki/Demographics_of_Belarus"
+   },
+   {
+    "cityName": "Belarusians",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusians"
+   },
+   {
+    "cityName": "Education",
+    "cityLink": "https://en.wikipedia.org/wiki/Education_in_Belarus"
+   },
+   {
+    "cityName": "Healthcare",
+    "cityLink": "https://en.wikipedia.org/wiki/Healthcare_in_Belarus"
+   },
+   {
+    "cityName": "Language",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
+   },
+   {
+    "cityName": "Religion",
+    "cityLink": "https://en.wikipedia.org/wiki/Religion_in_Belarus"
+   },
+   {
+    "cityName": "Awards and decorations",
+    "cityLink": "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Belarus"
+   },
+   {
+    "cityName": "Belarusian names",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_name"
+   },
+   {
+    "cityName": "Cuisine",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_cuisine"
+   },
+   {
+    "cityName": "Languages",
+    "cityLink": "https://en.wikipedia.org/wiki/Languages_of_Belarus"
+   },
+   {
+    "cityName": "Literature",
+    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_literature"
+   },
+   {
+    "cityName": "Media",
+    "cityLink": "https://en.wikipedia.org/wiki/Telecommunications_in_Belarus"
+   },
+   {
+    "cityName": "Music",
+    "cityLink": "https://en.wikipedia.org/wiki/Music_of_Belarus"
+   },
+   {
+    "cityName": "National symbols",
+    "cityLink": "https://en.wikipedia.org/wiki/National_symbols_of_Belarus"
+   },
+   {
+    "cityName": "Public holidays",
+    "cityLink": "https://en.wikipedia.org/wiki/Public_holidays_in_Belarus"
+   },
+   {
+    "cityName": "Outline",
+    "cityLink": "https://en.wikipedia.org/wiki/Outline_of_Belarus"
+   },
+   {
+    "cityName": "Book",
+    "cityLink": "https://en.wikipedia.org/wiki/Book:Belarus"
+   },
+   {
+    "cityName": "Category",
+    "cityLink": "https://en.wikipedia.org/wiki/Category:Belarus"
+   },
+   {
+    "cityName": "Portal",
+    "cityLink": "https://en.wikipedia.org/wiki/Portal:Belarus"
+   },
+   {
+    "cityName": "WikiProject",
+    "cityLink": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Belarus"
+   },
+   {
+    "cityName": "v",
+    "cityLink": "https://en.wikipedia.org/wiki/Template:List_of_cities_in_Europe"
+   },
+   {
+    "cityName": "t",
+    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:List_of_cities_in_Europe"
+   },
+   {
+    "cityName": "Albania",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Albania"
+   },
+   {
+    "cityName": "Andorra",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Andorra"
+   },
+   {
+    "cityName": "Azerbaijan",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Azerbaijan"
+   },
+   {
+    "cityName": "Belgium",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Belgium"
+   },
+   {
+    "cityName": "Bosnia and Herzegovina",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Bosnia_and_Herzegovina"
+   },
+   {
+    "cityName": "Greece",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Greece"
+   },
+   {
+    "cityName": "Italy",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Italy"
+   },
+   {
+    "cityName": "Kazakhstan",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kazakhstan"
+   },
+   {
+    "cityName": "Lithuania",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Lithuania"
+   },
+   {
+    "cityName": "Macedonia",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_Macedonia"
+   },
+   {
+    "cityName": "Malta",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Malta"
+   },
+   {
+    "cityName": "Moldova",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Moldova"
+   },
+   {
+    "cityName": "Montenegro",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Montenegro"
+   },
+   {
+    "cityName": "Portugal",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Portugal"
+   },
+   {
+    "cityName": "Serbia",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Serbia"
+   },
+   {
+    "cityName": "Sweden",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Sweden"
+   },
+   {
+    "cityName": "Switzerland",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Switzerland"
+   },
+   {
+    "cityName": "Turkey",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Turkey"
+   },
+   {
+    "cityName": "Ukraine",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ukraine"
+   },
+   {
+    "cityName": "United Kingdom",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_the_United_Kingdom"
+   },
+   {
+    "cityName": "Kosovo",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Kosovo"
+   },
+   {
+    "cityName": "v",
+    "cityLink": "https://en.wikipedia.org/wiki/Template:Europe_topic"
+   },
+   {
+    "cityName": "t",
+    "cityLink": "https://en.wikipedia.org/wiki/Template_talk:Europe_topic"
+   },
+   {
+    "cityName": "Lithuania",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Lithuania"
+   },
+   {
+    "cityName": "Luxembourg",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Luxembourg"
+   },
+   {
+    "cityName": "Portugal",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_Portugal"
+   },
+   {
+    "cityName": "United Kingdom",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_the_United_Kingdom"
+   },
+   {
+    "cityName": "Faroe Islands",
+    "cityLink": "https://en.wikipedia.org/wiki/List_of_towns_in_the_Faroe_Islands"
+   }
+  ]
+ ]
+}
+]

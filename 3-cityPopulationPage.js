@@ -23,17 +23,19 @@ fs.readFile(inputFile, function(err, data) {
                 data: 'td:nth-of-type(1)'
               }])(function(err, geoData) {
                 if (geoData) {
+                  geoData.reverse();
                   var populationRow = geoData.find(function(element, index, array) {
                     return ((element.header && element.data) &&
+                      (element.header.toLowerCase().search("incorporat") === -1) &&
                       (element.header.toLowerCase().search("total") !== -1 ||
                       element.header.toLowerCase().search("city") !== -1 ||
                       element.header.toLowerCase().search("population") !== -1) &&
-                      element.data.match(/^[0-9\s,]+$/g));
+                      element.data.match(/^[0-9\s,]+(\s\(.*)?$/g));
                   });
                   console.log('populationRow check ' + JSON.stringify(populationRow));
                   if (populationRow !== undefined) {
                     var header = populationRow.header;
-                    var dataArr = populationRow.data.match(/^[0-9\s,]+$/g);
+                    var dataArr = populationRow.data.match(/[0-9\s,]+/g);
                     writeCitySet.population = dataArr[0]; // TO FIND LARGEST POP COMPATIBLE FOR US CITIES
                     fs.appendFile(OUTPUT_FILE, JSON.stringify(writeCitySet, null, " "));
                   }

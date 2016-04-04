@@ -245,28 +245,6 @@
  "cities": [
   [
    {
-    "cityName": "a",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana#cite_ref-Ghana_Statistical_Service_1-0"
-   },
-   {
-    "cityName": "b",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana#cite_ref-Ghana_Statistical_Service_1-1"
-   },
-   {
-    "cityName": "c",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana#cite_ref-Ghana_Statistical_Service_1-2"
-   },
-   {
-    "cityName": "a",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana#cite_ref-World_Gazetteer_2-0"
-   },
-   {
-    "cityName": "b",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_cities_in_Ghana#cite_ref-World_Gazetteer_2-1"
-   }
-  ],
-  [
-   {
     "cityName": "v",
     "cityLink": "https://en.wikipedia.org/wiki/Template:Ghana_topics"
    },
@@ -739,84 +717,6 @@
  "populationCensusDate": "2010",
  "populationCensusDateColumnIndex": 6,
  "cities": [
-  [
-   {
-    "cityName": "Belarusian",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
-   },
-   {
-    "cityName": "Russian",
-    "cityLink": "https://en.wikipedia.org/wiki/Russian_language"
-   },
-   {
-    "cityName": "Belarusian",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
-   },
-   {
-    "cityName": "Russian",
-    "cityLink": "https://en.wikipedia.org/wiki/Russian_language"
-   },
-   {
-    "cityName": "Belarusian",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
-   },
-   {
-    "cityName": "Russian",
-    "cityLink": "https://en.wikipedia.org/wiki/Russian_language"
-   },
-   {
-    "cityName": "Belarusian",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
-   },
-   {
-    "cityName": "Belarusian",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
-   },
-   {
-    "cityName": "Russian",
-    "cityLink": "https://en.wikipedia.org/wiki/Russian_language"
-   },
-   {
-    "cityName": "Belarusian",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
-   },
-   {
-    "cityName": "Russian",
-    "cityLink": "https://en.wikipedia.org/wiki/Russian_language"
-   },
-   {
-    "cityName": "Belarusian",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
-   },
-   {
-    "cityName": "Russian",
-    "cityLink": "https://en.wikipedia.org/wiki/Russian_language"
-   },
-   {
-    "cityName": "Belarusian",
-    "cityLink": "https://en.wikipedia.org/wiki/Belarusian_language"
-   },
-   {
-    "cityName": "Russian",
-    "cityLink": "https://en.wikipedia.org/wiki/Russian_language"
-   },
-   {
-    "cityName": "Towns of Belarus",
-    "cityLink": "https://en.wikipedia.org/wiki/Towns_of_Belarus"
-   },
-   {
-    "cityName": "Instruction on transliteration of Belarusian geographical names with letters of Latin script",
-    "cityLink": "https://en.wikipedia.org/wiki/Instruction_on_transliteration_of_Belarusian_geographical_names_with_letters_of_Latin_script"
-   },
-   {
-    "cityName": "Names of Belarusian places in other languages",
-    "cityLink": "https://en.wikipedia.org/wiki/Names_of_Belarusian_places_in_other_languages"
-   },
-   {
-    "cityName": "List of renamed cities in Belarus",
-    "cityLink": "https://en.wikipedia.org/wiki/List_of_renamed_cities_in_Belarus"
-   }
-  ],
   [
    {
     "cityName": "v",
